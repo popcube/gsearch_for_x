@@ -2,11 +2,25 @@ import csv
 from datetime import datetime, timezone, timedelta
 import re
 
+weekday_dict = {
+  0: "日",
+  1: "月",
+  2: "火",
+  3: "水",
+  4: "木",
+  5: "金",
+  6: "土"
+}
+
+# format change from ISO YYYY-mm-ddTHH:MM:SS to mm/dd（曜日） HH:MM
+def datetime_str_ja(iso_str):
+  dt_temp = datetime.fromisoformat(iso_str)
+  return dt_temp.strftime("%m/%d（") + weekday_dict[dt_temp.weekday()] + dt_temp.strftime("） %H:%M")
+  
+
 def decorate_row(row):
   
-  # format change from YYYY-mm-ddTHH:MM:SS to mm/dd HH:MM
-  # line break between date and time for visibility
-  row_0_txt = datetime.fromisoformat(row[0]).strftime("%m/%d %H:%M")
+  row_0_txt = datetime_str_ja(row[0])
   row_0_url = f'https://twitter.com/pj_sekai/status/{row[1]}'
   row_0 = f'[{row_0_txt}]({row_0_url})'
   
@@ -17,13 +31,11 @@ def decorate_row(row):
   # row_2 = re.sub(r"\s+", " ", row_2)
   
   # return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row_2}"
-  return f"\n---\n\n**DATE**: {row_0}"
+  return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row[2][:5]}"
 
 def decorate_row_widget(row):
-  
-  # format change from YYYY-mm-ddTHH:MM:SS to mm/dd HH:MM
-  # line break between date and time for visibility
-  row_0_txt = datetime.fromisoformat(row[0]).strftime("%m/%d %H:%M")
+
+  row_0_txt = datetime_str_ja(row[0])
   row_0_url = f'https://twitter.com/pj_sekai/status/{row[1]}'
   # row_0 = f'[{row_0_txt}]({row_0_url})'
   
