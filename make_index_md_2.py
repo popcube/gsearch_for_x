@@ -31,7 +31,7 @@ def decorate_row(row):
   # row_2 = re.sub(r"\s+", " ", row_2)
   
   # return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row_2}"
-  return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row[2][:5]}"
+  return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row[2][:5]}..."
 
 def decorate_row_widget(row):
 
@@ -61,11 +61,11 @@ def main():
   ) as f:
     reader = csv.reader(f)
     
+    # skip csv header
+    next(reader)
+    
     for i, row in enumerate(reader):
-      # skip header row
-      if i == 0:
-        continue
-      elif i <= 5:
+      if i < 5:
         res.append(decorate_row_widget(row))
       else:
         res.append(decorate_row(row))
