@@ -35,45 +35,59 @@ def date_convert(in_str, start=False, end=False):
 
 
 def get_event_table():
-    pjsekai_res = requests.get("https://pjsekai.com/?2d384281f1")
-    if pjsekai_res.ok:
+    try:
+        pjsekai_res = requests.get("https://pjsekai.com/?2d384281f1")
+        if pjsekai_res.ok:
 
-        a = pd.read_html(pjsekai_res.content, index_col='No', encoding="utf-8",
-                        attrs={"id": "sortable_table1"})[0]
-        # default columns belown
-        # No, 週目, イベント名, 形式, ユニット, タイプ, 書き下ろし楽曲, 開始日, 終了日, 日数, 参加人数
-        
-        a["ユニット"] = a["ユニット"].apply(unit_name_convert)
-        a["開始日"] = a["開始日"].apply(date_convert, start=True)
-        a["終了日"] = a["終了日"].apply(date_convert, end=True)
-        
-        # one event started with delay due to extended maintenance
-        a.loc[120, "開始日"] = datetime(2024, 1, 31, 20)
-        
-        # a.to_csv("./event_data.csv", index=False, header=False)
-        return a
+            a = pd.read_html(pjsekai_res.content, index_col='No', encoding="utf-8",
+                            attrs={"id": "sortable_table1"})[0]
+            # default columns belown
+            # No, 週目, イベント名, 形式, ユニット, タイプ, 書き下ろし楽曲, 開始日, 終了日, 日数, 参加人数
+            
+            # a["ユニット"] = a["ユニット"].apply(unit_name_convert)
+            a["開始日"] = a["開始日"].apply(date_convert, start=True)
+            a["終了日"] = a["終了日"].apply(date_convert, end=True)
+            
+            # one event started with delay due to extended maintenance
+            a.loc[120, "開始日"] = datetime(2024, 1, 31, 20)
+            
+            # a.to_csv("./event_data.csv", index=False, header=False)
+            return a
+        else:
+            raise ValueError("status code: " + str(pjsekai_res.status_code))
+    except Exception as e:
+        print("ERROR at fetchig event table")
+        print(e)
+        return pd.DataFrame(columns=["開始日", "終了日", "イベント名"])
 
 
 def get_stream_table():
-    pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f")
-    if pjsekai_res.ok:
-        a = pd.read_html(pjsekai_res.content, 
-                     encoding="utf-8",
-                     attrs={"border": "0", "cellspacing": "1", "class": "style_table"})
-        # print(a[0])
+    try:
+        pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f")
+        if pjsekai_res.ok:
+            a = pd.read_html(pjsekai_res.content, 
+                        encoding="utf-8",
+                        attrs={"border": "0", "cellspacing": "1", "class": "style_table"})
+            # print(a[0])
 
-        a_temp = a[0][["No", "配信日時"]]
-        a_temp.columns = ["No", "配信日時"]
-        # print(a_temp)
-        a_temp = a_temp.drop_duplicates(ignore_index=True)
+            a_temp = a[0][["No", "配信日時"]]
+            a_temp.columns = ["No", "配信日時"]
+            # print(a_temp)
+            a_temp = a_temp.drop_duplicates(ignore_index=True)
 
-        # convert Japanese datetime string to datetime object
-        a_temp["配信日時"] = a_temp["配信日時"].apply(
-            lambda x: datetime.strptime(x[:x.index("(")], "%Y/%m/%d"))
-        a_temp.loc[:, "No"] = a_temp["No"].apply(lambda x: "プロセカ放送局 " + x)
+            # convert Japanese datetime string to datetime object
+            a_temp["配信日時"] = a_temp["配信日時"].apply(
+                lambda x: datetime.strptime(x[:x.index("(")] + x[x.index(")")+1:], "%Y/%m/%d %H時%M分"))
+            a_temp.loc[:, "No"] = a_temp["No"].apply(lambda x: "プロセカ放送局 " + x)
 
-        # Be careful that No column includes the description of the stream
-        return a
+            # Be careful that No column includes the description of the stream
+            return a_temp
+        else:
+            raise ValueError("status code: " + str(pjsekai_res.status_code))
+    except Exception as e:
+        print("ERROR at fetchig stream table")
+        print(e)
+        return pd.DataFrame(columns=["No", "配信日時"])
 
 test_table = get_stream_table()
 # print(test_table)
