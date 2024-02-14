@@ -35,7 +35,7 @@ def decorate_row_widget(row):
   return entry_format(row["POST DATE"], "\n<br>\n" + row_2)
 
 def decorate_supplement(row):
-  return entry_format(row.iat[0], " **「" + row.iat[1] + "」**")
+  return entry_format(row.iat[0], " 「**" + row.iat[1] + "**」")
   # print(row)
   # sys.exit(19)
   
