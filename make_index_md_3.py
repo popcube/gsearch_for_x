@@ -72,11 +72,11 @@ def main():
   event_start_table = event_table[["開始日", "イベント名"]]
   event_start_table["text"] = event_start_table.apply(decorate_supplement, axis='columns')
   event_start_table.set_index("開始日", inplace=True)
-  event_start_table.loc[:, "text"] = event_start_table["text"].apply(lambda x: x + " 開始")
+  event_start_table.loc[:, "text"] = event_start_table["text"].apply(lambda x: "イベント " + x + " 開始")
   event_end_table = event_table[["終了日", "イベント名"]]
   event_end_table["text"] = event_end_table.apply(decorate_supplement, axis='columns')
   event_end_table.set_index("終了日", inplace=True)
-  event_end_table.loc[:, "text"] = event_end_table["text"].apply(lambda x: x + " 終了")
+  event_end_table.loc[:, "text"] = event_end_table["text"].apply(lambda x: "イベント " + x + " 終了")
   
   stream_table = stream_table[["配信日時", "No"]]
   stream_table["text"] = stream_table.apply(decorate_supplement, axis='columns')
