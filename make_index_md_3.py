@@ -1,6 +1,6 @@
 import csv, sys
 from datetime import datetime, timezone, timedelta
-# import re
+import re
 import pandas as pd
 from get_event_table import get_event_table, get_stream_table
 
@@ -21,6 +21,13 @@ def decorate_row(row):
   # row_2 = re.sub(r"(https?://[^\s]+)(?=\s|$)", r"[LINK](\1)", row[2])
   # # replace all consecutive whitespace and line break to single whitespace
   # row_2 = re.sub(r"\s+", " ", row_2)
+  
+  # extract the words that start with #
+  # /b is the boundary of words
+  row_tags = re.findall(r"#プロセカ\b|(#[^\s]+\b)", row["BODY TEXT"])
+  if len(row_tags) > 0:
+    # filter out the empty strings
+    row_2 += "\n" + " ".join(filter(None, row_tags))
   
   # return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row_2}"
   return entry_format(row["POST DATE"], "\n<br>\n" + row_2)
