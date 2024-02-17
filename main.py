@@ -38,8 +38,8 @@ def get_search_response(days, keyword, max_page, ex_urls):
         q=keyword,
         # siteSearch=" ".join(ex_urls),
         # siteSearchFilter='e',
-        highRange='20240124',
-        lowRange='20240123',
+        highRange='200',
+        lowRange='100',
         dateRestrict=f'd{days}',
         sort='socialmediaposting-datepublished',
         start=start_index
