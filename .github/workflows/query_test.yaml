@@ -37,7 +37,7 @@ jobs:
           
       - name: main
         id: main
-        run: python main_2.py
+        run: python main.py
 
       - name: upload out.json
         uses: actions/upload-artifact@v4

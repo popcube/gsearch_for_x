@@ -111,8 +111,8 @@ if __name__ == '__main__':
   ## define search query and parameters ##
   ########################################
   max_page = int(os.environ.get("MAX_PAGES", 1))
-  days = 1
-  keyword = "#プロセカ"
+  days = 50 # set the minimum day e.g. 1 when the data table is populated
+  keyword = "プロジェクトセカイ"
   base_url = "https://twitter.com/pj_sekai/status/"
   retention_days = 94
   ########################################
