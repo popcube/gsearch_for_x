@@ -112,7 +112,7 @@ if __name__ == '__main__':
   ########################################
   max_page = int(os.environ.get("MAX_PAGES", 1))
   days = 1
-  keyword = ""
+  keyword = "\n"
   base_url = "https://twitter.com/pj_sekai/status/"
   retention_days = 94
   ########################################
