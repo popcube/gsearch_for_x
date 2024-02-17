@@ -75,11 +75,11 @@ def main():
   stream_table = get_stream_table()
   
   event_start_table = event_table[["開始日", "イベント名"]].copy()
-  event_start_table.loc[:, "イベント名"] = event_start_table["イベント名"].apply(lambda x: "イベント「**" + x + "**」 開始")
+  event_start_table.loc[:, "イベント名"] = event_start_table["イベント名"].apply(lambda x: " イベント「**" + x + "**」 開始")
   event_start_table["text"] = event_start_table.apply(decorate_supplement, axis='columns')
   event_start_table.set_index("開始日", inplace=True)
   event_end_table = event_table[["終了日", "イベント名"]].copy()
-  event_end_table.loc[:, "イベント名"] = event_end_table["イベント名"].apply(lambda x: "イベント「**" + x + "**」 終了")
+  event_end_table.loc[:, "イベント名"] = event_end_table["イベント名"].apply(lambda x: " イベント「**" + x + "**」 終了")
   event_end_table["text"] = event_end_table.apply(decorate_supplement, axis='columns')
   event_end_table.set_index("終了日", inplace=True)
   
