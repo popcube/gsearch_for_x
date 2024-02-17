@@ -36,10 +36,10 @@ def get_search_response(days, keyword, max_page, ex_urls):
         cx=SEARCH_ENGINE_ID,
         num=10,
         q=keyword,
-        # siteSearch=" ".join(ex_urls),
-        # siteSearchFilter='e',
+        siteSearch=" ".join(ex_urls),
+        siteSearchFilter='e',
         dateRestrict=f'd{days}',
-        sort='socialmediaposting-datepublished' + ':r::20240125',
+        sort='socialmediaposting-datepublished', # + ':r:20240101:20240125' for date restriction but scarce results
         start=start_index
       ).execute())
       if "nextPage" in response[n_page]["queries"]:
@@ -111,10 +111,10 @@ if __name__ == '__main__':
   ## define search query and parameters ##
   ########################################
   max_page = int(os.environ.get("MAX_PAGES", 1))
-  days = 50 # set the minimum day e.g. 1 when the data table is populated
+  days = 1 # set the minimum day e.g. 1 when the data table is populated
   keyword = "プロジェクトセカイ"
   base_url = "https://twitter.com/pj_sekai/status/"
-  retention_days = 94
+  retention_days = 18
   ########################################
   
   cur_posts = get_current_data()
