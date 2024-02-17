@@ -22,9 +22,9 @@ def decorate_row(row):
   # # replace all consecutive whitespace and line break to single whitespace
   # row_2 = re.sub(r"\s+", " ", row_2)
   
-  # extract the words that start with #
-  # /b is the boundary of words
-  row_tags = re.findall(r"#プロセカ\b|(#[^\s]+\b)", row["BODY TEXT"])
+  # extract the strings that start with #
+  row_tags = re.findall(r"(?=\s|^)(#[^\s]+)(?=\s|$)", row["BODY TEXT"])
+  print(row_tags)
   if len(row_tags) > 0:
     # filter out the empty strings
     row_2 += "\n" + " ".join(filter(None, row_tags))
