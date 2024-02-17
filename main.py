@@ -38,10 +38,8 @@ def get_search_response(days, keyword, max_page, ex_urls):
         q=keyword,
         # siteSearch=" ".join(ex_urls),
         # siteSearchFilter='e',
-        highRange='200',
-        lowRange='100',
         dateRestrict=f'd{days}',
-        sort='socialmediaposting-datepublished',
+        sort='socialmediaposting-datepublished' + ':r::20240125',
         start=start_index
       ).execute())
       if "nextPage" in response[n_page]["queries"]:
