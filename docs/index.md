@@ -1,47 +1,125 @@
 
 ## プロセカX(旧Twitter) 投稿記録
-### 最終更新：2024/02/14 13:49
+### 最終更新：2024/02/17 12:23
 
+
+---
+
+**DATE**: 02/17（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1758689367189869011"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/17（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1758689231638036947"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/17（金） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1758687726201721089"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/17（金） 00:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1758507777813827633"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/17（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1758506519837184209"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/16（木） 21:00
+<br>
+[WEBラジ...](https://twitter.com/pj_sekai/status/1758461225820885363)
+
+---
+
+**DATE**: 02/16（木） 20:00
+<br>
+[📺WEBラ...](https://twitter.com/pj_sekai/status/1758446122438189368)
+
+---
+
+**DATE**: 02/16（木） 15:04
+<br>
+[本日15時...](https://twitter.com/pj_sekai/status/1758371869944914030)
+
+---
+
+**DATE**: 02/15（水） 18:00
+<br>
+[『それがあ...](https://twitter.com/pj_sekai/status/1758053539887345711)
+
+---
+
+**DATE**: 02/15（水） 15:03
+<br>
+[2月17日...](https://twitter.com/pj_sekai/status/1758009088410366460)
+
+---
+
+**DATE**: 02/15（水） 15:02
+<br>
+[🎤KAIT...](https://twitter.com/pj_sekai/status/1758008905408692573)
+
+---
+
+**DATE**: 02/15（水） 12:03
+<br>
+[2月16日...](https://twitter.com/pj_sekai/status/1757963926036422824)
+
+---
+
+**DATE**: 02/14（火） 18:08
+<br>
+[『それがあ...](https://twitter.com/pj_sekai/status/1757693251635794362)
 
 ---
 
 **DATE**: 02/14（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1757600558159155524"></a>
-</blockquote>
+[🍫バレンタ...](https://twitter.com/pj_sekai/status/1757600558159155524)
 
 ---
 
 **DATE**: 02/14（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1757419365941858626"></a>
-</blockquote>
+[💗🍫Hap...](https://twitter.com/pj_sekai/status/1757419365941858626)
 
 ---
 
 **DATE**: 02/13（月） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1757284784848671003"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1757284784848671003)
 
 ---
 
 **DATE**: 02/13（月） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1757284553864163654"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1757284553864163654)
 
 ---
 
 **DATE**: 02/12（日） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1756921074728477044"></a>
-</blockquote>
+[🍫バレンタ...](https://twitter.com/pj_sekai/status/1756921074728477044)
 
 ---
 
@@ -78,7 +156,7 @@
 **DATE**: 02/10（金） 15:01
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1756196682256322771)
-
+イベント 
 ---
 
 **DATE**: 02/10（金） 15:00 「**導く勇気、優しさを胸に**」 開始
@@ -190,7 +268,7 @@
 **DATE**: 02/08（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1755562122312847769)
-
+イベント 
 ---
 
 **DATE**: 02/08（水） 21:00 「**Take the Best Shot！**」 終了
@@ -338,7 +416,7 @@
 **DATE**: 01/31（火） 20:01
 <br>
 [本日20:...](https://twitter.com/pj_sekai/status/1752648353975001221)
-
+イベント 
 ---
 
 **DATE**: 01/31（火） 20:00 「**Take the Best Shot！**」 開始
@@ -492,7 +570,7 @@
 **DATE**: 01/29（日） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1751938246660018635)
-
+イベント 
 ---
 
 **DATE**: 01/29（日） 21:00 「**逆光のレンズフレア**」 終了
@@ -656,7 +734,7 @@
 **DATE**: 01/23（月） 15:06
 <br>
 [本日15:...](https://twitter.com/pj_sekai/status/1749675024456519888)
-
+イベント 
 ---
 
 **DATE**: 01/23（月） 15:00 「**逆光のレンズフレア**」 開始
@@ -738,7 +816,7 @@
 **DATE**: 01/22（日） 15:05
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1749312377974395197)
-
+イベント 
 ---
 
 **DATE**: 01/21（土） 21:00 「**BREAK DOWN THE WALL**」 終了
