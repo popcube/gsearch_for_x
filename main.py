@@ -36,8 +36,10 @@ def get_search_response(days, keyword, max_page, ex_urls):
         cx=SEARCH_ENGINE_ID,
         num=10,
         q=keyword,
-        siteSearch=" ".join(ex_urls),
-        siteSearchFilter='e',
+        # siteSearch=" ".join(ex_urls),
+        # siteSearchFilter='e',
+        highRange='20240124',
+        lowRange='20240123',
         dateRestrict=f'd{days}',
         sort='socialmediaposting-datepublished',
         start=start_index
