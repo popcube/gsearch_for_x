@@ -22,12 +22,10 @@ def decorate_row(row):
   # # replace all consecutive whitespace and line break to single whitespace
   # row_2 = re.sub(r"\s+", " ", row_2)
   
-  # extract the strings that start with #
-  row_tags = re.findall(r"(?=\s|^)(#[^\s]+)(?=\s|$)", row["BODY TEXT"])
-  print(row_tags)
+  # extract hashtags
+  row_tags = re.findall(r"\B#\w\w+\b", row["BODY TEXT"])
   if len(row_tags) > 0:
-    # filter out the empty strings
-    row_2 += "\n" + " ".join(filter(None, row_tags))
+    row_2 += "\n" + " ".join(tag for tag in row_tags if tag != "#プロセカ")
   
   # return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row_2}"
   return entry_format(row["POST DATE"], "\n<br>\n" + row_2)
