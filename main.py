@@ -143,11 +143,10 @@ if __name__ == '__main__':
   added_ids = [id for id in new_ids if id not in cur_ids]
   
   # when new post is detected
-  # if len(added_ids) > 0:
-  if True:
+  if len(added_ids) > 0:
     
-    # added_ids.sort(reverse=True)
-    # send_to_discord(added_ids)
+    added_ids.sort(reverse=True)
+    send_to_discord(added_ids)
     
     added_posts = []    
     

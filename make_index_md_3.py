@@ -96,7 +96,7 @@ def main():
   
   res_series.sort_index(inplace=True, ascending=False)
   
-  print(res_series)
+  # print(res_series)
   
   res += res_series.to_list()
   
