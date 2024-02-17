@@ -35,7 +35,7 @@ def decorate_row_widget(row):
   return entry_format(row["POST DATE"], "\n<br>\n" + row_2)
 
 def decorate_supplement(row):
-  return entry_format(row.iat[0], " 「**" + row.iat[1] + "**」")
+  return entry_format(row.iat[0], row.iat[1])
   # print(row)
   # sys.exit(19)
   
@@ -69,30 +69,31 @@ def main():
   event_table = get_event_table()
   stream_table = get_stream_table()
   
-  event_start_table = event_table[["開始日", "イベント名"]]
+  event_start_table = event_table[["開始日", "イベント名"]].copy()
+  event_start_table.loc[:, "イベント名"] = event_start_table["イベント名"].apply(lambda x: "イベント「**" + x + "**」 開始")
   event_start_table["text"] = event_start_table.apply(decorate_supplement, axis='columns')
   event_start_table.set_index("開始日", inplace=True)
-  event_start_table.loc[:, "text"] = event_start_table["text"].apply(lambda x: "イベント " + x + " 開始")
-  event_end_table = event_table[["終了日", "イベント名"]]
+  event_end_table = event_table[["終了日", "イベント名"]].copy()
+  event_end_table.loc[:, "イベント名"] = event_end_table["イベント名"].apply(lambda x: "イベント「**" + x + "**」 終了")
   event_end_table["text"] = event_end_table.apply(decorate_supplement, axis='columns')
   event_end_table.set_index("終了日", inplace=True)
-  event_end_table.loc[:, "text"] = event_end_table["text"].apply(lambda x: "イベント " + x + " 終了")
   
   stream_table = stream_table[["配信日時", "No"]]
+  stream_table["No"] = stream_table["No"].apply(lambda x: " 「**" + x + "**」 放送開始")
   stream_table["text"] = stream_table.apply(decorate_supplement, axis='columns')
   stream_table.set_index("配信日時", inplace=True)
-  stream_table.loc[:, "text"] = stream_table["text"].apply(lambda x: x + " 放送開始")
   
-  res_table = pd.concat([post_table, event_start_table, event_end_table, stream_table])
+  res_df = pd.concat([post_table, event_start_table, event_end_table, stream_table])
+  res_series = res_df["text"]
   
   # date cutoff
-  res_table = res_table[(latest_date >= res_table.index) & (res_table.index >= oldest_date)]
+  res_series = res_series[(latest_date >= res_series.index) & (res_series.index >= oldest_date)]
   
-  res_table.sort_index(inplace=True, ascending=False)
+  res_series.sort_index(inplace=True, ascending=False)
   
-  print(res_table)
+  print(res_series)
   
-  res += res_table["text"].to_list()
+  res += res_series.to_list()
   
   # res_table["text"].apply(lambda x: x.replace("\n", " ")).to_csv("testoutput.csv")
   
