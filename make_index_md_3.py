@@ -50,6 +50,7 @@ def main():
   res = []
   res.append("")
   res.append("## プロセカX(旧Twitter) 投稿記録")
+  res.append("当サイトは非公式です。プロセカ運営とは関係がありません。")
   res.append("### 最終更新：" + datetime.now(timezone(timedelta(hours=+9), 'JST')).strftime("%Y/%m/%d %H:%M"))
   res.append("")
   
