@@ -24,8 +24,9 @@ def decorate_row(row):
   
   # extract hashtags
   row_tags = re.findall(r"\B#\w\w+\b", row["BODY TEXT"])
-  if len(row_tags) > 0:
-    row_2 += "\n<br>\n" + " ".join(tag for tag in row_tags if tag != "#プロセカ")
+  row_tags_str = " ".join(tag for tag in row_tags if tag != "#プロセカ")
+  if len(row_tags_str) > 0:
+    row_2 += "\n<br>\n" + row_tags_str
   
   # return f"\n---\n\n**DATE**: {row_0}\n<br>\n{row_2}"
   return entry_format(row["POST DATE"], "\n<br>\n" + row_2)
