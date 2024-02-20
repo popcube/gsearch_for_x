@@ -4,7 +4,7 @@ import re
 import pandas as pd
 from get_event_table import get_event_table, get_stream_table
 
-weekday_ja = ["日", "月", "火", "水", "木", "金", "土"]
+weekday_ja = ["月", "火", "水", "木", "金", "土", "日"]
 
 def entry_format(in_dt, body):
   # format change from ISO YYYY-mm-ddTHH:MM:SS to mm/dd（曜日） HH:MM
