@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/02/20 15:36
+### 最終更新：2024/02/20 18:21
 
+
+---
+
+**DATE**: 02/20（火） 15:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1759820635717705918"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/20（火） 15:00 イベント「**刻まれた傷は、やがて**」 開始
 
 ---
 
@@ -40,9 +52,7 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1759775327042367772"></a>
-</blockquote>
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
