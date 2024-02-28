@@ -1,8 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/02/28 19:10
+### 最終更新：2024/02/28 20:08
 
+
+---
+
+**DATE**: 02/28（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1762787309769183459"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/28（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1762787270997033023"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/28（水） 19:30 「**プロセカ放送局 第5回**」 放送開始
 
 ---
 
@@ -32,17 +52,13 @@
 
 **DATE**: 02/28（水） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1762673982770135397"></a>
-</blockquote>
+[本日19:...](https://twitter.com/pj_sekai/status/1762673982770135397)
 
 ---
 
 **DATE**: 02/27（火） 22:40
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1762472737485054097"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1762472737485054097)
 
 ---
 
@@ -448,13 +464,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
