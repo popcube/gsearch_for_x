@@ -1,8 +1,44 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/02/29 15:27
+### 最終更新：2024/02/29 15:48
 
+
+---
+
+**DATE**: 02/29（木） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1763083922211324208"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/29（木） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1763083857488990252"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/29（木） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1763083500306272585"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/29（木） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1763083464797249978"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/29（木） 15:00 イベント「**リラックスティータイム**」 開始
 
 ---
 
@@ -16,33 +52,25 @@
 
 **DATE**: 02/29（木） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1763038336405671971"></a>
-</blockquote>
+[【あなたの...](https://twitter.com/pj_sekai/status/1763038336405671971)
 
 ---
 
 **DATE**: 02/29（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1763037839082786932"></a>
-</blockquote>
+[『戦の果て...](https://twitter.com/pj_sekai/status/1763037839082786932)
 
 ---
 
 **DATE**: 02/29（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1763037804941263346"></a>
-</blockquote>
+[【悩むふた...](https://twitter.com/pj_sekai/status/1763037804941263346)
 
 ---
 
 **DATE**: 02/29（木） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1763037457883467965"></a>
-</blockquote>
+[『戦の果て...](https://twitter.com/pj_sekai/status/1763037457883467965)
 
 ---
 
@@ -944,13 +972,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
