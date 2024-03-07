@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/07 15:27
+### 最終更新：2024/03/07 19:09
 
+
+---
+
+**DATE**: 03/07（木） 18:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1765670703607808481"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 03/04（月） 19:34
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1764600295433330805"></a>
-</blockquote>
+[💫Leo/...](https://twitter.com/pj_sekai/status/1764600295433330805)
 
 ---
 
@@ -870,13 +876,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
@@ -894,13 +900,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
