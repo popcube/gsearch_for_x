@@ -1,32 +1,66 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/07 19:09
+### 最終更新：2024/03/08 12:48
 
+
+---
+
+**DATE**: 03/08（金） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1765938025207611642"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/08（金） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1765937602719592662"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/08（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1765937209981714864"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/08（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1765937193711972373"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/08（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1765936825531797981"></a>
+</blockquote>
 
 ---
 
 **DATE**: 03/07（木） 18:27
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1765670703607808481"></a>
-</blockquote>
+[💫Leo/...](https://twitter.com/pj_sekai/status/1765670703607808481)
 
 ---
 
 **DATE**: 03/07（木） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1765618864149418492"></a>
-</blockquote>
+[明日、3月...](https://twitter.com/pj_sekai/status/1765618864149418492)
 
 ---
 
 **DATE**: 03/07（木） 12:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1765576314151718980"></a>
-</blockquote>
+[【重要なお...](https://twitter.com/pj_sekai/status/1765576314151718980)
 
 ---
 
@@ -36,17 +70,13 @@
 
 **DATE**: 03/06（水） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1765346591735525562"></a>
-</blockquote>
+[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
 
 ---
 
 **DATE**: 03/06（水） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1765211311049506959"></a>
-</blockquote>
+[💫Leo/...](https://twitter.com/pj_sekai/status/1765211311049506959)
 
 ---
 
@@ -900,13 +930,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
