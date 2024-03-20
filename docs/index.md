@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/20 15:38
+### 最終更新：2024/03/20 18:34
 
+
+---
+
+**DATE**: 03/20（水） 15:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1770332470656872766"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/20（水） 15:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1770332365556011071"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 03/19（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1769921739239428330"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1769921739239428330)
+<br>
+#セカイの4コマ #桃井愛莉誕生祭2024
 
 ---
 
 **DATE**: 03/19（火） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1769740794674774441"></a>
-</blockquote>
+[☘️桃井愛...](https://twitter.com/pj_sekai/status/1769740794674774441)
+<br>
+#桃井愛莉誕生祭2024
 
 ---
 
