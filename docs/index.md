@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/20 23:48
+### 最終更新：2024/03/21 01:12
 
 
 ---
@@ -15,6 +15,14 @@
 ---
 
 **DATE**: 03/20（水） 21:00 イベント「**星を目指して、ヨーソロー！**」 終了
+
+---
+
+**DATE**: 03/20（水） 20:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1770412582043877397"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 03/20（水） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1770332365556011071"></a>
-</blockquote>
+[📺番組冒頭...](https://twitter.com/pj_sekai/status/1770332365556011071)
 
 ---
 
