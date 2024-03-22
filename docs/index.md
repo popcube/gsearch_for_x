@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/22 16:09
+### 最終更新：2024/03/22 18:34
 
+
+---
+
+**DATE**: 03/22（金） 18:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1771100869045465546"></a>
+</blockquote>
 
 ---
 
@@ -22,6 +30,14 @@
 
 ---
 
+**DATE**: 03/22（金） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1771054970256949396"></a>
+</blockquote>
+
+---
+
 **DATE**: 03/22（金） 15:00 イベント「**The first concerto**」 開始
 
 ---
@@ -36,17 +52,13 @@
 
 **DATE**: 03/22（金） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1771011393132855355"></a>
-</blockquote>
+[【夜道を揺...](https://twitter.com/pj_sekai/status/1771011393132855355)
 
 ---
 
 **DATE**: 03/22（金） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1771010964412141577"></a>
-</blockquote>
+[『Root...](https://twitter.com/pj_sekai/status/1771010964412141577)
 
 ---
 
@@ -1716,13 +1728,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
