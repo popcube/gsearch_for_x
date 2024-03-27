@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/27 19:27
+### 最終更新：2024/03/27 20:08
 
+
+---
+
+**DATE**: 03/27（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772934133892710527"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 19:30 「**プロセカ放送局 3.5周年スペシャル**」 放送開始
 
 ---
 
@@ -40,9 +52,7 @@
 
 **DATE**: 03/25（月） 15:27
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772148245046706232"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1772148245046706232)
 
 ---
 
