@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/27 20:19
+### 最終更新：2024/03/27 20:48
 
+
+---
+
+**DATE**: 03/27（水） 20:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772948878473474128"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 20:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772942699110285634"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,15 @@
 
 **DATE**: 03/27（水） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772867583387000968"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1772867583387000968)
 
 ---
 
 **DATE**: 03/27（水） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772867555100598551"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1772867555100598551)
+<br>
+#レオニ
 
 ---
 
@@ -689,13 +703,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -1555,13 +1569,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
