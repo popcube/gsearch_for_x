@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/27 22:09
+### 最終更新：2024/03/27 22:23
 
+
+---
+
+**DATE**: 03/27（水） 21:24
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772962979476082820"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 21:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772962699216859179"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 21:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772962319699464572"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 21:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772961565114798095"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,33 @@
 
 **DATE**: 03/27（水） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772956752373223776"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1772956752373223776)
+<br>
+#プロセカ放送局 #プロセカWCS
 
 ---
 
 **DATE**: 03/27（水） 20:55
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772955591373135972"></a>
-</blockquote>
+[プロジェク...](https://twitter.com/pj_sekai/status/1772955591373135972)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 03/27（水） 20:55
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772955496049217594"></a>
-</blockquote>
+[プロジェク...](https://twitter.com/pj_sekai/status/1772955496049217594)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 03/27（水） 20:53
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772955008692081100"></a>
-</blockquote>
+[💫Leo/...](https://twitter.com/pj_sekai/status/1772955008692081100)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -97,6 +129,22 @@
 **DATE**: 03/27（水） 20:45
 <br>
 [3.5周年...](https://twitter.com/pj_sekai/status/1772953078850789723)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 03/27（水） 20:45
+<br>
+[3.5周年...](https://twitter.com/pj_sekai/status/1772952979278069781)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 03/27（水） 20:44
+<br>
+[3.5周年...](https://twitter.com/pj_sekai/status/1772952886760046853)
 <br>
 #プロセカ放送局
 
@@ -1751,13 +1799,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
