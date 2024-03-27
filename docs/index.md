@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/27 20:48
+### 最終更新：2024/03/27 21:16
 
+
+---
+
+**DATE**: 03/27（水） 20:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772953563141955627"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 20:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772951516673884232"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（水） 20:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1772951141803856328"></a>
+</blockquote>
 
 ---
 
@@ -24,17 +48,17 @@
 
 **DATE**: 03/27（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772934133892710527"></a>
-</blockquote>
+[ボカロミュ...](https://twitter.com/pj_sekai/status/1772934133892710527)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 03/27（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772934109662187535"></a>
-</blockquote>
+[🌈プロセカ...](https://twitter.com/pj_sekai/status/1772934109662187535)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -44,9 +68,7 @@
 
 **DATE**: 03/27（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1772911680810557813"></a>
-</blockquote>
+[19:30...](https://twitter.com/pj_sekai/status/1772911680810557813)
 
 ---
 
@@ -703,13 +725,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
+**DATE**: 03/06（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
 
 ---
 
@@ -1569,13 +1591,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
@@ -1833,13 +1855,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
