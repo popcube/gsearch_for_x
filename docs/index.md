@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/29 13:28
+### 最終更新：2024/03/29 15:12
 
+
+---
+
+**DATE**: 03/29（金） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773546640319684898"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/29（金） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773546493032501595"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 03/29（金） 11:29
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773537923608019095"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1773537923608019095)
 
 ---
 
 **DATE**: 03/28（木） 22:53
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773347715075764695"></a>
-</blockquote>
+[💿Vivi...](https://twitter.com/pj_sekai/status/1773347715075764695)
 
 ---
 
@@ -1331,13 +1343,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
+**DATE**: 03/06（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
 
 ---
 
