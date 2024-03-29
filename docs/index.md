@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/29 04:12
+### 最終更新：2024/03/29 12:08
 
+
+---
+
+**DATE**: 03/29（金） 11:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773538465839296694"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/29（金） 11:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773538413309804590"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/29（金） 11:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773537941798993958"></a>
+</blockquote>
 
 ---
 
@@ -24,17 +48,15 @@
 
 **DATE**: 03/28（木） 22:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773335860760687095"></a>
-</blockquote>
+[💿Vivi...](https://twitter.com/pj_sekai/status/1773335860760687095)
+<br>
+#ビビバス
 
 ---
 
 **DATE**: 03/28（木） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773319182060253558"></a>
-</blockquote>
+[本日22時...](https://twitter.com/pj_sekai/status/1773319182060253558)
 
 ---
 
@@ -44,9 +66,9 @@
 
 **DATE**: 03/28（木） 18:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773276719366963422"></a>
-</blockquote>
+[3月29日...](https://twitter.com/pj_sekai/status/1773276719366963422)
+<br>
+#プロセカアカデミー #プロセカアカデミー
 
 ---
 
@@ -1301,13 +1323,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -2143,13 +2165,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
