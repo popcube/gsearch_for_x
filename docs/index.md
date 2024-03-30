@@ -1,8 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/03/30 14:48
+### 最終更新：2024/03/30 16:09
 
+
+---
+
+**DATE**: 03/30（土） 15:14
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773956940462469176"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/30（土） 15:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1773956622681047270"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/30（土） 15:00 イベント「**Rise as ONE！**」 開始
 
 ---
 
@@ -32,17 +52,13 @@
 
 **DATE**: 03/30（土） 12:44
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773919204523319392"></a>
-</blockquote>
+[「3900...](https://twitter.com/pj_sekai/status/1773919204523319392)
 
 ---
 
 **DATE**: 03/30（土） 12:43
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1773918837282615727"></a>
-</blockquote>
+[【恐怖の追...](https://twitter.com/pj_sekai/status/1773918837282615727)
 
 ---
 
