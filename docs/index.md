@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/01 01:10
+### 最終更新：2024/04/01 04:13
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1774460393022533726"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（月） 00:34
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1774460141401784458"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（月） 00:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1774459889949024624"></a>
 </blockquote>
 
 ---
@@ -30,19 +46,45 @@
 
 ---
 
+**DATE**: 04/01（月） 00:30
+<br>
+[#エイプリ...](https://twitter.com/pj_sekai/status/1774459137138778360)
+<br>
+#エイプリルフール
+
+---
+
+**DATE**: 04/01（月） 00:10
+<br>
+[🎵公式Yo...](https://twitter.com/pj_sekai/status/1774454137889132546)
+<br>
+#エイプリルフール
+
+---
+
+**DATE**: 04/01（月） 00:09
+<br>
+[突然迷いこ...](https://twitter.com/pj_sekai/status/1774454018506735838)
+<br>
+#エイプリルフール
+
+---
+
+**DATE**: 03/31（日） 23:42
+<br>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1774447225521021336)
+
+---
+
 **DATE**: 03/31（日） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1774406376842023055"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1774406376842023055)
 
 ---
 
 **DATE**: 03/31（日） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1774316829458243620"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1774316829458243620)
 
 ---
 
@@ -1573,13 +1615,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -2439,13 +2481,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
