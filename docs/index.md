@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/01 11:23
+### 最終更新：2024/04/01 13:12
 
+
+---
+
+**DATE**: 04/01（月） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1774634062361354736"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（月） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1774634039552676116"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1774632791210414399"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,25 @@
 
 **DATE**: 04/01（月） 00:34
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1774460141401784458"></a>
-</blockquote>
+[#エイプリ...](https://twitter.com/pj_sekai/status/1774460141401784458)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（月） 00:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1774459889949024624"></a>
-</blockquote>
+[#エイプリ...](https://twitter.com/pj_sekai/status/1774459889949024624)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（月） 00:32
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1774459638303297741"></a>
-</blockquote>
+[#エイプリ...](https://twitter.com/pj_sekai/status/1774459638303297741)
+<br>
+#エイプリルフール
 
 ---
 
@@ -1623,13 +1647,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
+**DATE**: 03/06（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
 
 ---
 
@@ -2465,13 +2489,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
