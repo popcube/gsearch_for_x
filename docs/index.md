@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/08 19:48
+### 最終更新：2024/04/08 21:45
 
+
+---
+
+**DATE**: 04/08（月） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1777305397344244010"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/08（月） 21:00 イベント「**Rise as ONE！**」 終了
 
 ---
 
@@ -10,6 +22,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1777276189608231229"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/08（月） 18:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1777261028365287589"></a>
 </blockquote>
 
 ---
@@ -32,17 +52,13 @@
 
 **DATE**: 04/04（木） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1775766826087321741"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1775766826087321741)
 
 ---
 
 **DATE**: 04/04（木） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1775766720772530417"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1775766720772530417)
 
 ---
 
@@ -2633,13 +2649,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
@@ -2657,13 +2673,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
