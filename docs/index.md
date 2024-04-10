@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/10 12:10
+### 最終更新：2024/04/10 12:48
 
+
+---
+
+**DATE**: 04/10（水） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1777895730432364567"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/10（水） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1777895728331083780"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/10（水） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1777895576002244874"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/10（水） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1777895248179658938"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,33 @@
 
 **DATE**: 04/10（水） 11:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1777882635265773924"></a>
-</blockquote>
+[下記楽曲の...](https://twitter.com/pj_sekai/status/1777882635265773924)
 
 ---
 
 **DATE**: 04/10（水） 11:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1777882608279666702"></a>
-</blockquote>
+[【v3.4...](https://twitter.com/pj_sekai/status/1777882608279666702)
+
+---
+
+**DATE**: 04/10（水） 11:11
+<br>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1777882062017733051)
 
 ---
 
 **DATE**: 04/09（火） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1777622484965069122"></a>
-</blockquote>
+[『脱法ロッ...](https://twitter.com/pj_sekai/status/1777622484965069122)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 04/09（火） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1777577436202357110"></a>
-</blockquote>
+[明日、4月...](https://twitter.com/pj_sekai/status/1777577436202357110)
 
 ---
 
@@ -1849,13 +1881,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -2715,13 +2747,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
@@ -2979,13 +3011,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
