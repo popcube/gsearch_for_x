@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/12 20:48
+### 最終更新：2024/04/12 21:16
 
+
+---
+
+**DATE**: 04/12（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1778754947569590473"></a>
+</blockquote>
 
 ---
 
@@ -22,6 +30,14 @@
 
 ---
 
+**DATE**: 04/12（金） 18:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1778711759811199215"></a>
+</blockquote>
+
+---
+
 **DATE**: 04/12（金） 16:40
 <br>
 <blockquote class="twitter-tweet">
@@ -32,17 +48,13 @@
 
 **DATE**: 04/12（金） 16:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1778680533717008656"></a>
-</blockquote>
+[【不具合の...](https://twitter.com/pj_sekai/status/1778680533717008656)
 
 ---
 
 **DATE**: 04/12（金） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1778664766904631527"></a>
-</blockquote>
+[4月14日...](https://twitter.com/pj_sekai/status/1778664766904631527)
 
 ---
 
