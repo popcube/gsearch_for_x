@@ -1,48 +1,104 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/13 17:09
+### 最終更新：2024/04/13 17:48
 
+
+---
+
+**DATE**: 04/13（土） 17:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779067050599788638"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 17:34
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779065677946707982"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 17:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779065300954349725"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 17:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779062119855730708"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 17:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779058911783563743"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 16:54
+<br>
+[タレント部...](https://twitter.com/pj_sekai/status/1779055501965406649)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 16:43
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779052785755176967"></a>
-</blockquote>
+[🎮タレント...](https://twitter.com/pj_sekai/status/1779052785755176967)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 16:43
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779052662153187594"></a>
-</blockquote>
+[タレント部...](https://twitter.com/pj_sekai/status/1779052662153187594)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 16:39
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779051649274966252"></a>
-</blockquote>
+[タレント部...](https://twitter.com/pj_sekai/status/1779051649274966252)
+<br>
+#プロセカWCS
+
+---
+
+**DATE**: 04/13（土） 16:29
+<br>
+[🎮タレント...](https://twitter.com/pj_sekai/status/1779049290779984306)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 16:21
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779047247092891821"></a>
-</blockquote>
+[🎮タレント...](https://twitter.com/pj_sekai/status/1779047247092891821)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 15:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779034392901611541"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1779034392901611541)
+<br>
+#プロセカWCS
 
 ---
 
@@ -2065,13 +2121,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
