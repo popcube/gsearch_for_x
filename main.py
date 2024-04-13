@@ -182,7 +182,7 @@ if __name__ == '__main__':
       errors='ignore'
     ) as f:
       writer = csv.writer(f)
-      writer.writerows(post.replace("\n", " ") for post in posts)
+      writer.writerows([item.replace("\n", " ") for item in post] for post in posts)
     
     if len(GITHUB_OUTPUT) > 0:
       with open(GITHUB_OUTPUT, "a") as f:
