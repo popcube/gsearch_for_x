@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/13 20:18
+### 最終更新：2024/04/13 21:13
 
+
+---
+
+**DATE**: 04/13（土） 20:48
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779114334742011929"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 20:41
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779112565290959094"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 20:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779106094167756921"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,25 @@
 
 **DATE**: 04/13（土） 19:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779087335810126298"></a>
-</blockquote>
+[総合部門グ...](https://twitter.com/pj_sekai/status/1779087335810126298)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 18:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779079880950591828"></a>
-</blockquote>
+[総合部門グ...](https://twitter.com/pj_sekai/status/1779079880950591828)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 18:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1779077625740501415"></a>
-</blockquote>
+[総合部門グ...](https://twitter.com/pj_sekai/status/1779077625740501415)
+<br>
+#プロセカWCS
 
 ---
 
@@ -2209,13 +2233,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
+**DATE**: 03/06（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
 
 ---
 
