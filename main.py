@@ -175,6 +175,14 @@ if __name__ == '__main__':
     
     make_index_md()
     
+    with open(
+      "./sorted_data_viewer.csv", "w",
+      encoding='utf-8',
+      errors='ignore'
+    ) as f:
+      writer = csv.writer(f)
+      writer.writerows(post.replace("\n", " ") for post in posts)
+    
     if len(GITHUB_OUTPUT) > 0:
       with open(GITHUB_OUTPUT, "a") as f:
         f.write("CHANGE=YES\n")
