@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/13 15:48
+### 最終更新：2024/04/13 17:09
 
+
+---
+
+**DATE**: 04/13（土） 16:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779052785755176967"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 16:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779052662153187594"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 16:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779051649274966252"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（土） 16:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1779047247092891821"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,29 @@
 
 **DATE**: 04/13（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1778982715246985725"></a>
-</blockquote>
+[今回の#プ...](https://twitter.com/pj_sekai/status/1778982715246985725)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1778982460661051419"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1778982460661051419)
+<br>
+#プロセカWCS
 
 ---
 
 **DATE**: 04/13（土） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1778982216166777094"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1778982216166777094)
 
 ---
 
 **DATE**: 04/13（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1778981442778775717"></a>
-</blockquote>
+[本日0時よ...](https://twitter.com/pj_sekai/status/1778981442778775717)
 
 ---
 
@@ -2879,13 +2907,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
