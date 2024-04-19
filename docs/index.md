@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/19 18:10
+### 最終更新：2024/04/19 18:23
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1781202047737757782"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/19（金） 15:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1781201284206608846"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 04/18（木） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1780929661868142856"></a>
-</blockquote>
+[『私は雨』...](https://twitter.com/pj_sekai/status/1780929661868142856)
+<br>
+#ニーゴ
 
 ---
 
