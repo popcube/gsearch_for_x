@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/18 22:09
+### 最終更新：2024/04/19 12:09
 
+
+---
+
+**DATE**: 04/19（金） 11:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1781142085397369113"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/19（金） 11:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1781141668022120560"></a>
+</blockquote>
 
 ---
 
@@ -14,15 +30,15 @@
 
 ---
 
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
+
+---
+
 **DATE**: 04/18（木） 21:00
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1780929269692297683"></a>
 </blockquote>
-
----
-
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 04/18（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1780795077859950725"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1780795077859950725)
 
 ---
 
 **DATE**: 04/18（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1780795015205449982"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1780795015205449982)
 
 ---
 
@@ -654,13 +666,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
