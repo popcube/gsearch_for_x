@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/20 15:28
+### 最終更新：2024/04/20 16:08
 
+
+---
+
+**DATE**: 04/20（土） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1781564341881647422"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/20（土） 15:00 イベント「**Parallel Harmonies**」 開始
 
 ---
 
@@ -40,9 +52,7 @@
 
 **DATE**: 04/20（土） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1781518772324704263"></a>
-</blockquote>
+[『Not ...](https://twitter.com/pj_sekai/status/1781518772324704263)
 
 ---
 
@@ -90,13 +100,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
-
----
-
 **DATE**: 04/18（木） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+
+---
+
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
