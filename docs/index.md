@@ -1,48 +1,96 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/24 22:16
+### 最終更新：2024/04/24 22:34
 
+
+---
+
+**DATE**: 04/24（水） 21:53
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1783117143279845722"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（水） 21:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1783113000360214759"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（水） 21:34
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1783112357163749688"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（水） 21:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1783112118377812094"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（水） 21:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1783112015160181126"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（水） 21:31
+<br>
+[アップデー...](https://twitter.com/pj_sekai/status/1783111423092298144)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/24（水） 21:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1783106307593277457"></a>
-</blockquote>
+[このあと2...](https://twitter.com/pj_sekai/status/1783106307593277457)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/24（水） 21:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1783105243959759076"></a>
-</blockquote>
+[🎊グッズ情...](https://twitter.com/pj_sekai/status/1783105243959759076)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/24（水） 20:57
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1783102871720099950"></a>
-</blockquote>
+[🎨クリエイ...](https://twitter.com/pj_sekai/status/1783102871720099950)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/24（水） 20:48
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1783100810567758144"></a>
-</blockquote>
+[東方プロジ...](https://twitter.com/pj_sekai/status/1783100810567758144)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/24（水） 20:47
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1783100419176325186"></a>
-</blockquote>
+[東方プロジ...](https://twitter.com/pj_sekai/status/1783100419176325186)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -81,6 +129,14 @@
 **DATE**: 04/24（水） 20:35
 <br>
 [🎶楽曲追加...](https://twitter.com/pj_sekai/status/1783097428914389001)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 04/24（水） 20:31
+<br>
+[ワールドリ...](https://twitter.com/pj_sekai/status/1783096412521300397)
 <br>
 #プロセカ放送局
 
@@ -3633,13 +3689,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
