@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/28 22:33
+### 最終更新：2024/04/28 23:33
 
+
+---
+
+**DATE**: 04/28（日） 22:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1784576642008113439"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 04/28（日） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1784463302468522213"></a>
-</blockquote>
+[🎧東雲絵名...](https://twitter.com/pj_sekai/status/1784463302468522213)
 
 ---
 
