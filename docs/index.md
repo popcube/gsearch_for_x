@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/30 00:34
+### 最終更新：2024/04/30 12:09
 
+
+---
+
+**DATE**: 04/30（火） 11:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785129003717988828"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（火） 11:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785128888718475564"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（火） 11:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785128734498205828"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（火） 11:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785128713983836605"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,27 @@
 
 **DATE**: 04/30（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1784960833396576765"></a>
-</blockquote>
+[㊗️本日4...](https://twitter.com/pj_sekai/status/1784960833396576765)
+<br>
+#東雲絵名誕生祭2024
 
 ---
 
 **DATE**: 04/29（月） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1784825463996813608"></a>
-</blockquote>
+[明日、4月...](https://twitter.com/pj_sekai/status/1784825463996813608)
 
 ---
 
 **DATE**: 04/29（月） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1784780220811428031"></a>
-</blockquote>
+[🌱GWログ...](https://twitter.com/pj_sekai/status/1784780220811428031)
 
 ---
 
 **DATE**: 04/28（日） 22:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1784576642008113439"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1784576642008113439)
 
 ---
 
