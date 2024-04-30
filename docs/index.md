@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/30 12:09
+### 最終更新：2024/04/30 12:48
 
+
+---
+
+**DATE**: 04/30（火） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785142551701524904"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（火） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785142032232595621"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 04/30（火） 11:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1785128713983836605"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1785128713983836605)
 
 ---
 
 **DATE**: 04/30（火） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1784961085109346625"></a>
-</blockquote>
+[🎧東雲絵名...](https://twitter.com/pj_sekai/status/1784961085109346625)
+<br>
+#東雲絵名誕生祭2024
 
 ---
 
@@ -4321,13 +4335,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
