@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/04/30 13:12
+### 最終更新：2024/04/30 13:27
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1785143029051064629"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785143026958156017"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（火） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1785142774075117732"></a>
 </blockquote>
 
 ---
@@ -32,17 +48,15 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1785142551701524904"></a>
-</blockquote>
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1785142032232595621"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1785142032232595621)
+<br>
+#セカイの4コマ #東雲絵名誕生祭2024
 
 ---
 
