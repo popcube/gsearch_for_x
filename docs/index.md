@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/04 18:48
+### 最終更新：2024/05/05 15:48
 
+
+---
+
+**DATE**: 05/05（日） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1787000717775097980"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/03（金） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1786275644395167961"></a>
-</blockquote>
+[プロジェク...](https://twitter.com/pj_sekai/status/1786275644395167961)
 
 ---
 
@@ -4702,113 +4708,5 @@
 [2月2日（...](https://twitter.com/pj_sekai/status/1752890266581889037)
 <br>
 #セカラジ
-
----
-
-**DATE**: 01/31（水） 20:01
-<br>
-[本日20:...](https://twitter.com/pj_sekai/status/1752648353975001221)
-
----
-
-**DATE**: 01/31（水） 20:00 イベント「**Take the Best Shot！**」 開始
-
----
-
-**DATE**: 01/31（水） 19:19
-<br>
-[「プロセカ...](https://twitter.com/pj_sekai/status/1752637663545635026)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 01/31（水） 19:17
-<br>
-[「DAYB...](https://twitter.com/pj_sekai/status/1752637135637946507)
-
----
-
-**DATE**: 01/31（水） 19:16
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1752637015202623877)
-
----
-
-**DATE**: 01/31（水） 19:15
-<br>
-[【贅沢なメ...](https://twitter.com/pj_sekai/status/1752636744368050412)
-
----
-
-**DATE**: 01/31（水） 19:14
-<br>
-[「フォトジ...](https://twitter.com/pj_sekai/status/1752636468538056927)
-
----
-
-**DATE**: 01/31（水） 19:14
-<br>
-[【ビターな...](https://twitter.com/pj_sekai/status/1752636455309266996)
-
----
-
-**DATE**: 01/31（水） 19:13
-<br>
-[「フォトジ...](https://twitter.com/pj_sekai/status/1752636142682538319)
-
----
-
-**DATE**: 01/31（水） 19:11
-<br>
-[【仲間に最...](https://twitter.com/pj_sekai/status/1752635705925484807)
-
----
-
-**DATE**: 01/31（水） 19:10
-<br>
-[「フォトジ...](https://twitter.com/pj_sekai/status/1752635449661894803)
-
----
-
-**DATE**: 01/31（水） 19:07
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1752634728484864271)
-
----
-
-**DATE**: 01/31（水） 18:02
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1752618363891892612)
-
----
-
-**DATE**: 01/31（水） 17:58
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1752617276841595214)
-
----
-
-**DATE**: 01/31（水） 16:37
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1752596850002289076)
-
----
-
-**DATE**: 01/31（水） 14:44
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1752568616367923462)
-
----
-
-**DATE**: 01/31（水） 12:34
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1752535822593843384)
-
----
-
-**DATE**: 01/31（水） 10:58
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1752511553415627009)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
