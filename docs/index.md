@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/07 22:34
+### 最終更新：2024/05/08 00:24
 
+
+---
+
+**DATE**: 05/07（火） 21:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1787815129712824750"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 05/07（火） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1787725410970861695"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1787725410970861695)
+<br>
+#ワンダショ
 
 ---
 
@@ -4223,13 +4231,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
@@ -4670,20 +4678,6 @@
 **DATE**: 02/04（日） 15:04
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1754023023232061860)
-<br>
-#ボカセカ
-
----
-
-**DATE**: 02/03（土） 15:13
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1753663000106709433)
-
----
-
-**DATE**: 02/03（土） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1753660960093651038)
 <br>
 #ボカセカ
 
