@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/09 00:48
+### 最終更新：2024/05/09 04:14
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1788222576319144092"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（木） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788222328004125062"></a>
 </blockquote>
 
 ---
@@ -44,9 +52,7 @@
 
 **DATE**: 05/07（火） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1787726011158970452"></a>
-</blockquote>
+[5月9日0...](https://twitter.com/pj_sekai/status/1787726011158970452)
 
 ---
 
@@ -1538,13 +1544,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
@@ -4243,13 +4249,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
@@ -4531,13 +4537,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
@@ -4672,11 +4678,5 @@
 **DATE**: 02/05（月） 10:13
 <br>
 [👑ワンダー...](https://twitter.com/pj_sekai/status/1754312207335321967)
-
----
-
-**DATE**: 02/04（日） 18:02
-<br>
-[💫Leo/...](https://twitter.com/pj_sekai/status/1754068015522685185)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
