@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/09 12:48
+### 最終更新：2024/05/09 13:14
 
+
+---
+
+**DATE**: 05/09（木） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788405731164840070"></a>
+</blockquote>
 
 ---
 
@@ -22,6 +30,14 @@
 
 ---
 
+**DATE**: 05/09（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788403884706378208"></a>
+</blockquote>
+
+---
+
 **DATE**: 05/09（木） 12:00
 <br>
 <blockquote class="twitter-tweet">
@@ -32,17 +48,13 @@
 
 **DATE**: 05/09（木） 11:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788390044132356348"></a>
-</blockquote>
+[「Colo...](https://twitter.com/pj_sekai/status/1788390044132356348)
 
 ---
 
 **DATE**: 05/09（木） 11:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788390017985105958"></a>
-</blockquote>
+[下記楽曲の...](https://twitter.com/pj_sekai/status/1788390017985105958)
 
 ---
 
@@ -4573,13 +4585,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
