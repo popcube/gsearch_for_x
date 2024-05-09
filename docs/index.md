@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/09 15:30
+### 最終更新：2024/05/09 16:11
 
 
 ---
@@ -30,6 +30,14 @@
 
 ---
 
+**DATE**: 05/09（木） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788405605851693407"></a>
+</blockquote>
+
+---
+
 **DATE**: 05/09（木） 12:07
 <br>
 <blockquote class="twitter-tweet">
@@ -40,9 +48,7 @@
 
 **DATE**: 05/09（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788405094939316478"></a>
-</blockquote>
+[【受け取ら...](https://twitter.com/pj_sekai/status/1788405094939316478)
 
 ---
 
@@ -392,13 +398,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
+**DATE**: 04/28（日） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
 
 ---
 
