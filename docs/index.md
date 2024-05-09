@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/09 13:31
+### 最終更新：2024/05/09 13:48
 
+
+---
+
+**DATE**: 05/09（木） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788406058437968215"></a>
+</blockquote>
 
 ---
 
@@ -22,6 +30,14 @@
 
 ---
 
+**DATE**: 05/09（木） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788405094939316478"></a>
+</blockquote>
+
+---
+
 **DATE**: 05/09（木） 12:05
 <br>
 <blockquote class="twitter-tweet">
@@ -30,19 +46,23 @@
 
 ---
 
+**DATE**: 05/09（木） 12:04
+<br>
+[【積み重ね...](https://twitter.com/pj_sekai/status/1788404644538150919)
+
+---
+
 **DATE**: 05/09（木） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788404357425398271"></a>
-</blockquote>
+[「とびっき...](https://twitter.com/pj_sekai/status/1788404357425398271)
 
 ---
 
 **DATE**: 05/09（木） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788403884706378208"></a>
-</blockquote>
+[5月10日...](https://twitter.com/pj_sekai/status/1788403884706378208)
+<br>
+#セカラジ
 
 ---
 
@@ -3463,13 +3483,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
+**DATE**: 03/06（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
 
 ---
 
