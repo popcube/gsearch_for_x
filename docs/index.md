@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/09 21:17
+### 最終更新：2024/05/09 22:12
 
+
+---
+
+**DATE**: 05/09（木） 21:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788546594478215496"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（木） 20:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1788526974123835447"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 05/09（木） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788406058437968215"></a>
-</blockquote>
+[【指先が辿...](https://twitter.com/pj_sekai/status/1788406058437968215)
 
 ---
 
 **DATE**: 05/09（木） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788405731164840070"></a>
-</blockquote>
+[「とびっき...](https://twitter.com/pj_sekai/status/1788405731164840070)
 
 ---
 
@@ -1648,13 +1660,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
