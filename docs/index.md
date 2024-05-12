@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/11 13:11
+### 最終更新：2024/05/12 18:34
 
+
+---
+
+**DATE**: 05/12（日） 18:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1789581631747133454"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/09（木） 21:28
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788546594478215496"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1788546594478215496)
 
 ---
 
@@ -4419,13 +4425,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
@@ -4798,19 +4804,5 @@
 **DATE**: 02/08（木） 15:03
 <br>
 [🎧宵崎奏 ...](https://twitter.com/pj_sekai/status/1755472299317408022)
-
----
-
-**DATE**: 02/07（水） 18:02
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1755155146802450490)
-<br>
-#プロセカZOZOコラボ
-
----
-
-**DATE**: 02/07（水） 12:00
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1755063840705044676)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
