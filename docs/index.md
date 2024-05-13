@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/12 22:09
+### 最終更新：2024/05/13 13:13
 
+
+---
+
+**DATE**: 05/13（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1789853077581025397"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 05/10（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1788886715605925961"></a>
-</blockquote>
+[📺WEBラ...](https://twitter.com/pj_sekai/status/1788886715605925961)
+<br>
+#セカラジ
 
 ---
 
@@ -1702,13 +1710,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
@@ -3565,13 +3573,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -4695,13 +4703,13 @@
 
 **DATE**: 02/10（土） 12:01
 <br>
-[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
+[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
 
 ---
 
 **DATE**: 02/10（土） 12:01
 <br>
-[「瞳、高み...](https://twitter.com/pj_sekai/status/1756151370108055783)
+[【導く決意...](https://twitter.com/pj_sekai/status/1756151373203398942)
 
 ---
 
@@ -4774,41 +4782,5 @@
 **DATE**: 02/09（金） 11:03
 <br>
 [下記楽曲の...](https://twitter.com/pj_sekai/status/1755774380435767780)
-
----
-
-**DATE**: 02/08（木） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1755562122312847769)
-
----
-
-**DATE**: 02/08（木） 21:00 イベント「**Take the Best Shot！**」 終了
-
----
-
-**DATE**: 02/08（木） 18:28
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1755523974208135403)
-
----
-
-**DATE**: 02/08（木） 18:00
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1755516820197703715)
-<br>
-#プロセカZOZOコラボ
-
----
-
-**DATE**: 02/08（木） 15:06
-<br>
-[2月10日...](https://twitter.com/pj_sekai/status/1755473122726453442)
-
----
-
-**DATE**: 02/08（木） 15:03
-<br>
-[🎧宵崎奏 ...](https://twitter.com/pj_sekai/status/1755472299317408022)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
