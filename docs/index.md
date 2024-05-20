@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/19 12:27
+### 最終更新：2024/05/20 15:48
 
+
+---
+
+**DATE**: 05/20（月） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1792435993892782526"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/17（金） 15:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1791353041637212657"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1791353041637212657)
 
 ---
 
@@ -1848,13 +1854,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
@@ -3711,13 +3717,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -4553,13 +4559,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
@@ -4692,33 +4698,5 @@
 **DATE**: 02/16（金） 15:04
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1758371869944914030)
-
----
-
-**DATE**: 02/15（木） 18:00
-<br>
-[『それがあ...](https://twitter.com/pj_sekai/status/1758053539887345711)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 02/15（木） 15:03
-<br>
-[2月17日...](https://twitter.com/pj_sekai/status/1758009088410366460)
-
----
-
-**DATE**: 02/15（木） 15:02
-<br>
-[🎤KAIT...](https://twitter.com/pj_sekai/status/1758008905408692573)
-
----
-
-**DATE**: 02/15（木） 12:03
-<br>
-[2月16日...](https://twitter.com/pj_sekai/status/1757963926036422824)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
