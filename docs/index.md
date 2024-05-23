@@ -1,8 +1,44 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/23 15:32
+### 最終更新：2024/05/23 15:48
 
+
+---
+
+**DATE**: 05/23（木） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793523495424647398"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/23（木） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793523019031445762"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/23（木） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793522820624023738"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/23（木） 15:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793522622019551686"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/23（木） 15:00 イベント「**perspective for smile**」 開始
 
 ---
 
@@ -16,33 +52,37 @@
 
 **DATE**: 05/23（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793478303225168223"></a>
-</blockquote>
+[【一緒に特...](https://twitter.com/pj_sekai/status/1793478303225168223)
 
 ---
 
 **DATE**: 05/23（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793478300704309374"></a>
-</blockquote>
+[『未知との...](https://twitter.com/pj_sekai/status/1793478300704309374)
 
 ---
 
 **DATE**: 05/23（木） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793477902207430853"></a>
-</blockquote>
+[【スター目...](https://twitter.com/pj_sekai/status/1793477905076617669)
 
 ---
 
 **DATE**: 05/23（木） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793477739024113729"></a>
-</blockquote>
+[『未知との...](https://twitter.com/pj_sekai/status/1793477902207430853)
+
+---
+
+**DATE**: 05/23（木） 12:03
+<br>
+[【天下を笑...](https://twitter.com/pj_sekai/status/1793477742287012161)
+
+---
+
+**DATE**: 05/23（木） 12:03
+<br>
+[『未知との...](https://twitter.com/pj_sekai/status/1793477739024113729)
 
 ---
 
@@ -5049,13 +5089,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
