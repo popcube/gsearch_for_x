@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/23 13:12
+### 最終更新：2024/05/23 14:29
 
 
 ---
@@ -38,11 +38,19 @@
 
 ---
 
-**DATE**: 05/22（水） 19:05
+**DATE**: 05/23（木） 10:50
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793221573799006512"></a>
+<a href="https://twitter.com/pj_sekai/status/1793459562160480504"></a>
 </blockquote>
+
+---
+
+**DATE**: 05/22（水） 19:05
+<br>
+[『快晴』F...](https://twitter.com/pj_sekai/status/1793221573799006512)
+<br>
+#レオニ
 
 ---
 
