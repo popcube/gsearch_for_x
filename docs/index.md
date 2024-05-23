@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/22 19:28
+### 最終更新：2024/05/23 12:26
 
+
+---
+
+**DATE**: 05/23（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793477739024113729"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/22（水） 11:45
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793110996908994718"></a>
-</blockquote>
+[【v3.6...](https://twitter.com/pj_sekai/status/1793110996908994718)
 
 ---
 
@@ -1650,13 +1656,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
+**DATE**: 04/18（木） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
 
 ---
 
@@ -4987,13 +4993,13 @@
 
 **DATE**: 02/20（火） 12:07
 <br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
 
 ---
 
 **DATE**: 02/20（火） 12:07
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
+[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
 
 ---
 
@@ -5011,13 +5017,13 @@
 
 **DATE**: 02/20（火） 12:01
 <br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
+[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 ---
 
 **DATE**: 02/20（火） 12:01
 <br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
+[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
 
 ---
 
@@ -5030,43 +5036,5 @@
 **DATE**: 02/19（月） 15:01
 <br>
 [明日、2月...](https://twitter.com/pj_sekai/status/1759458157041221975)
-
----
-
-**DATE**: 02/18（日） 22:46
-<br>
-[💫Leo/...](https://twitter.com/pj_sekai/status/1759212920934990143)
-
----
-
-**DATE**: 02/18（日） 22:16
-<br>
-[『レグルス...](https://twitter.com/pj_sekai/status/1759205279290577241)
-<br>
-#レオニ
-
----
-
-**DATE**: 02/18（日） 22:13
-<br>
-[💫Leo/...](https://twitter.com/pj_sekai/status/1759204440912077062)
-<br>
-#レオニ
-
----
-
-**DATE**: 02/18（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1759186002563010885)
-
----
-
-**DATE**: 02/18（日） 21:00 イベント「**導く勇気、優しさを胸に**」 終了
-
----
-
-**DATE**: 02/18（日） 16:01
-<br>
-[『プロセカ...](https://twitter.com/pj_sekai/status/1759110849200079273)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
