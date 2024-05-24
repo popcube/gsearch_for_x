@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/24 20:10
+### 最終更新：2024/05/24 20:48
 
+
+---
+
+**DATE**: 05/24（金） 20:14
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793963854101381288"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/24（金） 20:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793963019833401504"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/24（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793960229027369442"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/24（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793960145623396834"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,27 @@
 
 **DATE**: 05/24（金） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793886144901660870"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1793886144901660870)
 
 ---
 
 **DATE**: 05/24（金） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793886116225200198"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1793886116225200198)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 05/23（木） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793523495424647398"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1793523495424647398)
 
 ---
 
 **DATE**: 05/23（木） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793523019031445762"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1793523019031445762)
 
 ---
 
@@ -1682,13 +1708,13 @@
 
 **DATE**: 04/20（土） 12:04
 <br>
-[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
+[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
 
 ---
 
 **DATE**: 04/20（土） 12:04
 <br>
-[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
+[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
 
 ---
 
@@ -5116,11 +5142,5 @@
 **DATE**: 02/20（火） 12:01
 <br>
 [【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
-
----
-
-**DATE**: 02/20（火） 11:23
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1759765590523470175)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
