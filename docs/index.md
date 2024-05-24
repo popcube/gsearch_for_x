@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/24 20:48
+### 最終更新：2024/05/24 23:10
 
+
+---
+
+**DATE**: 05/24（金） 21:41
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1793985773236285664"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/24（金） 19:32
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793953220785778785"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1793953220785778785)
 
 ---
 
@@ -5102,45 +5108,5 @@
 **DATE**: 02/20（火） 15:01
 <br>
 [本日15:...](https://twitter.com/pj_sekai/status/1759820635717705918)
-
----
-
-**DATE**: 02/20（火） 15:00 イベント「**刻まれた傷は、やがて**」 開始
-
----
-
-**DATE**: 02/20（火） 12:07
-<br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776831354618107)
-
----
-
-**DATE**: 02/20（火） 12:07
-<br>
-[【軌跡感じ...](https://twitter.com/pj_sekai/status/1759776833514639505)
-
----
-
-**DATE**: 02/20（火） 12:05
-<br>
-[【驚きの築...](https://twitter.com/pj_sekai/status/1759776298019549280)
-
----
-
-**DATE**: 02/20（火） 12:05
-<br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759776296010473523)
-
----
-
-**DATE**: 02/20（火） 12:01
-<br>
-[『空に描く...](https://twitter.com/pj_sekai/status/1759775324810920199)
-
----
-
-**DATE**: 02/20（火） 12:01
-<br>
-[【胸に刺さ...](https://twitter.com/pj_sekai/status/1759775327042367772)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
