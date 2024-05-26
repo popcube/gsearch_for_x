@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/25 19:28
+### 最終更新：2024/05/26 15:38
 
+
+---
+
+**DATE**: 05/26（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1794564111982092480"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/24（金） 21:41
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1793985773236285664"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1793985773236285664)
 
 ---
 
@@ -1114,13 +1120,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
@@ -4309,13 +4315,13 @@
 
 ---
 
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
 **DATE**: 03/06（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
+
+---
+
+**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
 
 ---
 
@@ -5112,23 +5118,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1760499700523004039)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 02/21（水） 12:09
-<br>
-[📺番組冒頭...](https://twitter.com/pj_sekai/status/1760139727897026781)
-
----
-
-**DATE**: 02/21（水） 12:09
-<br>
-[2月28日...](https://twitter.com/pj_sekai/status/1760139725330174050)
-
----
-
-**DATE**: 02/21（水） 12:00
-<br>
-[💿Vivi...](https://twitter.com/pj_sekai/status/1760137440608895357)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
