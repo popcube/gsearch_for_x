@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/05/26 15:38
+### 最終更新：2024/05/26 17:35
 
+
+---
+
+**DATE**: 05/26（日） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1794565076596478247"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 05/25（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1794020535765979358"></a>
-</blockquote>
+[㊗️本日5...](https://twitter.com/pj_sekai/status/1794020535765979358)
+<br>
+#青柳冬弥誕生祭2024
 
 ---
 
