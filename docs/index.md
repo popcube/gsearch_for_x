@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/01 04:16
+### 最終更新：2024/06/01 05:08
 
+
+---
+
+**DATE**: 05/31（金） 21:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1796519234862010836"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/31（金） 20:51
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1796509881337565437"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,19 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1796377594692309145"></a>
-</blockquote>
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1796377561343398206"></a>
-</blockquote>
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+
+---
+
+**DATE**: 05/31（金） 12:06
+<br>
+[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
 
 ---
 
@@ -5176,15 +5194,5 @@
 **DATE**: 02/27（火） 21:00
 <br>
 [💭プロセカ...](https://twitter.com/pj_sekai/status/1762447498776567846)
-
----
-
-**DATE**: 02/27（火） 21:00 イベント「**刻まれた傷は、やがて**」 終了
-
----
-
-**DATE**: 02/27（火） 20:06
-<br>
-[『プロセカ...](https://twitter.com/pj_sekai/status/1762433899173691471)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
