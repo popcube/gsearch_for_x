@@ -1,9 +1,10 @@
 import pandas as pd
 import requests
-from datetime import datetime
+# from datetime import datetime
 
 import sys
 
+pd.options.mode.copy_on_write = True
 
 def unit_name_convert(in_str):
     if in_str == "0_VS":
@@ -25,13 +26,41 @@ def unit_name_convert(in_str):
         sys.exit(1)
 
 
-def date_convert(in_str, start=False, end=False):
+def date_convert(in_df, start=False, end=False):
+    # res_sr = pd.Series(index = in_df.index)
+    
     if start:
-        return datetime.strptime(in_str + "T15", f"%Y/%m/%dT%H")
+        res_sr = in_df["開始日"]
+        
+        # [special attend] World Link starts and ends at different time
+        world_link_sr = in_df["形式"] == "ワールドリンク"
+        res_sr[world_link_sr] = in_df[world_link_sr]["開始日"].apply(
+            lambda x: pd.to_datetime(x + "T20",  format="%Y/%m/%dT%H"))
+        
+        # [special attend] one event started with delay due to extended maintenance
+        res_sr[120] = pd.Timestamp(2024, 1, 31, 20)
+        
+        # normal event start time
+        remains_sr = res_sr.apply(lambda x: type(x) == str)
+        res_sr[remains_sr] = in_df[remains_sr]["開始日"].apply(
+            lambda x: pd.to_datetime(x + "T15",  format="%Y/%m/%dT%H")
+        )
+    
     elif end:
-        return datetime.strptime(in_str + "T21", f"%Y/%m/%dT%H")
-    else:
-        return datetime.strptime(in_str, f"%Y/%m/%d")
+        res_sr = in_df["終了日"]
+        
+        # [special attend] World Link starts and ends at different time
+        world_link_sr = in_df["形式"] == "ワールドリンク"
+        res_sr[world_link_sr] = in_df[world_link_sr]["終了日"].apply(
+            lambda x: pd.to_datetime(x + "T20",  format="%Y/%m/%dT%H"))
+        
+        # normal event end time
+        remains_sr = res_sr.apply(lambda x: type(x) == str)
+        res_sr[remains_sr] = in_df[remains_sr]["終了日"].apply(
+            lambda x: pd.to_datetime(x + "T21",  format="%Y/%m/%dT%H")
+        )
+    
+    return res_sr
 
 
 def get_event_table():
@@ -45,11 +74,10 @@ def get_event_table():
             # No, 週目, イベント名, 形式, ユニット, タイプ, 書き下ろし楽曲, 開始日, 終了日, 日数, 参加人数
             
             # a["ユニット"] = a["ユニット"].apply(unit_name_convert)
-            a["開始日"] = a["開始日"].apply(date_convert, start=True)
-            a["終了日"] = a["終了日"].apply(date_convert, end=True)
+            a["開始日"] = date_convert(a, start=True)
+            a["終了日"] = date_convert(a, end=True)
             
-            # one event started with delay due to extended maintenance
-            a.loc[120, "開始日"] = datetime(2024, 1, 31, 20)
+
             
             # a.to_csv("./event_data.csv", index=False, header=False)
             return a
@@ -77,7 +105,7 @@ def get_stream_table():
 
             # convert Japanese datetime string to datetime object
             a_temp["配信日時"] = a_temp["配信日時"].apply(
-                lambda x: datetime.strptime(x[:x.index("(")] + x[x.index(")")+1:], "%Y/%m/%d %H時%M分"))
+                lambda x: pd.to_datetime(x[:x.index("(")] + x[x.index(")")+1:], format="%Y/%m/%d %H時%M分"))
             a_temp.loc[:, "No"] = a_temp["No"].apply(lambda x: "プロセカ放送局 " + x)
 
             # Be careful that No column includes the description of the stream
@@ -91,3 +119,10 @@ def get_stream_table():
 
 test_table = get_stream_table()
 # print(test_table)
+
+if __name__ == "__main__":
+    print("##### stream table #####")
+    print(get_stream_table())
+    print()
+    print("##### event table #####")
+    print(get_event_table())
