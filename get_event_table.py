@@ -122,7 +122,7 @@ test_table = get_stream_table()
 
 if __name__ == "__main__":
     print("##### stream table #####")
-    print(get_stream_table())
+    # print(get_stream_table().to_markdown())
     print()
     print("##### event table #####")
-    print(get_event_table())
+    # print(get_event_table().to_markdown())
