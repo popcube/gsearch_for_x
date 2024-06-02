@@ -6,7 +6,18 @@ import csv
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 
-GITHUB_OUTPUT = os.environ.get("GITHUB_OUTPUT")
+GITHUB_EVENT_PATH = os.environ.get("GITHUB_EVENT_PATH")
+
+def get_current_data():
+  with open(
+    "./docs/sorted_data.csv", "r",
+    encoding='utf-8',
+    errors='ignore'
+  ) as f:
+    reader = csv.reader(f)
+    
+    # skip header
+    return [r for r in reader][1:]
 
 def datetime_str(dt_str):
   dt = datetime.fromisoformat(dt_str.rstrip("Z")) + timedelta(hours=+9)
@@ -51,33 +62,22 @@ def post_sort(response):
 
 
 if __name__ == '__main__':
-  ########################################
-  ## define search query and parameters ##
-  ########################################
-  max_page = int(os.environ.get("MAX_PAGES", 1))
-  # max_page = 10
-  # minimum date or search range
-  days = 3
-  keyword = "プロジェクトセカイ"
-  base_url = "https://twitter.com/pj_sekai/status/"
+  event_dict = dict()
+  with open(GITHUB_EVENT_PATH, "r") as f:
+    event_dict = json.loads(f.read())
   retention_days = 94
-  ########################################
   
   cur_posts = get_current_data()
   # print(cur_posts)
   
   cutoff_date = datetime.now() + timedelta(days= -1 * retention_days)
-  search_date = datetime.now() + timedelta(days= -1 * days)
   
   ## cut the old data using date criteria
   cur_posts = [post for post in cur_posts
                if datetime.fromisoformat(post[0]) > cutoff_date]
   
-  ## create urls to be excluded from next g search
-  ex_urls = [base_url + post[1] for post in cur_posts
-             if datetime.fromisoformat(post[0]) > search_date]
-  
-  res = get_search_response(days, keyword, max_page, ex_urls)
+  print(**event_dict)
+  sys.exit(1)
   new_posts = post_sort(res)
   
   ## all posts including dupe entry
