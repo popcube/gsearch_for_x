@@ -1,0 +1,7 @@
+on: workflow_dispatch
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: popcube/update_to_lambda/.github/workflows/main_2.yml@latest
