@@ -55,10 +55,6 @@ jobs:
       run: python encode_decode.py
       env:
         ENC_DEC: 'ENC'
-      
-    - name: test
-      if: ${{ steps.main.outputs.CHANGE == 'YES' }}
-      run: exit 1
 
     - name: commit new posts
       if: ${{ steps.main.outputs.CHANGE == 'YES' }}
