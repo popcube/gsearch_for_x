@@ -40,9 +40,6 @@ if __name__ == '__main__':
   cur_posts = [post for post in cur_posts
                if datetime.fromisoformat(post[0]) > cutoff_date]
   
-  ## TOBEDELETED
-  cur_posts = [post for post in cur_posts if post[1] not in "1796852795032953148 1796866492501578027 1796377563323118043 1796738446503116996 1796816793333629325".split()]
-  
   gt = event_dict["inputs"]["gt"]
   ids = event_dict["inputs"]["ids"].split()
   
