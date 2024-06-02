@@ -40,11 +40,6 @@ jobs:
         
     - name: main
       run: python force_update.py
-
-      
-    - name: test
-      if: ${{ steps.main.outputs.CHANGE == 'YES' }}
-      run: exit 1
         
     - name: upload raw data
       if: ${{ steps.main.outputs.CHANGE == 'YES' }}
@@ -58,6 +53,10 @@ jobs:
       run: python encode_decode.py
       env:
         ENC_DEC: 'ENC'
+      
+    - name: test
+      if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+      run: exit 1
 
     - name: commit new posts
       if: ${{ steps.main.outputs.CHANGE == 'YES' }}
