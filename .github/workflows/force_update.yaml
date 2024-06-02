@@ -40,6 +40,7 @@ jobs:
         ENC_DEC: 'DEC'
         
     - name: main
+      id: main
       run: python force_update.py
         
     - name: upload raw data
