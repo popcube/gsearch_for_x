@@ -15,6 +15,7 @@ jobs:
     env:
       CSV_KEY: ${{ secrets.CSV_KEY }}
       DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+      FULL_REPO_TOKEN: ${{ secrets.FULL_REPO_TOKEN }}
     steps:
     - uses: actions/checkout@v4
 
