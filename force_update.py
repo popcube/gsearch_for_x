@@ -5,8 +5,10 @@ import csv
 
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
+from private_script_storage.populate_from_ids import main as populate_from_ids
 
 GITHUB_EVENT_PATH = os.environ.get("GITHUB_EVENT_PATH")
+GITHUB_OUTPUT = os.environ.get("GITHUB_OUTPUT")
 
 def get_current_data():
   with open(
@@ -23,44 +25,6 @@ def datetime_str(dt_str):
   dt = datetime.fromisoformat(dt_str.rstrip("Z")) + timedelta(hours=+9)
   return dt.isoformat()
 
-def post_sort(response):
-  sorted_posts = []
-  try:
-    total_results = response[0]["queries"]["request"][0]["totalResults"]
-    print()
-    print(f"total results: {total_results}")
-    print(f"max page: {max_page}")
-    print()
-
-  except Exception as e:
-    print(e)
-    print("no search results?")
-    print()
-
-  else:
-    now_str = (datetime.now() + timedelta(hours=9)).isoformat()
-    for res in response:
-      for item in res["items"]:
-        try:
-          post_obj = item["pagemap"]["socialmediaposting"][0]
-          metatag_body = item["pagemap"]["metatags"][0]["og:description"]
-          sorted_posts.append([
-            datetime_str(post_obj["datecreated"]),                ## date
-            post_obj["identifier"],                               ## id
-            # post_obj["articlebody"].rstrip("Translate post"),     ## body
-            metatag_body,                                         ## metatag body
-            now_str                                               ## detected time
-          ])
-        except Exception as e:
-          print(e)
-          print("cannot retrieve info from out.json, skipping")
-          pass
-          
-    sorted_posts.sort(key=lambda x: x[1], reverse=True)
-
-  return sorted_posts
-
-
 if __name__ == '__main__':
   event_dict = dict()
   with open(GITHUB_EVENT_PATH, "r") as f:
@@ -76,9 +40,10 @@ if __name__ == '__main__':
   cur_posts = [post for post in cur_posts
                if datetime.fromisoformat(post[0]) > cutoff_date]
   
-  print(event_dict)
-  sys.exit(1)
-  new_posts = post_sort(res)
+  gt = event_dict["inputs"]["gt"]
+  ids = event_dict["inputs"]["ids"].split()
+  
+  new_posts = populate_from_ids(gt, ids)
   
   ## all posts including dupe entry
   all_posts = cur_posts + new_posts
