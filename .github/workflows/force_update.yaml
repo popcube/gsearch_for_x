@@ -1,6 +1,13 @@
 name: force update
 on:
   workflow_dispatch:
+    inputs:
+      ids:
+        required: true
+        type: string
+      gt:
+        required: true
+        type: string
 
 jobs:
   main:

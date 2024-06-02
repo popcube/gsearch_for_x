@@ -2,67 +2,11 @@ import os, sys
 from datetime import datetime, timedelta
 import json
 import csv
-# import collections
-
-from time import sleep
-from googleapiclient.discovery import build
 
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
-SEARCH_ENGINE_ID = os.environ.get("SEARCH_ENGINE_ID")
 GITHUB_OUTPUT = os.environ.get("GITHUB_OUTPUT")
-
-def get_current_data():
-  with open(
-    "./docs/sorted_data.csv", "r",
-    encoding='utf-8',
-    errors='ignore'
-  ) as f:
-    reader = csv.reader(f)
-    
-    # skip header
-    return [r for r in reader][1:]
-
-def get_search_response(days, keyword, max_page, ex_urls):
-  service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
-
-  start_index = 1
-  response = []
-  for n_page in range(max_page):
-    try:
-      response.append(service.cse().list(
-        cx=SEARCH_ENGINE_ID,
-        num=10,
-        q=keyword,
-        siteSearch=" ".join(ex_urls),
-        siteSearchFilter='e',
-        dateRestrict=f'd{days}',
-        sort='socialmediaposting-datepublished', # + ':r:20240101:20240125' for date restriction but scarce results
-        start=start_index
-      ).execute())
-      if "nextPage" in response[n_page]["queries"]:
-        start_index = response[n_page]["queries"]["nextPage"][0]["startIndex"]
-        sleep(1)
-        continue
-      else:
-        print("consumed pages: " + str(n_page+1))
-        break
-    except Exception as e:
-      print(e)
-      break
-
-  jsonstr = json.dumps(response, indent=2, ensure_ascii=False)
-  with open(
-    'out.json',
-    mode='w',
-    encoding='utf-8',
-    errors='ignore'
-  ) as response_file:
-    response_file.write(jsonstr)
-
-  return response
 
 def datetime_str(dt_str):
   dt = datetime.fromisoformat(dt_str.rstrip("Z")) + timedelta(hours=+9)

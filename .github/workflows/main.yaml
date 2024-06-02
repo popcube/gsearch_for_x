@@ -27,7 +27,7 @@ jobs:
           cache: 'pip'
 
       - name: setup
-        run: pip install -r requirements.txt --quiet
+        run: pip install -r requirements.txt
       
       - name: data decrypt
         run: python encode_decode.py
