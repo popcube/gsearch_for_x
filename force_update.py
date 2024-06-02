@@ -76,7 +76,7 @@ if __name__ == '__main__':
   cur_posts = [post for post in cur_posts
                if datetime.fromisoformat(post[0]) > cutoff_date]
   
-  print(**event_dict)
+  print(event_dict)
   sys.exit(1)
   new_posts = post_sort(res)
   
