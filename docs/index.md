@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/04 11:18
+### 最終更新：2024/06/06 00:48
 
+
+---
+
+**DATE**: 06/05（水） 17:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1798266997677187321"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 06/02（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1797100831319212196"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1797100831319212196)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -4590,13 +4598,5 @@
 **DATE**: 03/04（月） 12:05
 <br>
 [3月9日2...](https://twitter.com/pj_sekai/status/1764487240204587448)
-
----
-
-**DATE**: 03/02（土） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1763761146027487481)
-<br>
-#セカイの4コマ #小豆沢こはね誕生祭2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
