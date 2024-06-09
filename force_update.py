@@ -2,6 +2,7 @@ import os, sys
 from datetime import datetime, timedelta
 import json
 import csv
+import re
 
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
@@ -43,6 +44,9 @@ if __name__ == '__main__':
   gt = event_dict["inputs"]["gt"]
   ids = event_dict["inputs"]["ids"].split()
   
+  ## parse url to id when necessary
+  url_pattern = r"^https://(x|twitter)\.com/pj_sekai/status/([0-9]+)($|\?.+)"
+  ids = [re.match(url_pattern, id).group(2) for id in ids if re.fullmatch(url_pattern, id)]
   new_posts = populate_from_ids(gt, ids)
   
   ## all posts including dupe entry
