@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/08 09:39
+### 最終更新：2024/06/09 13:48
 
+
+---
+
+**DATE**: 06/08（土） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1799411050565288361"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
 
 ---
 
@@ -40,9 +52,7 @@
 
 **DATE**: 06/06（木） 15:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1798598076824965451"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1798598076824965451)
 
 ---
 
@@ -224,13 +234,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
+[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
+[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
 
 ---
 
@@ -1418,13 +1428,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
@@ -1516,13 +1526,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
-
----
-
 **DATE**: 04/28（日） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+
+---
+
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
@@ -2118,13 +2128,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
-
----
-
 **DATE**: 04/18（木） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+
+---
+
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
@@ -4610,21 +4620,5 @@
 **DATE**: 03/07（木） 12:12
 <br>
 [【重要なお...](https://twitter.com/pj_sekai/status/1765576314151718980)
-
----
-
-**DATE**: 03/06（水） 21:00 イベント「**リラックスティータイム**」 終了
-
----
-
-**DATE**: 03/06（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1765346591735525562)
-
----
-
-**DATE**: 03/06（水） 12:02
-<br>
-[💫Leo/...](https://twitter.com/pj_sekai/status/1765211311049506959)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
