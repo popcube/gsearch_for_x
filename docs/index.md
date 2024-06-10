@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/10 21:51
+### 最終更新：2024/06/11 06:08
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1800091183903125609"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/10（月） 15:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1800050398172217347"></a>
 </blockquote>
 
 ---
@@ -44,9 +52,7 @@
 
 **DATE**: 06/10（月） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1800000762757656800"></a>
-</blockquote>
+[「goin...](https://twitter.com/pj_sekai/status/1800000762757656800)
 
 ---
 
@@ -86,13 +92,13 @@
 
 ---
 
-**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
-
----
-
 **DATE**: 06/08（土） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1799411050565288361)
+
+---
+
+**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
 
 ---
 
@@ -1600,13 +1606,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
+**DATE**: 04/28（日） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
 
 ---
 
@@ -4576,45 +4582,5 @@
 [🎊3月9日...](https://twitter.com/pj_sekai/status/1766116678948229322)
 <br>
 #ミクの日
-
----
-
-**DATE**: 03/08（金） 20:11
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1766059171907342744)
-
----
-
-**DATE**: 03/08（金） 20:10
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1766058993624158650)
-
----
-
-**DATE**: 03/08（金） 20:10
-<br>
-[本日20:...](https://twitter.com/pj_sekai/status/1766058933469483344)
-
----
-
-**DATE**: 03/08（金） 20:00 イベント「**星を目指して、ヨーソロー！**」 開始
-
----
-
-**DATE**: 03/08（金） 19:25
-<br>
-[「プロセカ...](https://twitter.com/pj_sekai/status/1766047595162734888)
-
----
-
-**DATE**: 03/08（金） 15:07
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1765982767870034177)
-
----
-
-**DATE**: 03/08（金） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1765982196220023192)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
