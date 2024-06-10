@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/10 20:48
+### 最終更新：2024/06/10 21:19
 
 
 ---
@@ -45,8 +45,14 @@
 **DATE**: 06/10（月） 12:03
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1800000702452044188"></a>
+<a href="https://twitter.com/pj_sekai/status/1800000704498770126"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/10（月） 12:03
+<br>
+[「goin...](https://twitter.com/pj_sekai/status/1800000702452044188)
 
 ---
 
@@ -4604,59 +4610,5 @@
 **DATE**: 03/08（金） 15:05
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1765982196220023192)
-
----
-
-**DATE**: 03/08（金） 12:12
-<br>
-[「Crow...](https://twitter.com/pj_sekai/status/1765938712817590572)
-
----
-
-**DATE**: 03/08（金） 12:10
-<br>
-[【お返しの...](https://twitter.com/pj_sekai/status/1765938025207611642)
-
----
-
-**DATE**: 03/08（金） 12:08
-<br>
-[「Crow...](https://twitter.com/pj_sekai/status/1765937650106867926)
-
----
-
-**DATE**: 03/08（金） 12:08
-<br>
-[【憧れに向...](https://twitter.com/pj_sekai/status/1765937602719592662)
-
----
-
-**DATE**: 03/08（金） 12:06
-<br>
-[「Crow...](https://twitter.com/pj_sekai/status/1765937209981714864)
-
----
-
-**DATE**: 03/08（金） 12:06
-<br>
-[【一緒に考...](https://twitter.com/pj_sekai/status/1765937193711972373)
-
----
-
-**DATE**: 03/08（金） 12:05
-<br>
-[「Crow...](https://twitter.com/pj_sekai/status/1765936840279015744)
-
----
-
-**DATE**: 03/08（金） 12:05
-<br>
-[【高みへ手...](https://twitter.com/pj_sekai/status/1765936825531797981)
-
----
-
-**DATE**: 03/08（金） 12:03
-<br>
-[「Crow...](https://twitter.com/pj_sekai/status/1765936354985423321)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
