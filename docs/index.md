@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/12 16:34
+### 最終更新：2024/06/12 21:50
 
+
+---
+
+**DATE**: 06/12（水） 18:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1800818783835324531"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 06/10（月） 15:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1800049231996268645"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1800049231996268645)
 
 ---
 
@@ -2226,13 +2232,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
-
----
-
 **DATE**: 04/18（木） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+
+---
+
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
