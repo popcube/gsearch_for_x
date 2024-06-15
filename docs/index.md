@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/16 00:48
+### 最終更新：2024/06/16 04:15
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1801957356919767513"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/15（土） 21:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1801952168347377789"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,7 @@
 
 **DATE**: 06/15（土） 17:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1801895214094897317"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801895214094897317)
 
 ---
 
@@ -436,13 +442,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
@@ -4548,11 +4554,5 @@
 [💙💐Hap...](https://twitter.com/pj_sekai/status/1767928605697282163)
 <br>
 #ホワイトデー
-
----
-
-**DATE**: 03/13（水） 18:05
-<br>
-[💫Leo/...](https://twitter.com/pj_sekai/status/1767839508345868489)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
