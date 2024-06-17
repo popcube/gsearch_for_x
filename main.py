@@ -113,7 +113,7 @@ if __name__ == '__main__':
   max_page = int(os.environ.get("MAX_PAGES", 1))
   # max_page = 10
   # minimum date or search range
-  days = 3
+  days = 1 if max_page == 1 else 3
   keyword = "プロジェクトセカイ"
   base_url = "https://twitter.com/pj_sekai/status/"
   retention_days = 94
