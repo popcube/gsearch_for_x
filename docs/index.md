@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/16 06:32
+### 最終更新：2024/06/17 12:29
 
+
+---
+
+**DATE**: 06/17（月） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1802537236296286490"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 06/15（土） 17:58
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1801901977829552513"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801901977829552513)
+<br>
+#コネクトライブ
 
 ---
 
@@ -460,13 +468,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
@@ -1764,13 +1772,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
+**DATE**: 04/28（日） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
 
 ---
 
@@ -2366,13 +2374,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
-
----
-
 **DATE**: 04/18（木） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+
+---
+
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
@@ -4534,43 +4542,5 @@
 **DATE**: 03/15（金） 15:04
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1768518536874660163)
-
----
-
-**DATE**: 03/14（木） 20:05
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1768232040003203086)
-
----
-
-**DATE**: 03/14（木） 18:00
-<br>
-[『にっこり...](https://twitter.com/pj_sekai/status/1768200624884310495)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 03/14（木） 12:03
-<br>
-[3月15日...](https://twitter.com/pj_sekai/status/1768110637014814886)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/14（木） 12:00
-<br>
-[💐ホワイト...](https://twitter.com/pj_sekai/status/1768110009563636156)
-<br>
-#ホワイトデー
-
----
-
-**DATE**: 03/14（木） 00:00
-<br>
-[💙💐Hap...](https://twitter.com/pj_sekai/status/1767928605697282163)
-<br>
-#ホワイトデー
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
