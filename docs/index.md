@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/17 13:31
+### 最終更新：2024/06/18 12:42
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1802553697320239275"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/17（月） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1802537265216053309"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 06/15（土） 20:25
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1801939118559002881"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801939118559002881)
+<br>
+#コネクトライブ
 
 ---
 
@@ -476,13 +484,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
@@ -4514,41 +4522,5 @@
 **DATE**: 03/17（日） 15:00
 <br>
 [☘️桃井愛...](https://twitter.com/pj_sekai/status/1769242299408744620)
-
----
-
-**DATE**: 03/15（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1768608088431460417)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/15（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1768592994624475238)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/15（金） 18:00
-<br>
-[『にっこり...](https://twitter.com/pj_sekai/status/1768562787004092748)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 03/15（金） 15:04
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1768518552116719682)
-
----
-
-**DATE**: 03/15（金） 15:04
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1768518536874660163)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
