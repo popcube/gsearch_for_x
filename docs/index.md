@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/20 23:09
+### 最終更新：2024/06/21 01:13
 
 
 ---
@@ -37,7 +37,7 @@
 **DATE**: 06/20（木） 12:12
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1803626909240287357"></a>
+<a href="https://twitter.com/pj_sekai/status/1803626911769489708"></a>
 </blockquote>
 
 ---
@@ -45,8 +45,14 @@
 **DATE**: 06/20（木） 12:12
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1803626883168477472"></a>
+<a href="https://twitter.com/pj_sekai/status/1803626909240287357"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/20（木） 12:12
+<br>
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626883168477472)
 
 ---
 
@@ -368,13 +374,13 @@
 
 ---
 
-**DATE**: 06/08（土） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1799411050565288361)
+**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
 
 ---
 
-**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
+**DATE**: 06/08（土） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1799411050565288361)
 
 ---
 
@@ -1882,13 +1888,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
-
----
-
 **DATE**: 04/28（日） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+
+---
+
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
@@ -4566,17 +4572,5 @@
 [㊗️本日3...](https://twitter.com/pj_sekai/status/1769740548242554978)
 <br>
 #桃井愛莉誕生祭2024
-
----
-
-**DATE**: 03/18（月） 15:02
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1769605270299422933)
-
----
-
-**DATE**: 03/18（月） 15:02
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1769605211709145402)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
