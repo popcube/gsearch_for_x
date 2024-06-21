@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/21 01:13
+### 最終更新：2024/06/21 17:39
 
+
+---
+
+**DATE**: 06/20（木） 19:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1803741397767561689"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1803626909240287357"></a>
-</blockquote>
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626909240287357)
 
 ---
 
@@ -2490,13 +2496,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
-
----
-
 **DATE**: 04/18（木） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+
+---
+
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
@@ -4556,21 +4562,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1769921739239428330)
 <br>
 #セカイの4コマ #桃井愛莉誕生祭2024
-
----
-
-**DATE**: 03/19（火） 00:01
-<br>
-[☘️桃井愛...](https://twitter.com/pj_sekai/status/1769740794674774441)
-<br>
-#桃井愛莉誕生祭2024
-
----
-
-**DATE**: 03/19（火） 00:00
-<br>
-[㊗️本日3...](https://twitter.com/pj_sekai/status/1769740548242554978)
-<br>
-#桃井愛莉誕生祭2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
