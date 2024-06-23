@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/22 18:48
+### 最終更新：2024/06/23 23:33
 
+
+---
+
+**DATE**: 06/23（日） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1804802223010185221"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 06/21（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1804122101575540959"></a>
-</blockquote>
+[WEBラジ...](https://twitter.com/pj_sekai/status/1804122101575540959)
+<br>
+#セカラジ
 
 ---
 
@@ -1886,13 +1894,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
@@ -4580,69 +4588,5 @@
 **DATE**: 03/21（木） 15:01
 <br>
 [明日、3月...](https://twitter.com/pj_sekai/status/1770692155780092264)
-
----
-
-**DATE**: 03/20（水） 22:42
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1770445772506693815)
-
----
-
-**DATE**: 03/20（水） 20:30
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1770412582043877397)
-
----
-
-**DATE**: 03/20（水） 20:00
-<br>
-[本日21時...](https://twitter.com/pj_sekai/status/1770405098352791764)
-
----
-
-**DATE**: 03/20（水） 20:00 イベント「**星を目指して、ヨーソロー！**」 終了
-
----
-
-**DATE**: 03/20（水） 18:00
-<br>
-[『きゅうく...](https://twitter.com/pj_sekai/status/1770374811317105079)
-<br>
-#モモジャン
-
----
-
-**DATE**: 03/20（水） 15:12
-<br>
-[先ほど投稿...](https://twitter.com/pj_sekai/status/1770332470656872766)
-
----
-
-**DATE**: 03/20（水） 15:11
-<br>
-[📺番組冒頭...](https://twitter.com/pj_sekai/status/1770332365556011071)
-
----
-
-**DATE**: 03/20（水） 12:06
-<br>
-[生徒が制作...](https://twitter.com/pj_sekai/status/1770285850729095422)
-<br>
-#プロセカアカデミー
-
----
-
-**DATE**: 03/20（水） 12:04
-<br>
-[3月27日...](https://twitter.com/pj_sekai/status/1770285333630038428)
-<br>
-#プロセカアカデミー
-
----
-
-**DATE**: 03/20（水） 12:04
-<br>
-[3月27日...](https://twitter.com/pj_sekai/status/1770285291577938162)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
