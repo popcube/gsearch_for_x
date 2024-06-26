@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/26 22:35
+### 最終更新：2024/06/26 22:48
 
 
 ---
@@ -17,7 +17,23 @@
 **DATE**: 06/26（水） 21:22
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805939801331548236"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/26（水） 21:22
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1805939574058975661"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/26（水） 21:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805939231233040801"></a>
 </blockquote>
 
 ---
@@ -30,19 +46,35 @@
 
 ---
 
+**DATE**: 06/26（水） 21:17
+<br>
+[アップデー...](https://twitter.com/pj_sekai/status/1805938461746274696)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 06/26（水） 21:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805938214722744670"></a>
-</blockquote>
+[アップデー...](https://twitter.com/pj_sekai/status/1805938214722744670)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/26（水） 21:14
+<br>
+[【お知らせ...](https://twitter.com/pj_sekai/status/1805937724941349341)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/26（水） 20:54
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805932619751940472"></a>
-</blockquote>
+[【#プロセ...](https://twitter.com/pj_sekai/status/1805932619751940472)
+<br>
+#プロセカ放送局 #プロセカ放送局
 
 ---
 
@@ -97,6 +129,14 @@
 **DATE**: 06/26（水） 20:29
 <br>
 [🎶楽曲追加...](https://twitter.com/pj_sekai/status/1805926379227386070)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/26（水） 20:28
+<br>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1805926129288757412)
 <br>
 #プロセカ放送局
 
@@ -896,13 +936,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
+[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
+[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
 
 ---
 
@@ -2188,13 +2228,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
+**DATE**: 04/28（日） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
 
 ---
 
@@ -3422,13 +3462,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
