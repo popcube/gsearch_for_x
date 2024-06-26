@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/26 22:13
+### 最終更新：2024/06/26 22:35
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1805940476916433276"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/26（水） 21:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805939574058975661"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/26（水） 21:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805938932858999207"></a>
 </blockquote>
 
 ---
@@ -30,19 +46,27 @@
 
 ---
 
+**DATE**: 06/26（水） 20:48
+<br>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1805931042957934607)
+<br>
+#プロセカ感謝祭 #プロセカ放送局
+
+---
+
 **DATE**: 06/26（水） 20:47
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805930869481459945"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1805930869481459945)
+<br>
+#プロセカ感謝祭 #プロセカ放送局
 
 ---
 
 **DATE**: 06/26（水） 20:46
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805930620411072570"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1805930620411072570)
+<br>
+#プロセカ感謝祭 #プロセカ放送局
 
 ---
 
@@ -1510,13 +1534,13 @@
 
 ---
 
-**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
-
----
-
 **DATE**: 05/21（火） 20:00
 <br>
 [本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
+
+---
+
+**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
 
 ---
 
@@ -2066,13 +2090,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
