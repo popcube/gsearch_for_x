@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/26 21:51
+### 最終更新：2024/06/26 22:13
 
+
+---
+
+**DATE**: 06/26（水） 21:25
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805940476916433276"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/26（水） 21:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805938214722744670"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +26,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1805932619751940472"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/26（水） 20:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805930869481459945"></a>
 </blockquote>
 
 ---
@@ -24,25 +48,33 @@
 
 **DATE**: 06/26（水） 20:42
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805929594417205745"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1805929594417205745)
+<br>
+#プロセカ感謝祭 #プロセカ放送局
 
 ---
 
 **DATE**: 06/26（水） 20:41
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805929488485908716"></a>
-</blockquote>
+[♬プロジェ...](https://twitter.com/pj_sekai/status/1805929488485908716)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/26（水） 20:31
+<br>
+[💿Vivi...](https://twitter.com/pj_sekai/status/1805926879838491076)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/26（水） 20:29
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805926379227386070"></a>
-</blockquote>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1805926379227386070)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -3366,13 +3398,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
