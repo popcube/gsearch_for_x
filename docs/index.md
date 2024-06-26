@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/24 19:12
+### 最終更新：2024/06/26 14:27
 
+
+---
+
+**DATE**: 06/26（水） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1805798398492295619"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 06/24（月） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1804892417625309211"></a>
-</blockquote>
+[👑神代類 ...](https://twitter.com/pj_sekai/status/1804892417625309211)
+<br>
+#神代類誕生祭2024
 
 ---
 
@@ -4525,98 +4533,5 @@
 **DATE**: 03/24（日） 11:00
 <br>
 [🌟書き下ろ...](https://twitter.com/pj_sekai/status/1771718576275062930)
-
----
-
-**DATE**: 03/22（金） 18:08
-<br>
-[タレント部...](https://twitter.com/pj_sekai/status/1771101565589373421)
-<br>
-#プロセカWCS
-
----
-
-**DATE**: 03/22（金） 18:05
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1771100869045465546)
-<br>
-#プロセカWCS
-
----
-
-**DATE**: 03/22（金） 18:00
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1771099503501643839)
-
----
-
-**DATE**: 03/22（金） 15:07
-<br>
-[『嬢王』
-...](https://twitter.com/pj_sekai/status/1771056063623897298)
-
----
-
-**DATE**: 03/22（金） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1771055674539339846)
-
----
-
-**DATE**: 03/22（金） 15:03
-<br>
-[本日15:...](https://twitter.com/pj_sekai/status/1771054970256949396)
-
----
-
-**DATE**: 03/22（金） 15:00 イベント「**The first concerto**」 開始
-
----
-
-**DATE**: 03/22（金） 12:14
-<br>
-[【大事だか...](https://twitter.com/pj_sekai/status/1771012512626168016)
-
----
-
-**DATE**: 03/22（金） 12:12
-<br>
-[『Root...](https://twitter.com/pj_sekai/status/1771012158178079089)
-
----
-
-**DATE**: 03/22（金） 12:09
-<br>
-[【夜道を揺...](https://twitter.com/pj_sekai/status/1771011393132855355)
-
----
-
-**DATE**: 03/22（金） 12:08
-<br>
-[『Root...](https://twitter.com/pj_sekai/status/1771010964412141577)
-
----
-
-**DATE**: 03/22（金） 12:06
-<br>
-[【枷は、鍵...](https://twitter.com/pj_sekai/status/1771010425183965257)
-
----
-
-**DATE**: 03/22（金） 12:04
-<br>
-[『Root...](https://twitter.com/pj_sekai/status/1771010121503838352)
-
----
-
-**DATE**: 03/22（金） 11:05
-<br>
-[「グッバイ...](https://twitter.com/pj_sekai/status/1770995245939069134)
-
----
-
-**DATE**: 03/22（金） 11:05
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1770995198375743714)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
