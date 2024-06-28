@@ -1,8 +1,36 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/06/28 22:25
+### 最終更新：2024/06/28 22:48
 
+
+---
+
+**DATE**: 06/28（金） 22:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1806682300706435255"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/28（金） 21:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1806659058650485098"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/28（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1806658819541361064"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/28（金） 21:00 イベント「**灯を手繰りよせて**」 終了
 
 ---
 
@@ -14,35 +42,39 @@
 
 ---
 
-**DATE**: 06/28（金） 15:24
+**DATE**: 06/28（金） 18:37
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1806574252856160636"></a>
+<a href="https://twitter.com/pj_sekai/status/1806623060407333240"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/28（金） 15:24
+<br>
+[本日15時...](https://twitter.com/pj_sekai/status/1806574252856160636)
 
 ---
 
 **DATE**: 06/27（木） 19:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1806272142776189246"></a>
-</blockquote>
+[👑ワンダー...](https://twitter.com/pj_sekai/status/1806272142776189246)
 
 ---
 
 **DATE**: 06/26（水） 21:25
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805940476916433276"></a>
-</blockquote>
+[🎊プロセカ...](https://twitter.com/pj_sekai/status/1805940476916433276)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/26（水） 21:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1805939801331548236"></a>
-</blockquote>
+[アップデー...](https://twitter.com/pj_sekai/status/1805939801331548236)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -590,13 +622,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
@@ -824,13 +856,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
@@ -3710,13 +3742,13 @@
 
 **DATE**: 04/10（水） 12:05
 <br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
+[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
 
 ---
 
 **DATE**: 04/10（水） 12:05
 <br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
+[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
 
 ---
 
