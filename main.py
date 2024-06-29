@@ -116,6 +116,7 @@ if __name__ == '__main__':
   days = 1 if max_page == 1 else 3
   keyword = "プロジェクトセカイ"
   base_url = "https://twitter.com/pj_sekai/status/"
+  base_url_2 = "https://x.com/pj_sekai/status/"
   retention_days = 94
   ########################################
   
@@ -131,6 +132,8 @@ if __name__ == '__main__':
   
   ## create urls to be excluded from next g search
   ex_urls = [base_url + post[1] for post in cur_posts
+             if datetime.fromisoformat(post[0]) > search_date]
+  ex_urls += [base_url_2 + post[1] for post in cur_posts
              if datetime.fromisoformat(post[0]) > search_date]
   
   res = get_search_response(days, keyword, max_page, ex_urls)
