@@ -131,10 +131,11 @@ if __name__ == '__main__':
                if datetime.fromisoformat(post[0]) > cutoff_date]
   
   ## create urls to be excluded from next g search
-  ex_urls = [base_url + post[1] for post in cur_posts
-             if datetime.fromisoformat(post[0]) > search_date]
-  ex_urls += [base_url_2 + post[1] for post in cur_posts
-             if datetime.fromisoformat(post[0]) > search_date]
+  # ex_urls = [base_url + post[1] for post in cur_posts
+  #            if datetime.fromisoformat(post[0]) > search_date]
+  # ex_urls += [base_url_2 + post[1] for post in cur_posts
+  #            if datetime.fromisoformat(post[0]) > search_date]
+  ex_urls = []
   
   res = get_search_response(days, keyword, max_page, ex_urls)
   new_posts = post_sort(res)
