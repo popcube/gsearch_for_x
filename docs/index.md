@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/01 04:15
+### 最終更新：2024/07/01 13:12
 
+
+---
+
+**DATE**: 07/01（月） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1807611659604885761"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/01（月） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1807611635617702314"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 06/30（日） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1807250500028633108"></a>
-</blockquote>
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250500028633108)
 
 ---
 
 **DATE**: 06/30（日） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1807250402255024511"></a>
-</blockquote>
+[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
 
 ---
 
@@ -58,13 +70,13 @@
 
 **DATE**: 06/30（日） 12:09
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
+[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
 
 ---
 
 **DATE**: 06/30（日） 12:09
 <br>
-[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
 
 ---
 
@@ -1356,25 +1368,25 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
-
----
-
-**DATE**: 05/31（金） 12:06
-<br>
 [【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
 [『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
+
+---
+
+**DATE**: 05/31（金） 12:06
+<br>
+[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
 
 ---
 
@@ -4463,33 +4475,5 @@
 **DATE**: 03/29（金） 11:29
 <br>
 [【メンテナ...](https://twitter.com/pj_sekai/status/1773537923608019095)
-
----
-
-**DATE**: 03/28（木） 22:53
-<br>
-[💿Vivi...](https://twitter.com/pj_sekai/status/1773347715075764695)
-
----
-
-**DATE**: 03/28（木） 22:09
-<br>
-[『blen...](https://twitter.com/pj_sekai/status/1773336679052423366)
-<br>
-#ビビバス
-
----
-
-**DATE**: 03/28（木） 22:06
-<br>
-[💿Vivi...](https://twitter.com/pj_sekai/status/1773335860760687095)
-<br>
-#ビビバス
-
----
-
-**DATE**: 03/28（木） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1773319182060253558)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
