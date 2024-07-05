@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/05 15:34
+### 最終更新：2024/07/05 21:49
 
+
+---
+
+**DATE**: 07/05（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1809195530683101247"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/05（金） 20:36
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1809189729327571156"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/05（金） 20:36
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1809189727536595055"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/05（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1809180422246396043"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,31 @@
 
 **DATE**: 07/05（金） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1809060556676255795"></a>
-</blockquote>
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1809060556676255795)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 07/04（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1808698785117450631"></a>
-</blockquote>
+[『The ...](https://twitter.com/pj_sekai/status/1808698785117450631)
 
 ---
 
 **DATE**: 07/04（木） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1808698449057177865"></a>
-</blockquote>
+[7月5日（...](https://twitter.com/pj_sekai/status/1808698449057177865)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 07/02（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1807972462409441575"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1807972462409441575)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -4129,19 +4159,5 @@
 **DATE**: 04/02（火） 15:04
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1775041615968809203)
-
----
-
-**DATE**: 04/02（火） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1774995313054699965)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 04/02（火） 11:00
-<br>
-[ユニットイ...](https://twitter.com/pj_sekai/status/1774980081037004910)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
