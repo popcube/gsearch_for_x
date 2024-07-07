@@ -48,7 +48,7 @@ if __name__ == '__main__':
   ## parse url to id when necessary
   url_pattern = r"^https://(x|twitter)\.com/pj_sekai/status/([0-9]+)($|\?.+)"
   for id in ids_raw:
-    if re.fullmatch(r"^[0-9]+$", ids[0]):
+    if re.fullmatch(r"^[0-9]+$", id):
       ids.append(id)
     elif re.fullmatch(url_pattern, id):
       ids.append(re.match(url_pattern, id).group(2))
