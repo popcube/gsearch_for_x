@@ -68,6 +68,12 @@ def datetime_str(dt_str):
   dt = datetime.fromisoformat(dt_str.rstrip("Z")) + timedelta(hours=+9)
   return dt.isoformat()
 
+def detect_rt(post_list, person_list, og_description):
+  post_flag = len(post_list) >= 2
+  person_flag = len(person_list) >= 2
+  description_flag = og_description.startswith("RT @")
+  return post_flag and person_flag and description_flag
+  
 def post_sort(response):
   sorted_posts = []
   try:
@@ -87,8 +93,14 @@ def post_sort(response):
     for res in response:
       for item in res["items"]:
         try:
-          post_obj = item["pagemap"]["socialmediaposting"][0]
+          post_obj_list = item["pagemap"]["socialmediaposting"]
           metatag_body = item["pagemap"]["metatags"][0]["og:description"]
+          person_obj_list = item["pagemap"]["person"]
+          if detect_rt(post_obj_list, person_obj_list, metatag_body):
+            print("this post is evaluated as Repost, skipping...")
+            continue
+          
+          post_obj = post_obj_list[0]
           sorted_posts.append([
             datetime_str(post_obj["datecreated"]),                ## date
             post_obj["identifier"],                               ## id
@@ -98,7 +110,7 @@ def post_sort(response):
           ])
         except Exception as e:
           print(e)
-          print("cannot retrieve info from out.json, skipping")
+          print("cannot retrieve item from out.json, skipping...")
           pass
           
     sorted_posts.sort(key=lambda x: x[1], reverse=True)
