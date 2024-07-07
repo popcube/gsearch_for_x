@@ -29,9 +29,15 @@ for id in ids_raw:
     ids.append(id)
   elif re.fullmatch(url_pattern, id):
     ids.append(re.match(url_pattern, id).group(2))
-    
+
+print()
+print("##### TO BE DELETED IDS #####")
+for id in ids:
+  print(id)
+
+
 posts = get_current_data()
-posts = [post for post in posts if post[0] not in ids]
+posts = [post for post in posts if post[1] not in ids]
 
 posts.sort(key=lambda x: x[1], reverse=True)
 
