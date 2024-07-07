@@ -42,11 +42,17 @@ if __name__ == '__main__':
                if datetime.fromisoformat(post[0]) > cutoff_date]
   
   gt = event_dict["inputs"]["gt"]
-  ids = event_dict["inputs"]["ids"].split()
+  ids_raw = event_dict["inputs"]["ids"].split()
+  ids = []
   
   ## parse url to id when necessary
   url_pattern = r"^https://(x|twitter)\.com/pj_sekai/status/([0-9]+)($|\?.+)"
-  ids = [re.match(url_pattern, id).group(2) for id in ids if re.fullmatch(url_pattern, id)]
+  for id in ids_raw:
+    if re.fullmatch(r"^[0-9]+$", ids[0]):
+      ids.append(id)
+    elif re.fullmatch(url_pattern, id):
+      ids.append(re.match(url_pattern, id).group(2))
+      
   new_posts = populate_from_ids(gt, ids)
   
   ## all posts including dupe entry
