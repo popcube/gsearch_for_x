@@ -44,13 +44,12 @@ jobs:
       env:
         ENC_DEC: 'ENC'
 
-    # - name: commit new posts
-    #   if: false
-    #   run: |          
-    #     git config --global user.name ${{ github.actor }}
-    #     git config --global user.email ${{ secrets.MY_EMAIL }}
-    #     git add ./docs/. -A \
-    #     && git diff --cached --exit-code \
-    #     || (git add -A ./docs/. \
-    #     && git commit -m "auto commit docs folder" \
-    #     && git push)
+    - name: commit new posts
+      run: |          
+        git config --global user.name ${{ github.actor }}
+        git config --global user.email ${{ secrets.MY_EMAIL }}
+        git add ./docs/. -A \
+        && git diff --cached --exit-code \
+        || (git add -A ./docs/. \
+        && git commit -m "auto commit docs folder" \
+        && git push)
