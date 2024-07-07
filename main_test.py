@@ -96,7 +96,7 @@ def post_sort(response):
           post_obj_list = item["pagemap"]["socialmediaposting"]
           metatag_body = item["pagemap"]["metatags"][0]["og:description"]
           person_obj_list = item["pagemap"]["person"]
-          post_id = person_obj_list[0]["identifier"]
+          post_id = post_obj_list[0]["identifier"]
           if detect_rt(post_obj_list, person_obj_list, metatag_body):
             print(f"{post_id} is evaluated as Repost, skipping...")
             continue
