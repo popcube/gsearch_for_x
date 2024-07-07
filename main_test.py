@@ -114,7 +114,8 @@ if __name__ == '__main__':
   # max_page = 10
   # minimum date or search range
   days = 1 if max_page == 1 else 3
-  keyword = "プロジェクトセカイ"
+  # keyword = "プロジェクトセカイ"
+  keyword = "RT"
   base_url = "https://twitter.com/pj_sekai/status/"
   base_url_2 = "https://x.com/pj_sekai/status/"
   retention_days = 94
