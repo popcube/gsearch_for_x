@@ -1,4 +1,4 @@
-name: force update
+name: force delete
 on:
   workflow_dispatch:
     inputs:
