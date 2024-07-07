@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/07 23:08
+### 最終更新：2024/07/07 23:33
 
 
 ---
@@ -38,15 +38,23 @@
 
 ---
 
+**DATE**: 07/07（日） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1809920306942775750"></a>
+</blockquote>
+
+---
+
 **DATE**: 07/07（日） 21:00 イベント「**OVER RAD SQUAD!!**」 終了
 
 ---
 
 **DATE**: 07/06（土） 18:55
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1809526603472355506"></a>
-</blockquote>
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1809526603472355506)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
