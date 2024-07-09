@@ -1,16 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/09 12:48
+### 最終更新：2024/07/09 15:37
 
 
 ---
 
-**DATE**: 07/09（火） 12:03
+**DATE**: 07/09（火） 15:07
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810510089897624047"></a>
+<a href="https://twitter.com/pj_sekai/status/1810556327317635109"></a>
 </blockquote>
+
+---
+
+**DATE**: 07/09（火） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810556283898204305"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（火） 15:00 イベント「**お縄を頂戴！？天馬捕物帳**」 開始
 
 ---
 
@@ -25,6 +37,14 @@
 **DATE**: 07/09（火） 12:03
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810510089897624047"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1810510036273348736"></a>
 </blockquote>
 
@@ -32,17 +52,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810510034172018947"></a>
-</blockquote>
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810509980719861846"></a>
-</blockquote>
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
@@ -276,25 +292,25 @@
 
 **DATE**: 06/30（日） 12:10
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
+[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
 
 ---
 
 **DATE**: 06/30（日） 12:10
 <br>
-[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
-
----
-
-**DATE**: 06/30（日） 12:09
-<br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
 
 ---
 
 **DATE**: 06/30（日） 12:09
 <br>
 [【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
+
+---
+
+**DATE**: 06/30（日） 12:09
+<br>
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
 
 ---
 
@@ -1232,13 +1248,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
