@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/09 12:13
+### 最終更新：2024/07/09 12:29
 
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810510089897624047"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810510036273348736"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810509980719861846"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810509978555572503"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,31 @@
 
 **DATE**: 07/09（火） 11:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810497253733523583"></a>
-</blockquote>
+[下記楽曲の...](https://twitter.com/pj_sekai/status/1810497253733523583)
 
 ---
 
 **DATE**: 07/09（火） 11:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810497147814748306"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1810497147814748306)
+
+---
+
+**DATE**: 07/09（火） 11:10
+<br>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1810496839378198634)
 
 ---
 
 **DATE**: 07/08（月） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810194192817373640"></a>
-</blockquote>
+[7月9日（...](https://twitter.com/pj_sekai/status/1810194192817373640)
 
 ---
 
 **DATE**: 07/08（月） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810192685317476475"></a>
-</blockquote>
+[明日、7月...](https://twitter.com/pj_sekai/status/1810192685317476475)
 
 ---
 
@@ -2188,13 +2218,13 @@
 
 ---
 
-**DATE**: 05/21（火） 20:00
-<br>
-[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
+**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
 
 ---
 
-**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
+**DATE**: 05/21（火） 20:00
+<br>
+[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
 
 ---
 
