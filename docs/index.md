@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/09 20:10
+### 最終更新：2024/07/10 12:39
 
+
+---
+
+**DATE**: 07/10（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810873302522745318"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/10（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810873227218145353"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/10（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1810873228694638872"></a>
+</blockquote>
 
 ---
 
@@ -24,17 +48,13 @@
 
 **DATE**: 07/09（火） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810556327317635109"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1810556327317635109)
 
 ---
 
 **DATE**: 07/09（火） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810556283898204305"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1810556283898204305)
 
 ---
 
@@ -44,9 +64,7 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810510089897624047"></a>
-</blockquote>
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
@@ -1260,13 +1278,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
@@ -4233,21 +4251,5 @@
 [『脱法ロッ...](https://twitter.com/pj_sekai/status/1777261028365287589)
 <br>
 #ワンダショ
-
----
-
-**DATE**: 04/06（土） 12:01
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1776445015797195242)
-<br>
-#プロセカWCS
-
----
-
-**DATE**: 04/06（土） 12:01
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1776444980581868007)
-<br>
-#プロセカWCS
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
