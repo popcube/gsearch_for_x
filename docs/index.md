@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/11 19:10
+### 最終更新：2024/07/15 12:48
 
+
+---
+
+**DATE**: 07/15（月） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1812685946875449736"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/15（月） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1812685920220713238"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 07/10（水） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810873720594125161"></a>
-</blockquote>
+[Leo/n...](https://twitter.com/pj_sekai/status/1810873720594125161)
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1810873302522745318"></a>
-</blockquote>
+[💿Vivi...](https://twitter.com/pj_sekai/status/1810873302522745318)
 
 ---
 
@@ -104,13 +116,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
@@ -350,13 +362,13 @@
 
 **DATE**: 06/30（日） 12:10
 <br>
-[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
 
 ---
 
 **DATE**: 06/30（日） 12:10
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
+[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
 
 ---
 
@@ -2958,13 +2970,13 @@
 
 ---
 
-**DATE**: 04/28（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
+**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
 
 ---
 
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
+**DATE**: 04/28（日） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
 
 ---
 
@@ -3494,13 +3506,13 @@
 
 **DATE**: 04/20（土） 12:04
 <br>
-[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
+[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
 
 ---
 
 **DATE**: 04/20（土） 12:04
 <br>
-[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
+[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
 
 ---
 
@@ -4127,157 +4139,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1778619079827574911)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 04/11（木） 12:02
-<br>
-[4月12日...](https://twitter.com/pj_sekai/status/1778257205520937093)
-<br>
-#セカラジ
-
----
-
-**DATE**: 04/11（木） 12:02
-<br>
-[プロセカア...](https://twitter.com/pj_sekai/status/1778257161442996639)
-<br>
-#プロセカアカデミー
-
----
-
-**DATE**: 04/10（水） 18:04
-<br>
-[「プロセカ...](https://twitter.com/pj_sekai/status/1777985911927841026)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 04/10（水） 18:02
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1777985549791604844)
-
----
-
-**DATE**: 04/10（水） 15:08
-<br>
-[🎧25時、...](https://twitter.com/pj_sekai/status/1777941817100800153)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 04/10（水） 15:08
-<br>
-[本日15:...](https://twitter.com/pj_sekai/status/1777941789732962605)
-
----
-
-**DATE**: 04/10（水） 15:00 イベント「**Knowing the Unseen**」 開始
-
----
-
-**DATE**: 04/10（水） 12:05
-<br>
-[【楽しそう...](https://twitter.com/pj_sekai/status/1777895730432364567)
-
----
-
-**DATE**: 04/10（水） 12:05
-<br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895728331083780)
-
----
-
-**DATE**: 04/10（水） 12:05
-<br>
-[【穏やかな...](https://twitter.com/pj_sekai/status/1777895576002244874)
-
----
-
-**DATE**: 04/10（水） 12:05
-<br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895574068674985)
-
----
-
-**DATE**: 04/10（水） 12:03
-<br>
-[【絵から見...](https://twitter.com/pj_sekai/status/1777895248179658938)
-
----
-
-**DATE**: 04/10（水） 12:03
-<br>
-[「Draw...](https://twitter.com/pj_sekai/status/1777895245885346138)
-
----
-
-**DATE**: 04/10（水） 11:13
-<br>
-[「Flyw...](https://twitter.com/pj_sekai/status/1777882681780691172)
-
----
-
-**DATE**: 04/10（水） 11:13
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1777882635265773924)
-
----
-
-**DATE**: 04/10（水） 11:13
-<br>
-[【v3.4...](https://twitter.com/pj_sekai/status/1777882608279666702)
-
----
-
-**DATE**: 04/10（水） 11:11
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1777882062017733051)
-
----
-
-**DATE**: 04/09（火） 18:00
-<br>
-[『脱法ロッ...](https://twitter.com/pj_sekai/status/1777622484965069122)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 04/09（火） 15:01
-<br>
-[明日、4月...](https://twitter.com/pj_sekai/status/1777577436202357110)
-
----
-
-**DATE**: 04/08（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1777305397344244010)
-
----
-
-**DATE**: 04/08（月） 21:00 イベント「**Rise as ONE！**」 終了
-
----
-
-**DATE**: 04/08（月） 19:03
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1777276189608231229)
-
----
-
-**DATE**: 04/08（月） 19:01
-<br>
-[【v3.4...](https://twitter.com/pj_sekai/status/1777275517009645684)
-
----
-
-**DATE**: 04/08（月） 18:03
-<br>
-[『脱法ロッ...](https://twitter.com/pj_sekai/status/1777261028365287589)
-<br>
-#ワンダショ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
