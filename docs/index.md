@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/15 12:48
+### 最終更新：2024/07/15 23:09
 
+
+---
+
+**DATE**: 07/15（月） 22:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1812836750290747833"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/15（月） 21:00 イベント「**お縄を頂戴！？天馬捕物帳**」 終了
 
 ---
 
@@ -40,9 +52,9 @@
 
 **DATE**: 07/11（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1811233954391003153"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1811233954391003153)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -116,13 +128,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
@@ -1318,13 +1330,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
@@ -1678,13 +1690,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
+[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
+[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
 
 ---
 
@@ -3572,13 +3584,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
+**DATE**: 04/18（木） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
 
 ---
 
@@ -4125,19 +4137,5 @@
 **DATE**: 04/12（金） 15:01
 <br>
 [☘️花里み...](https://twitter.com/pj_sekai/status/1778664641344008423)
-
----
-
-**DATE**: 04/12（金） 12:06
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1778620720349913316)
-
----
-
-**DATE**: 04/12（金） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1778619079827574911)
-<br>
-#セカイの4コマ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
