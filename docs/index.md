@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/15 23:09
+### 最終更新：2024/07/16 00:12
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1812836750290747833"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/15（月） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1812819406038212761"></a>
 </blockquote>
 
 ---
@@ -44,9 +52,7 @@
 
 **DATE**: 07/11（木） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1811234722728824914"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1811234722728824914)
 
 ---
 
@@ -2328,13 +2334,13 @@
 
 ---
 
-**DATE**: 05/21（火） 20:00
-<br>
-[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
+**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
 
 ---
 
-**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
+**DATE**: 05/21（火） 20:00
+<br>
+[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
 
 ---
 
@@ -2884,13 +2890,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
@@ -4125,17 +4131,5 @@
 **DATE**: 04/12（金） 16:04
 <br>
 [【不具合の...](https://twitter.com/pj_sekai/status/1778680533717008656)
-
----
-
-**DATE**: 04/12（金） 15:01
-<br>
-[4月14日...](https://twitter.com/pj_sekai/status/1778664766904631527)
-
----
-
-**DATE**: 04/12（金） 15:01
-<br>
-[☘️花里み...](https://twitter.com/pj_sekai/status/1778664641344008423)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
