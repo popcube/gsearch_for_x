@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/16 20:20
+### 最終更新：2024/07/16 23:48
 
+
+---
+
+**DATE**: 07/16（火） 21:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1813186229053313461"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/15（月） 22:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1812836126656516382"></a>
-</blockquote>
+[👑ワンダー...](https://twitter.com/pj_sekai/status/1812836126656516382)
+<br>
+#ワンダショ
 
 ---
 
@@ -1708,25 +1716,25 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
-
----
-
-**DATE**: 05/31（金） 12:06
-<br>
 [【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
 [『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
+
+---
+
+**DATE**: 05/31（金） 12:06
+<br>
+[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
 
 ---
 
@@ -3614,13 +3622,13 @@
 
 ---
 
-**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
-
----
-
 **DATE**: 04/18（木） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1780929269692297683)
+
+---
+
+**DATE**: 04/18（木） 21:00 イベント「**Knowing the Unseen**」 終了
 
 ---
 
@@ -4087,33 +4095,5 @@
 [🎮プロジェ...](https://twitter.com/pj_sekai/status/1779034392901611541)
 <br>
 #プロセカWCS
-
----
-
-**DATE**: 04/13（土） 12:05
-<br>
-[今回の#プ...](https://twitter.com/pj_sekai/status/1778982715246985725)
-<br>
-#プロセカWCS
-
----
-
-**DATE**: 04/13（土） 12:04
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1778982460661051419)
-<br>
-#プロセカWCS
-
----
-
-**DATE**: 04/13（土） 12:03
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1778982216166777094)
-
----
-
-**DATE**: 04/13（土） 12:00
-<br>
-[本日0時よ...](https://twitter.com/pj_sekai/status/1778981442778775717)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
