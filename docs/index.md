@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/17 20:33
+### 最終更新：2024/07/17 20:48
 
+
+---
+
+**DATE**: 07/17（水） 20:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1813531241532231687"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/17（水） 20:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1813531182090592637"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 07/17（水） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1813454731781833062"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1813454731781833062)
 
 ---
 
 **DATE**: 07/17（水） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1813409916016898539"></a>
-</blockquote>
+[【この電車...](https://twitter.com/pj_sekai/status/1813409916016898539)
 
 ---
 
@@ -257,13 +269,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
@@ -503,25 +515,25 @@
 
 **DATE**: 06/30（日） 12:10
 <br>
-[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
 
 ---
 
 **DATE**: 06/30（日） 12:10
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
-
----
-
-**DATE**: 06/30（日） 12:09
-<br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
+[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
 
 ---
 
 **DATE**: 06/30（日） 12:09
 <br>
 [【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
+
+---
+
+**DATE**: 06/30（日） 12:09
+<br>
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
 
 ---
 
