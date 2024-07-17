@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/17 12:38
+### 最終更新：2024/07/17 12:48
 
 
 ---
@@ -22,6 +22,14 @@
 
 ---
 
+**DATE**: 07/17（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1813409877378859481"></a>
+</blockquote>
+
+---
+
 **DATE**: 07/17（水） 12:05
 <br>
 <blockquote class="twitter-tweet">
@@ -33,16 +41,21 @@
 **DATE**: 07/17（水） 12:05
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1813409625875877975"></a>
+<a href="https://twitter.com/pj_sekai/status/1813409628212040079"></a>
 </blockquote>
+
+---
+
+**DATE**: 07/17（水） 12:05
+<br>
+[『青春アッ...](https://twitter.com/pj_sekai/status/1813409625875877975)
 
 ---
 
 **DATE**: 07/17（水） 11:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1813394833446412429"></a>
-</blockquote>
+[「YY」
+...](https://twitter.com/pj_sekai/status/1813394833446412429)
 
 ---
 
@@ -216,13 +229,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
@@ -2960,13 +2973,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
@@ -3594,13 +3607,13 @@
 
 **DATE**: 04/20（土） 12:04
 <br>
-[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
+[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
 
 ---
 
 **DATE**: 04/20（土） 12:04
 <br>
-[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
+[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
 
 ---
 
