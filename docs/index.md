@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/20 21:17
+### 最終更新：2024/07/21 19:28
 
+
+---
+
+**DATE**: 07/21（日） 18:50
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1814961011796910398"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/20（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1814314261922922792"></a>
-</blockquote>
+[㊗️本日7...](https://twitter.com/pj_sekai/status/1814314261922922792)
+<br>
+#草薙寧々誕生祭2024
 
 ---
 
@@ -323,13 +331,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
@@ -347,13 +355,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
@@ -3091,13 +3099,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
@@ -3725,13 +3733,13 @@
 
 **DATE**: 04/20（土） 12:04
 <br>
-[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
+[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
 
 ---
 
 **DATE**: 04/20（土） 12:04
 <br>
-[『Not ...](https://twitter.com/pj_sekai/status/1781519154664907116)
+[【差し入れ...](https://twitter.com/pj_sekai/status/1781519156774674671)
 
 ---
 
@@ -3816,11 +3824,5 @@
 **DATE**: 04/18（木） 12:06
 <br>
 [本日12時...](https://twitter.com/pj_sekai/status/1780795015205449982)
-
----
-
-**DATE**: 04/17（水） 15:01
-<br>
-[【CM機能...](https://twitter.com/pj_sekai/status/1780476722925961315)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
