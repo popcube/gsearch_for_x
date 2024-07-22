@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/22 12:39
+### 最終更新：2024/07/22 15:34
 
+
+---
+
+**DATE**: 07/22（月） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1815267614303854641"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/22（月） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1815267470472847676"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 07/20（土） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1814495696109949425"></a>
-</blockquote>
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1814495696109949425)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 07/20（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1814495444019696095"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1814495444019696095)
+<br>
+#セカイの4コマ #草薙寧々誕生祭2024
 
 ---
 
@@ -295,15 +311,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
