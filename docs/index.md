@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/24 16:48
+### 最終更新：2024/07/24 18:26
 
+
+---
+
+**DATE**: 07/24（水） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1816036127876473041"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/22（月） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1815310837357424757"></a>
-</blockquote>
+[新プロジェ...](https://twitter.com/pj_sekai/status/1815310837357424757)
+<br>
+#プロセカ新プロジェクト
 
 ---
 
@@ -345,15 +353,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
@@ -413,13 +421,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
@@ -659,13 +667,13 @@
 
 **DATE**: 06/30（日） 12:09
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
+[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
 
 ---
 
 **DATE**: 06/30（日） 12:09
 <br>
-[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
 
 ---
 
