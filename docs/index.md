@@ -1,8 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/29 18:11
+### 最終更新：2024/07/29 20:09
 
+
+---
+
+**DATE**: 07/29（月） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1817870282083930382"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/29（月） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1817870238249312361"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/29（月） 19:30 「**プロセカ放送局 第10回**」 放送開始
 
 ---
 
@@ -32,17 +52,17 @@
 
 **DATE**: 07/29（月） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1817804101520089490"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1817804101520089490)
+<br>
+#ニーゴ
 
 ---
 
 **DATE**: 07/29（月） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1817757325329080400"></a>
-</blockquote>
+[本日19:...](https://twitter.com/pj_sekai/status/1817757325329080400)
+<br>
+#10
 
 ---
 
@@ -1451,13 +1471,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
@@ -2045,13 +2065,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
+[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377561343398206)
+[【いざ、変...](https://twitter.com/pj_sekai/status/1796377563323118043)
 
 ---
 
