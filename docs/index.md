@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/29 20:21
+### 最終更新：2024/07/29 20:33
 
+
+---
+
+**DATE**: 07/29（月） 20:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1817882635261386752"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/29（月） 20:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1817880172282134593"></a>
+</blockquote>
 
 ---
 
@@ -32,9 +48,9 @@
 
 **DATE**: 07/29（月） 20:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1817878110047535427"></a>
-</blockquote>
+[『プロセカ...](https://twitter.com/pj_sekai/status/1817878110047535427)
+<br>
+#10 #プロセカ放送局
 
 ---
 
@@ -44,9 +60,9 @@
 
 **DATE**: 07/29（月） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1817870282083930382"></a>
-</blockquote>
+[ボカロミュ...](https://twitter.com/pj_sekai/status/1817870282083930382)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -3291,13 +3307,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
