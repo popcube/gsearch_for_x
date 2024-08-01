@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/07/31 21:20
+### 最終更新：2024/08/01 12:38
 
+
+---
+
+**DATE**: 08/01（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1818845054594605532"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（木） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1818844104312471829"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1818484579558474160"></a>
-</blockquote>
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1818484581462688041"></a>
-</blockquote>
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
@@ -899,13 +911,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
@@ -1867,13 +1879,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
@@ -2101,13 +2113,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
@@ -3655,13 +3667,13 @@
 
 **DATE**: 04/30（火） 12:02
 <br>
-[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
+[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
 
 ---
 
 **DATE**: 04/30（火） 12:02
 <br>
-[「Eter...](https://twitter.com/pj_sekai/status/1785142551701524904)
+[【決戦の時...](https://twitter.com/pj_sekai/status/1785142553886745044)
 
 ---
 
@@ -3722,55 +3734,5 @@
 **DATE**: 04/29（月） 12:02
 <br>
 [🌱GWログ...](https://twitter.com/pj_sekai/status/1784780220811428031)
-
----
-
-**DATE**: 04/28（日） 22:33
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1784576642008113439)
-
----
-
-**DATE**: 04/28（日） 22:11
-<br>
-[『すれすれ...](https://twitter.com/pj_sekai/status/1784571198158033167)
-<br>
-#レオニ
-
----
-
-**DATE**: 04/28（日） 22:07
-<br>
-[💫Leo/...](https://twitter.com/pj_sekai/status/1784570106393333970)
-<br>
-#レオニ
-
----
-
-**DATE**: 04/28（日） 21:01
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1784553398622388646)
-
----
-
-**DATE**: 04/28（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1784553147433951293)
-
----
-
-**DATE**: 04/28（日） 21:00 イベント「**Parallel Harmonies**」 終了
-
----
-
-**DATE**: 04/28（日） 15:03
-<br>
-[4月30日...](https://twitter.com/pj_sekai/status/1784463454939890070)
-
----
-
-**DATE**: 04/28（日） 15:02
-<br>
-[🎧東雲絵名...](https://twitter.com/pj_sekai/status/1784463302468522213)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
