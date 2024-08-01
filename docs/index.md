@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/01 12:38
+### 最終更新：2024/08/01 17:48
 
+
+---
+
+**DATE**: 08/01（木） 17:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1818923577095471411"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（木） 17:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1818923546489635320"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 07/31（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1818572318769397850"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1818572318769397850)
 
 ---
 
 **DATE**: 07/31（水） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1818528680345583801"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1818528680345583801)
 
 ---
 
@@ -2251,13 +2263,13 @@
 
 ---
 
-**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
-
----
-
 **DATE**: 06/08（土） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1799411050565288361)
+
+---
+
+**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
 
 ---
 
