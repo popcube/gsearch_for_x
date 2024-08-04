@@ -24,7 +24,11 @@ def decorate_row(row):
   
   # extract hashtags
   row_tags = re.findall(r"\B#\w\w+\b", row["BODY TEXT"])
-  row_tags_str = " ".join(tag for tag in row_tags if tag != "#プロセカ")
+  row_tags_str = " ".join(
+    tag for tag in row_tags
+    if tag != "#プロセカ"
+    and not re.fullmatch(r"\B#\d\w+\b", tag)
+  )
   if len(row_tags_str) > 0:
     row_2 += "\n<br>\n" + row_tags_str
   
