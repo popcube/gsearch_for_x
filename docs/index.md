@@ -1,8 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/07 20:21
+### 最終更新：2024/08/07 22:15
 
+
+---
+
+**DATE**: 08/07（水） 21:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821154573584892406"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（水） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821154326120628254"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（水） 21:00 イベント「**Chase my IDEAL IDOL！**」 終了
 
 ---
 
@@ -32,17 +52,15 @@
 
 **DATE**: 08/03（土） 15:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1819617211319046182"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1819617211319046182)
 
 ---
 
 **DATE**: 08/03（土） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1819615350683848817"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1819615350683848817)
+<br>
+#ボカセカ
 
 ---
 
@@ -136,13 +154,13 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
@@ -999,13 +1017,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
@@ -2327,13 +2345,13 @@
 
 ---
 
-**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
-
----
-
 **DATE**: 06/08（土） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1799411050565288361)
+
+---
+
+**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
 
 ---
 
@@ -3187,13 +3205,13 @@
 
 ---
 
-**DATE**: 05/21（火） 20:00
-<br>
-[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
+**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
 
 ---
 
-**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
+**DATE**: 05/21（火） 20:00
+<br>
+[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
 
 ---
 
