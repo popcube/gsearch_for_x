@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/07 22:15
+### 最終更新：2024/08/07 22:48
 
+
+---
+
+**DATE**: 08/07（水） 22:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821176569072923098"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（水） 22:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821171592963219684"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（水） 22:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821170997720182941"></a>
+</blockquote>
 
 ---
 
@@ -28,25 +52,21 @@
 
 **DATE**: 08/07（水） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1821109364230443100"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1821109364230443100)
 
 ---
 
 **DATE**: 08/04（日） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1819978657471009160"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1819978657471009160)
 
 ---
 
 **DATE**: 08/04（日） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1819977518268702858"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1819977518268702858)
+<br>
+#ボカセカ
 
 ---
 
@@ -154,25 +174,25 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
-
----
-
-**DATE**: 07/31（水） 12:09
-<br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
 **DATE**: 07/31（水） 12:09
 <br>
 [【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
+
+---
+
+**DATE**: 07/31（水） 12:09
+<br>
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
 
 ---
 
