@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/09 12:38
+### 最終更新：2024/08/09 12:48
 
+
+---
+
+**DATE**: 08/09（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821744584109773296"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821744558730084562"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821744504057294886"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1821744501918196186"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,25 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1821744438630367490"></a>
-</blockquote>
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
 **DATE**: 08/09（金） 11:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1821732084156883243"></a>
-</blockquote>
+[「88☆彡...](https://twitter.com/pj_sekai/status/1821732084156883243)
 
 ---
 
 **DATE**: 08/09（金） 11:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1821732070508593443"></a>
-</blockquote>
+[下記楽曲の...](https://twitter.com/pj_sekai/status/1821732070508593443)
 
 ---
 
 **DATE**: 08/09（金） 11:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1821732060295524398"></a>
-</blockquote>
+[【v3.8...](https://twitter.com/pj_sekai/status/1821732060295524398)
 
 ---
 
@@ -184,15 +208,15 @@
 
 **DATE**: 08/02（金） 12:08
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 08/02（金） 12:08
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
 
 ---
 
@@ -1051,15 +1075,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
@@ -1107,25 +1131,25 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
-
----
-
-**DATE**: 07/09（火） 12:03
-<br>
 [【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
 [【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
