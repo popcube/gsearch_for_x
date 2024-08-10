@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/10 12:31
+### 最終更新：2024/08/11 01:12
 
+
+---
+
+**DATE**: 08/11（日） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1822286788456812813"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 08/09（金） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1821790026445009085"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1821790026445009085)
 
 ---
 
@@ -1423,13 +1429,13 @@
 
 **DATE**: 06/30（日） 12:09
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
+[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
 
 ---
 
 **DATE**: 06/30（日） 12:09
 <br>
-[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
 
 ---
 
@@ -3732,11 +3738,5 @@
 [㊗️本日5...](https://twitter.com/pj_sekai/status/1788222328004125062)
 <br>
 #天馬咲希誕生祭2024
-
----
-
-**DATE**: 05/08（水） 15:06
-<br>
-[明日、5月...](https://twitter.com/pj_sekai/status/1788087983104819626)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
