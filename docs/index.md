@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/12 18:36
+### 最終更新：2024/08/13 15:41
 
+
+---
+
+**DATE**: 08/13（火） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1823239674921623716"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/13（火） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1823239654662934798"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 08/11（日） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1822287035551596777"></a>
-</blockquote>
+[💫星乃一歌...](https://twitter.com/pj_sekai/status/1822287035551596777)
+<br>
+#星乃一歌誕生祭2024
 
 ---
 
 **DATE**: 08/11（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1822286788456812813"></a>
-</blockquote>
+[㊗️本日8...](https://twitter.com/pj_sekai/status/1822286788456812813)
+<br>
+#星乃一歌誕生祭2024
 
 ---
 
@@ -108,13 +124,13 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
@@ -274,15 +290,15 @@
 
 **DATE**: 08/02（金） 12:08
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 08/02（金） 12:08
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
 
 ---
 
@@ -358,13 +374,13 @@
 
 **DATE**: 07/31（水） 12:09
 <br>
-[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
 
 ---
 
 **DATE**: 07/31（水） 12:09
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
+[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
 
 ---
 
@@ -1185,25 +1201,25 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
-
----
-
-**DATE**: 07/09（火） 12:03
-<br>
 [『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
 [『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
@@ -2747,13 +2763,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
@@ -3397,13 +3413,13 @@
 
 ---
 
-**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
-
----
-
 **DATE**: 05/21（火） 20:00
 <br>
 [本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
+
+---
+
+**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
 
 ---
 
@@ -3612,25 +3628,5 @@
 **DATE**: 05/11（土） 12:01
 <br>
 [本日12時...](https://twitter.com/pj_sekai/status/1789128654280327200)
-
----
-
-**DATE**: 05/10（金） 20:28
-<br>
-[ユニットイ...](https://twitter.com/pj_sekai/status/1788893889891651696)
-
----
-
-**DATE**: 05/10（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1788886715605925961)
-<br>
-#セカラジ
-
----
-
-**DATE**: 05/10（金） 15:03
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1788812156026441976)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
