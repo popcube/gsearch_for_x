@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/13 18:38
+### 最終更新：2024/08/15 12:37
 
+
+---
+
+**DATE**: 08/15（木） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1823918627730706494"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/15（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1823918294036029722"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 08/12（月） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1822921421745758525"></a>
-</blockquote>
+[『ザムザ』...](https://twitter.com/pj_sekai/status/1822921421745758525)
+<br>
+#ニーゴ
 
 ---
 
 **DATE**: 08/12（月） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1822830923995586697"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1822830923995586697)
 
 ---
 
@@ -120,13 +134,13 @@
 
 **DATE**: 08/09（金） 12:05
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
+[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
 
 ---
 
 **DATE**: 08/09（金） 12:05
 <br>
-[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
 
 ---
 
@@ -370,13 +384,13 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
@@ -1209,13 +1223,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
@@ -2189,13 +2203,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
@@ -2561,13 +2575,13 @@
 
 ---
 
-**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
-
----
-
 **DATE**: 06/08（土） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1799411050565288361)
+
+---
+
+**DATE**: 06/08（土） 21:00 イベント「**みんなで配信♡WEDDING LIVE！**」 終了
 
 ---
 
@@ -3618,23 +3632,5 @@
 [WEBラジ...](https://twitter.com/pj_sekai/status/1789853077581025397)
 <br>
 #セカラジ
-
----
-
-**DATE**: 05/12（日） 20:05
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1789612838639837599)
-
----
-
-**DATE**: 05/12（日） 18:01
-<br>
-[5月13日...](https://twitter.com/pj_sekai/status/1789581631747133454)
-
----
-
-**DATE**: 05/11（土） 12:01
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1789128654280327200)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
