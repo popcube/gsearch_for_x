@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/16 16:48
+### 最終更新：2024/08/16 22:36
 
+
+---
+
+**DATE**: 08/16（金） 21:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1824417297639018795"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 08/16（金） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1824281890171523300"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1824281890171523300)
 
 ---
 
@@ -1285,15 +1291,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
@@ -1329,25 +1335,25 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
-
----
-
-**DATE**: 07/09（火） 12:03
-<br>
 [『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
 [『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+
+---
+
+**DATE**: 07/09（火） 12:03
+<br>
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
@@ -2891,13 +2897,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
@@ -3704,17 +3710,5 @@
 **DATE**: 05/15（水） 12:00
 <br>
 [☘️MOR...](https://twitter.com/pj_sekai/status/1790577854570176722)
-
----
-
-**DATE**: 05/14（火） 12:04
-<br>
-[📺番組冒頭...](https://twitter.com/pj_sekai/status/1790216555323871595)
-
----
-
-**DATE**: 05/14（火） 12:02
-<br>
-[5月21日...](https://twitter.com/pj_sekai/status/1790215969249296484)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
