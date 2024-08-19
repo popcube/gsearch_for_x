@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/18 18:26
+### 最終更新：2024/08/19 16:12
 
+
+---
+
+**DATE**: 08/19（月） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1825414239307391344"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/19（月） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1825413851111948578"></a>
+</blockquote>
 
 ---
 
@@ -32,9 +48,7 @@
 
 **DATE**: 08/17（土） 20:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1824765482479800668"></a>
-</blockquote>
+[本日20:...](https://twitter.com/pj_sekai/status/1824765482479800668)
 
 ---
 
@@ -44,9 +58,7 @@
 
 **DATE**: 08/17（土） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1824644577690783748"></a>
-</blockquote>
+[【背中を押...](https://twitter.com/pj_sekai/status/1824644577690783748)
 
 ---
 
@@ -1723,13 +1735,13 @@
 
 **DATE**: 06/30（日） 12:09
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
+[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
 
 ---
 
 **DATE**: 06/30（日） 12:09
 <br>
-[【ドキドキ...](https://twitter.com/pj_sekai/status/1807250029998194908)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250026613154001)
 
 ---
 
@@ -2667,13 +2679,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
@@ -3015,13 +3027,13 @@
 
 **DATE**: 05/31（金） 12:06
 <br>
-[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
+[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
 
 ---
 
 **DATE**: 05/31（金） 12:06
 <br>
-[『in m...](https://twitter.com/pj_sekai/status/1796377594692309145)
+[【願いのド...](https://twitter.com/pj_sekai/status/1796377596621734202)
 
 ---
 
@@ -3665,13 +3677,13 @@
 
 ---
 
-**DATE**: 05/21（火） 20:00
-<br>
-[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
+**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
 
 ---
 
-**DATE**: 05/21（火） 20:00 イベント「**いつか花咲くステージへ**」 終了
+**DATE**: 05/21（火） 20:00
+<br>
+[本日21時...](https://twitter.com/pj_sekai/status/1792872970832212173)
 
 ---
 
@@ -3764,39 +3776,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1791302622885859650)
 <br>
 #セカイの4コマ #天馬司誕生祭2024
-
----
-
-**DATE**: 05/17（金） 00:01
-<br>
-[👑天馬司 ...](https://twitter.com/pj_sekai/status/1791121679852122530)
-<br>
-#天馬司誕生祭2024
-
----
-
-**DATE**: 05/17（金） 00:00
-<br>
-[㊗️本日5...](https://twitter.com/pj_sekai/status/1791121436415033757)
-<br>
-#天馬司誕生祭2024
-
----
-
-**DATE**: 05/16（木） 18:00
-<br>
-[『ツギハギ...](https://twitter.com/pj_sekai/status/1791030830430638276)
-
----
-
-**DATE**: 05/16（木） 12:03
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1790941177006735581)
-
----
-
-**DATE**: 05/16（木） 12:02
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1790940954079445223)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
