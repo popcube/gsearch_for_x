@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/26 16:23
+### 最終更新：2024/08/27 00:26
 
+
+---
+
+**DATE**: 08/27（火） 00:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1828085241187098803"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（火） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1828085000589218234"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 08/25（日） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1827586957746303419"></a>
-</blockquote>
+[8月27日...](https://twitter.com/pj_sekai/status/1827586957746303419)
 
 ---
 
 **DATE**: 08/25（日） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1827586708579479799"></a>
-</blockquote>
+[🎧暁山瑞希...](https://twitter.com/pj_sekai/status/1827586708579479799)
 
 ---
 
@@ -802,13 +814,13 @@
 
 **DATE**: 08/09（金） 12:05
 <br>
-[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
 
 ---
 
 **DATE**: 08/09（金） 12:05
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
+[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
 
 ---
 
@@ -856,13 +868,13 @@
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
 
 ---
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
 
 ---
 
@@ -1847,15 +1859,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
@@ -1903,13 +1915,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
@@ -2871,13 +2883,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
@@ -3628,19 +3640,5 @@
 **DATE**: 05/24（金） 19:32
 <br>
 [🌟コネクト...](https://twitter.com/pj_sekai/status/1793953220785778785)
-
----
-
-**DATE**: 05/24（金） 15:06
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1793886144901660870)
-
----
-
-**DATE**: 05/24（金） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1793886116225200198)
-<br>
-#モモジャン
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
