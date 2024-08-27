@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/27 00:26
+### 最終更新：2024/08/27 12:28
 
+
+---
+
+**DATE**: 08/27（火） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1828267441023336598"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 08/25（日） 20:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1827663781637525796"></a>
-</blockquote>
+[ワールドリ...](https://twitter.com/pj_sekai/status/1827663781637525796)
 
 ---
 
@@ -1859,15 +1865,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
@@ -1903,13 +1909,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
@@ -1927,13 +1933,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
@@ -2883,13 +2889,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
@@ -3578,67 +3584,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1794201723608904094)
 <br>
 #セカイの4コマ #青柳冬弥誕生祭2024
-
----
-
-**DATE**: 05/25（土） 00:01
-<br>
-[💿青柳冬弥...](https://twitter.com/pj_sekai/status/1794020781921284312)
-<br>
-#青柳冬弥誕生祭2024
-
----
-
-**DATE**: 05/25（土） 00:00
-<br>
-[㊗️本日5...](https://twitter.com/pj_sekai/status/1794020535765979358)
-<br>
-#青柳冬弥誕生祭2024
-
----
-
-**DATE**: 05/24（金） 21:41
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1793985773236285664)
-
----
-
-**DATE**: 05/24（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1793975243431956670)
-<br>
-#セカラジ
-
----
-
-**DATE**: 05/24（金） 20:14
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1793963854101381288)
-
----
-
-**DATE**: 05/24（金） 20:11
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1793963019833401504)
-
----
-
-**DATE**: 05/24（金） 20:00
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1793960229027369442)
-
----
-
-**DATE**: 05/24（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1793960145623396834)
-<br>
-#セカラジ
-
----
-
-**DATE**: 05/24（金） 19:32
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1793953220785778785)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
