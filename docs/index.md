@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/29 14:11
+### 最終更新：2024/08/29 17:33
 
+
+---
+
+**DATE**: 08/29（木） 17:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1829066458523152502"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 08/27（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1828267441023336598"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1828267441023336598)
+<br>
+#セカイの4コマ #暁山瑞希誕生祭2024
 
 ---
 
