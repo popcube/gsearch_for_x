@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/29 21:54
+### 最終更新：2024/08/29 22:17
 
+
+---
+
+**DATE**: 08/29（木） 21:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1829135899948659152"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1829112006785343899"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/29（木） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1829111762228306178"></a>
 </blockquote>
 
 ---
@@ -36,17 +52,15 @@
 
 **DATE**: 08/29（木） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1829066458523152502"></a>
-</blockquote>
+[🎤初音ミク...](https://twitter.com/pj_sekai/status/1829066458523152502)
 
 ---
 
 **DATE**: 08/29（木） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1828991480092098695"></a>
-</blockquote>
+[8月30日...](https://twitter.com/pj_sekai/status/1828991480092098695)
+<br>
+#セカラジ
 
 ---
 
@@ -612,25 +626,25 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
-
----
-
-**DATE**: 08/17（土） 12:02
-<br>
-[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:02
 <br>
 [『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
+
+---
+
+**DATE**: 08/17（土） 12:02
+<br>
+[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
 
 ---
 
@@ -882,13 +896,13 @@
 
 **DATE**: 08/09（金） 12:05
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
+[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
 
 ---
 
 **DATE**: 08/09（金） 12:05
 <br>
-[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
 
 ---
 
@@ -1983,13 +1997,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
