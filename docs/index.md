@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/31 12:38
+### 最終更新：2024/08/31 13:14
 
+
+---
+
+**DATE**: 08/31（土） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1829716744627470591"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/31（土） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1829716601916264580"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/31（土） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1829716472454922528"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,25 @@
 
 **DATE**: 08/31（土） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1829534792771108935"></a>
-</blockquote>
+[🎤初音ミク...](https://twitter.com/pj_sekai/status/1829534792771108935)
+<br>
+#初音ミク #初音ミク17th #初音ミク誕生祭2024
 
 ---
 
 **DATE**: 08/31（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1829534552068395488"></a>
-</blockquote>
+[㊗️本日8...](https://twitter.com/pj_sekai/status/1829534552068395488)
+<br>
+#初音ミク #初音ミク17th #初音ミク誕生祭2024
 
 ---
 
 **DATE**: 08/30（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1829489244047540734"></a>
-</blockquote>
+[WEBラジ...](https://twitter.com/pj_sekai/status/1829489244047540734)
+<br>
+#セカラジ
 
 ---
 
@@ -1241,13 +1265,13 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
