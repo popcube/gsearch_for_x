@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/08/31 15:48
+### 最終更新：2024/09/01 12:16
 
+
+---
+
+**DATE**: 09/01（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1830078305237942320"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 08/31（土） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1829716599886229887"></a>
-</blockquote>
+[『とっても...](https://twitter.com/pj_sekai/status/1829716599886229887)
 
 ---
 
@@ -2140,13 +2146,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
+[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【クールな...](https://twitter.com/pj_sekai/status/1810510036273348736)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510034172018947)
 
 ---
 
@@ -3342,13 +3348,13 @@
 
 **DATE**: 06/14（金） 18:03
 <br>
-[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
 
 ---
 
 **DATE**: 06/14（金） 18:03
 <br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1801540836926361727)
+[【コネクト...](https://twitter.com/pj_sekai/status/1801540838897713279)
 
 ---
 
@@ -3733,37 +3739,5 @@
 **DATE**: 05/30（木） 15:00
 <br>
 [明日、5月...](https://twitter.com/pj_sekai/status/1796059144069267742)
-
----
-
-**DATE**: 05/29（水） 22:07
-<br>
-[『オペラ！...](https://twitter.com/pj_sekai/status/1795804125852225928)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 05/29（水） 22:06
-<br>
-[👑ワンダー...](https://twitter.com/pj_sekai/status/1795803810813943822)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 05/29（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1795787184227659882)
-
----
-
-**DATE**: 05/29（水） 21:00 イベント「**perspective for smile**」 終了
-
----
-
-**DATE**: 05/29（水） 12:00
-<br>
-[🎧25時、...](https://twitter.com/pj_sekai/status/1795651448405119444)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
