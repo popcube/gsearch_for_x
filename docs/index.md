@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/09/01 17:49
+### 最終更新：2024/09/02 12:30
 
+
+---
+
+**DATE**: 09/02（月） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1830441960324383091"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 08/31（土） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1829716742136066290"></a>
-</blockquote>
+[『とっても...](https://twitter.com/pj_sekai/status/1829716742136066290)
 
 ---
 
@@ -2140,13 +2146,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
@@ -2164,13 +2170,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
+[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【格別のひ...](https://twitter.com/pj_sekai/status/1810509980719861846)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810509978555572503)
 
 ---
 
@@ -3120,13 +3126,13 @@
 
 **DATE**: 06/20（木） 12:12
 <br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
+[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
 
 ---
 
 **DATE**: 06/20（木） 12:12
 <br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
+[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
 
 ---
 
@@ -3733,17 +3739,5 @@
 **DATE**: 05/31（金） 11:05
 <br>
 [下記楽曲の...](https://twitter.com/pj_sekai/status/1796362249587806306)
-
----
-
-**DATE**: 05/30（木） 18:05
-<br>
-[🎧25時、...](https://twitter.com/pj_sekai/status/1796105710360539480)
-
----
-
-**DATE**: 05/30（木） 15:00
-<br>
-[明日、5月...](https://twitter.com/pj_sekai/status/1796059144069267742)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
