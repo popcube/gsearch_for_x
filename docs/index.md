@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/09/10 13:48
+### 最終更新：2024/09/10 15:41
 
+
+---
+
+**DATE**: 09/10（火） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1833387249632788965"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/10（火） 15:00 イベント「**鍛えてFLY！Muscle Training！**」 開始
 
 ---
 
@@ -40,9 +52,7 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1833342089394065719"></a>
-</blockquote>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -1019,25 +1029,25 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
-
----
-
-**DATE**: 08/17（土） 12:02
-<br>
-[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:02
 <br>
 [『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
+
+---
+
+**DATE**: 08/17（土） 12:02
+<br>
+[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
 
 ---
 
@@ -2378,13 +2388,13 @@
 
 **DATE**: 07/09（火） 12:03
 <br>
-[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
+[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
 
 ---
 
 **DATE**: 07/09（火） 12:03
 <br>
-[【火の見や...](https://twitter.com/pj_sekai/status/1810510089897624047)
+[『悪を討て...](https://twitter.com/pj_sekai/status/1810510088014295043)
 
 ---
 
