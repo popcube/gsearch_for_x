@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/09/21 00:28
+### 最終更新：2024/09/22 00:12
 
+
+---
+
+**DATE**: 09/22（日） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1837507080510410770"></a>
+</blockquote>
 
 ---
 
@@ -38,11 +46,13 @@
 
 ---
 
+**DATE**: 09/20（金） 15:00 イベント「**This moment with you！**」 開始
+
+---
+
 **DATE**: 09/20（金） 12:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1836966770873356644"></a>
-</blockquote>
+[【サイダー...](https://twitter.com/pj_sekai/status/1836966770873356644)
 
 ---
 
@@ -376,25 +386,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -1365,13 +1375,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
@@ -1647,13 +1657,13 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
 
 ---
 
@@ -1689,13 +1699,13 @@
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
 
 ---
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
 
 ---
 
@@ -2680,15 +2690,15 @@
 
 **DATE**: 07/10（水） 12:06
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
 
 ---
 
 **DATE**: 07/10（水） 12:06
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1810873228694638872)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1810873227218145353)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
@@ -2982,13 +2992,13 @@
 
 **DATE**: 06/30（日） 12:10
 <br>
-[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
+[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
 
 ---
 
 **DATE**: 06/30（日） 12:10
 <br>
-[【覚悟告ぐ...](https://twitter.com/pj_sekai/status/1807250402255024511)
+[「ブルーム...](https://twitter.com/pj_sekai/status/1807250400082608586)
 
 ---
 
@@ -3767,45 +3777,5 @@
 **DATE**: 06/19（水） 20:00
 <br>
 [💭プロセカ...](https://twitter.com/pj_sekai/status/1803382217374085133)
-
----
-
-**DATE**: 06/19（水） 15:09
-<br>
-[明日、6月...](https://twitter.com/pj_sekai/status/1803309084852232554)
-
----
-
-**DATE**: 06/19（水） 12:04
-<br>
-[📺番組冒頭...](https://twitter.com/pj_sekai/status/1803262579177140492)
-
----
-
-**DATE**: 06/19（水） 12:04
-<br>
-[6月26日...](https://twitter.com/pj_sekai/status/1803262465289101554)
-
----
-
-**DATE**: 06/18（火） 22:10
-<br>
-[『Supe...](https://twitter.com/pj_sekai/status/1803052766840922413)
-<br>
-#モモジャン
-
----
-
-**DATE**: 06/18（火） 22:09
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1803052440625021211)
-<br>
-#モモジャン
-
----
-
-**DATE**: 06/18（火） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1803034938444599794)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
