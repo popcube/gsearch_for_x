@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/09/22 12:16
+### 最終更新：2024/09/23 00:26
 
+
+---
+
+**DATE**: 09/23（月） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1837869468355023136"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 09/20（金） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1837010089942864245"></a>
-</blockquote>
+[💫Leo/...](https://twitter.com/pj_sekai/status/1837010089942864245)
+<br>
+#レオニ
 
 ---
 
@@ -1913,13 +1921,13 @@
 
 **DATE**: 07/31（水） 12:09
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
+[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
 
 ---
 
 **DATE**: 07/31（水） 12:09
 <br>
-[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
 
 ---
 
@@ -3697,79 +3705,5 @@
 **DATE**: 06/20（木） 19:04
 <br>
 [☘️MOR...](https://twitter.com/pj_sekai/status/1803730514534097337)
-
----
-
-**DATE**: 06/20（木） 15:12
-<br>
-[🎧25時、...](https://twitter.com/pj_sekai/status/1803672168599003201)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 06/20（木） 15:12
-<br>
-[本日15:...](https://twitter.com/pj_sekai/status/1803672146297889112)
-
----
-
-**DATE**: 06/20（木） 15:00 イベント「**灯を手繰りよせて**」 開始
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626928529879107)
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[【初めての...](https://twitter.com/pj_sekai/status/1803626930962608257)
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[【直接伝え...](https://twitter.com/pj_sekai/status/1803626911769489708)
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626909240287357)
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[【あたたか...](https://twitter.com/pj_sekai/status/1803626886083584237)
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[「Rekn...](https://twitter.com/pj_sekai/status/1803626883168477472)
-
----
-
-**DATE**: 06/20（木） 12:12
-<br>
-[6月21日...](https://twitter.com/pj_sekai/status/1803626866143904117)
-<br>
-#セカラジ
-
----
-
-**DATE**: 06/20（木） 11:12
-<br>
-[「星を繋ぐ...](https://twitter.com/pj_sekai/status/1803611827076735199)
-
----
-
-**DATE**: 06/20（木） 11:12
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1803611815156523143)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
