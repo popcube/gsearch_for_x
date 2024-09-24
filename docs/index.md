@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/09/24 12:15
+### 最終更新：2024/09/24 15:43
 
+
+---
+
+**DATE**: 09/24（火） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1838459722112106774"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/24（火） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1838459408470413817"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 09/22（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1837688271100629461"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1837688271100629461)
+<br>
+#セカイの4コマ
 
 ---
 
 **DATE**: 09/22（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1837507080510410770"></a>
-</blockquote>
+[『みんなの...](https://twitter.com/pj_sekai/status/1837507080510410770)
+<br>
+#プロセカ4周年イラスト
 
 ---
 
@@ -1685,13 +1701,13 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
 
 ---
 
