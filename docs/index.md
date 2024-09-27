@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/09/27 12:41
+### 最終更新：2024/09/27 13:48
 
+
+---
+
+**DATE**: 09/27（金） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1839501203350397091"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 09/26（木） 12:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1839143061806526692"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1839143061806526692)
 
 ---
 
@@ -176,13 +182,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -486,13 +492,13 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
@@ -1757,13 +1763,13 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
 
 ---
 
@@ -1799,13 +1805,13 @@
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
 
 ---
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
 
 ---
 
