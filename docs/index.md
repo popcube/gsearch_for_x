@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/01 16:27
+### 最終更新：2024/10/01 18:13
 
+
+---
+
+**DATE**: 10/01（火） 17:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1841030173690642626"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/01（火） 17:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1841030148579344479"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/01（火） 17:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1841030099505987749"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,21 @@
 
 **DATE**: 10/01（火） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1840951496688746752"></a>
-</blockquote>
+[10月1日...](https://twitter.com/pj_sekai/status/1840951496688746752)
 
 ---
 
 **DATE**: 10/01（火） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1840951413352120657"></a>
-</blockquote>
+[🎮第10回...](https://twitter.com/pj_sekai/status/1840951413352120657)
 
 ---
 
 **DATE**: 10/01（火） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1840951367546126736"></a>
-</blockquote>
+[今月の #...](https://twitter.com/pj_sekai/status/1840951367546126736)
+<br>
+#プロセカスケジュール
 
 ---
 
@@ -1767,13 +1787,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -2756,13 +2776,13 @@
 
 **DATE**: 08/17（土） 12:02
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
+[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
 
 ---
 
 **DATE**: 08/17（土） 12:02
 <br>
-[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
 
 ---
 
