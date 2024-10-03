@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/03 01:14
+### 最終更新：2024/10/03 15:43
 
+
+---
+
+**DATE**: 10/03（木） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1841722249919005151"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/03（木） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1841721905407263102"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 10/02（水） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1841359128998080734"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1841359128998080734)
 
 ---
 
 **DATE**: 10/02（水） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1841313275981779155"></a>
-</blockquote>
+[💿Vivi...](https://twitter.com/pj_sekai/status/1841313275981779155)
 
 ---
 
@@ -3280,15 +3292,15 @@
 
 **DATE**: 08/02（金） 12:08
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
 
 ---
 
 **DATE**: 08/02（金） 12:08
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
@@ -4416,11 +4428,5 @@
 **DATE**: 07/01（月） 12:03
 <br>
 [7月1日0...](https://twitter.com/pj_sekai/status/1807611067235012959)
-
----
-
-**DATE**: 06/30（日） 18:00
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1807338292599263366)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
