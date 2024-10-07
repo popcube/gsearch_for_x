@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/06 23:38
+### 最終更新：2024/10/07 15:44
 
+
+---
+
+**DATE**: 10/07（月） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1843170252248781169"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/07（月） 15:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1843169830347984916"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 10/06（日） 20:49
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1842895059793953078"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1842895059793953078)
+<br>
+#コネクトライブ
 
 ---
 
 **DATE**: 10/06（日） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1842852410458620131"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1842852410458620131)
+<br>
+#コネクトライブ
 
 ---
 
@@ -3112,13 +3128,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
