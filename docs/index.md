@@ -1,48 +1,86 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/12 13:33
+### 最終更新：2024/10/12 19:10
 
+
+---
+
+**DATE**: 10/12（土） 18:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1845033808904790466"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（土） 18:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1845033284650271134"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（土） 18:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1845032292030288012"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（土） 18:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1845028361351069835"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（土） 17:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1845021502531588144"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（土） 15:00 イベント「**荊棘の道は何処へ**」 開始
 
 ---
 
 **DATE**: 10/12（土） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1844936774407291230"></a>
-</blockquote>
+[初音ミク「...](https://twitter.com/pj_sekai/status/1844936774407291230)
+<br>
+#マジカルミライ2024
 
 ---
 
 **DATE**: 10/11（金） 15:55
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1844632865642070048"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1844632865642070048)
 
 ---
 
 **DATE**: 10/11（金） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1844618940430918039"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1844618940430918039)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 10/11（金） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1844574014326571513"></a>
-</blockquote>
+[明日、10...](https://twitter.com/pj_sekai/status/1844574014326571513)
 
 ---
 
 **DATE**: 10/11（金） 10:47
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1844555301514879177"></a>
-</blockquote>
+[🌟書き下ろ...](https://twitter.com/pj_sekai/status/1844555301514879177)
 
 ---
 
@@ -610,13 +648,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
@@ -634,13 +672,13 @@
 
 **DATE**: 09/30（月） 12:24
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
+[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
 
 ---
 
 **DATE**: 09/30（月） 12:24
 <br>
-[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
 
 ---
 
@@ -3262,13 +3300,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
@@ -3710,15 +3748,15 @@
 
 **DATE**: 08/02（金） 12:08
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 08/02（金） 12:08
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
 
 ---
 
