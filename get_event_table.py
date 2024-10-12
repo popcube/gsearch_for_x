@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 # from datetime import datetime
-
+from functools import partial
 import sys
 
 pd.options.mode.copy_on_write = True
@@ -25,40 +25,41 @@ def unit_name_convert(in_str):
         print("unrecognized event type", in_str)
         sys.exit(1)
 
+def make_date_str(in_str, hour):
+    datetime_str = in_str.split("*")[0].strip()
+    return pd.to_datetime(datetime_str + f"T{hour}",  format="%Y/%m/%dT%H")
 
 def date_convert(in_df, start=False, end=False):
     # res_sr = pd.Series(index = in_df.index)
+    
+    make_date_str_T20 = partial(make_date_str, hour=20)
+    make_date_str_T15 = partial(make_date_str, hour=15)
+    make_date_str_T21 = partial(make_date_str, hour=21)
     
     if start:
         res_sr = in_df["開始日"]
         
         # [special attend] World Link starts and ends at different time
         world_link_sr = in_df["形式"] == "ワールドリンク"
-        res_sr[world_link_sr] = in_df[world_link_sr]["開始日"].apply(
-            lambda x: pd.to_datetime(x + "T20",  format="%Y/%m/%dT%H"))
+        res_sr[world_link_sr] = in_df[world_link_sr]["開始日"].apply(make_date_str_T20)
         
         # [special attend] one event started with delay due to extended maintenance
         res_sr[120] = pd.Timestamp(2024, 1, 31, 20)
         
         # normal event start time
         remains_sr = res_sr.apply(lambda x: type(x) == str)
-        res_sr[remains_sr] = in_df[remains_sr]["開始日"].apply(
-            lambda x: pd.to_datetime(x + "T15",  format="%Y/%m/%dT%H")
-        )
+        res_sr[remains_sr] = in_df[remains_sr]["開始日"].apply(make_date_str_T15)
     
     elif end:
         res_sr = in_df["終了日"]
         
         # [special attend] World Link starts and ends at different time
         world_link_sr = in_df["形式"] == "ワールドリンク"
-        res_sr[world_link_sr] = in_df[world_link_sr]["終了日"].apply(
-            lambda x: pd.to_datetime(x + "T20",  format="%Y/%m/%dT%H"))
+        res_sr[world_link_sr] = in_df[world_link_sr]["終了日"].apply(make_date_str_T20)
         
         # normal event end time
         remains_sr = res_sr.apply(lambda x: type(x) == str)
-        res_sr[remains_sr] = in_df[remains_sr]["終了日"].apply(
-            lambda x: pd.to_datetime(x + "T21",  format="%Y/%m/%dT%H")
-        )
+        res_sr[remains_sr] = in_df[remains_sr]["終了日"].apply(make_date_str_T21)
     
     return res_sr
 
