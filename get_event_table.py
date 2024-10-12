@@ -45,6 +45,7 @@ def date_convert(in_df, start=False, end=False):
         
         # [special attend] one event started with delay due to extended maintenance
         res_sr[120] = pd.Timestamp(2024, 1, 31, 20)
+        res_sr[145] = pd.Timestamp(2024, 10, 12, 18)
         
         # normal event start time
         remains_sr = res_sr.apply(lambda x: type(x) == str)
