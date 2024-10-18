@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/17 19:12
+### 最終更新：2024/10/18 14:12
 
+
+---
+
+**DATE**: 10/18（金） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1847111176569958759"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 10/16（水） 11:50
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1846383296156237876"></a>
-</blockquote>
+[【お知らせ...](https://twitter.com/pj_sekai/status/1846383296156237876)
 
 ---
 
@@ -2157,13 +2163,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
@@ -2467,25 +2473,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -3904,15 +3910,15 @@
 
 **DATE**: 08/02（金） 12:08
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
 
 ---
 
 **DATE**: 08/02（金） 12:08
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
@@ -4696,43 +4702,5 @@
 **DATE**: 07/16（火） 12:01
 <br>
 [👑ワンダー...](https://twitter.com/pj_sekai/status/1813046309949219129)
-
----
-
-**DATE**: 07/15（月） 22:08
-<br>
-[『成敗いた...](https://twitter.com/pj_sekai/status/1812836750290747833)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 07/15（月） 22:06
-<br>
-[👑ワンダー...](https://twitter.com/pj_sekai/status/1812836126656516382)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 07/15（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1812819406038212761)
-
----
-
-**DATE**: 07/15（月） 21:00 イベント「**お縄を頂戴！？天馬捕物帳**」 終了
-
----
-
-**DATE**: 07/15（月） 12:09
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1812685946875449736)
-
----
-
-**DATE**: 07/15（月） 12:09
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1812685920220713238)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
