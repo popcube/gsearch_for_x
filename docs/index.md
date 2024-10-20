@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/19 21:20
+### 最終更新：2024/10/20 15:41
 
+
+---
+
+**DATE**: 10/20（日） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1847880969073885279"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 10/18（金） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1847111176569958759"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1847111176569958759)
+<br>
+#プロセカCS
 
 ---
 
@@ -2513,13 +2521,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -3490,13 +3498,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
@@ -4010,13 +4018,13 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
@@ -4605,45 +4613,5 @@
 [7月19日...](https://twitter.com/pj_sekai/status/1813772187020451847)
 <br>
 #セカラジ
-
----
-
-**DATE**: 07/17（水） 20:08
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1813531241532231687)
-
----
-
-**DATE**: 07/17（水） 20:08
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1813531182090592637)
-
----
-
-**DATE**: 07/17（水） 20:08
-<br>
-[本日20:...](https://twitter.com/pj_sekai/status/1813531170732442083)
-
----
-
-**DATE**: 07/17（水） 20:00 イベント「**あの日見た夜空は、いつかの未来へ**」 開始
-
----
-
-**DATE**: 07/17（水） 18:00
-<br>
-[💿Vivi...](https://twitter.com/pj_sekai/status/1813498890441859250)
-
----
-
-**DATE**: 07/17（水） 15:04
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1813454748579709069)
-
----
-
-**DATE**: 07/17（水） 15:04
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1813454731781833062)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
