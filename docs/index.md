@@ -1,48 +1,126 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/23 20:23
+### 最終更新：2024/10/23 20:48
 
+
+---
+
+**DATE**: 10/23（水） 20:32
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1849051379408724453"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（水） 20:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1849050409966727442"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（水） 20:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1849050258753609951"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（水） 20:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1849050104751415363"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（水） 20:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1849049869203468430"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（水） 20:20
+<br>
+[🎨一緒につ...](https://twitter.com/pj_sekai/status/1849048139015369161)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 10/23（水） 20:17
+<br>
+[🎨一緒につ...](https://twitter.com/pj_sekai/status/1849047569416220736)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 10/23（水） 20:11
+<br>
+[🎊一緒につ...](https://twitter.com/pj_sekai/status/1849045996627771694)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 10/23（水） 20:08
+<br>
+[🎊一緒につ...](https://twitter.com/pj_sekai/status/1849045179199803558)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 10/23（水） 20:05
+<br>
+[生放送中に...](https://twitter.com/pj_sekai/status/1849044350514377184)
+<br>
+#プロセカ放送局 #プロセカ放送局 #プロセカ放送局
 
 ---
 
 **DATE**: 10/23（水） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1849043160204484815"></a>
-</blockquote>
+[『プロセカ...](https://twitter.com/pj_sekai/status/1849043160204484815)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 10/23（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1849035639175737830"></a>
-</blockquote>
+[ボカロミュ...](https://twitter.com/pj_sekai/status/1849035639175737830)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 10/23（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1849035590047846674"></a>
-</blockquote>
+[🌈プロセカ...](https://twitter.com/pj_sekai/status/1849035590047846674)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 10/23（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1849012902851711356"></a>
-</blockquote>
+[このあと1...](https://twitter.com/pj_sekai/status/1849012902851711356)
 
 ---
 
 **DATE**: 10/23（水） 13:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1848938013709242872"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1848938013709242872)
+<br>
+#プロセカCS
 
 ---
 
@@ -100,13 +178,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
@@ -342,13 +420,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
@@ -996,13 +1074,13 @@
 
 **DATE**: 09/30（月） 12:24
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
+[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
 
 ---
 
 **DATE**: 09/30（月） 12:24
 <br>
-[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
 
 ---
 
@@ -2325,13 +2403,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -2635,25 +2713,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -3906,13 +3984,13 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
@@ -4144,25 +4222,25 @@
 
 **DATE**: 07/31（水） 12:11
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
+[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
 
 ---
 
 **DATE**: 07/31（水） 12:11
 <br>
-[【とってお...](https://twitter.com/pj_sekai/status/1818484581462688041)
-
----
-
-**DATE**: 07/31（水） 12:09
-<br>
-[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484579558474160)
 
 ---
 
 **DATE**: 07/31（水） 12:09
 <br>
 [『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
+
+---
+
+**DATE**: 07/31（水） 12:09
+<br>
+[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
 
 ---
 
