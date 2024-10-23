@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/23 12:16
+### 最終更新：2024/10/23 13:34
 
+
+---
+
+**DATE**: 10/23（水） 13:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1848938013709242872"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 10/21（月） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1848243829339808006"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1848243829339808006)
 
 ---
 
@@ -82,13 +88,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
@@ -2605,13 +2611,13 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
