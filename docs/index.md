@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/21 15:45
+### 最終更新：2024/10/23 12:16
 
+
+---
+
+**DATE**: 10/23（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1848922294275441059"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,11 @@
 
 **DATE**: 10/21（月） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1848243674901364884"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1848243674901364884)
+
+---
+
+**DATE**: 10/21（月） 15:00 イベント「**Rekindle the flame**」 開始
 
 ---
 
@@ -302,13 +312,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
@@ -956,13 +966,13 @@
 
 **DATE**: 09/30（月） 12:24
 <br>
-[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
 
 ---
 
 **DATE**: 09/30（月） 12:24
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
+[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
 
 ---
 
@@ -2595,13 +2605,13 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
@@ -3584,13 +3594,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
@@ -3866,13 +3876,13 @@
 
 **DATE**: 08/09（金） 12:04
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
@@ -4032,15 +4042,15 @@
 
 **DATE**: 08/02（金） 12:08
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
+[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
+<br>
+#プロセカ全国統一テスト
 
 ---
 
 **DATE**: 08/02（金） 12:08
 <br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1819208516005253168)
-<br>
-#プロセカ全国統一テスト
+[【お知らせ...](https://twitter.com/pj_sekai/status/1819208517431242897)
 
 ---
 
@@ -4116,13 +4126,13 @@
 
 **DATE**: 07/31（水） 12:09
 <br>
-[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
+[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
 
 ---
 
 **DATE**: 07/31（水） 12:09
 <br>
-[【生意気な...](https://twitter.com/pj_sekai/status/1818484204797411746)
+[『あなたに...](https://twitter.com/pj_sekai/status/1818484202897391713)
 
 ---
 
@@ -4625,59 +4635,5 @@
 [📖#プロセ...](https://twitter.com/pj_sekai/status/1814961011796910398)
 <br>
 #プロセカ全国統一テスト
-
----
-
-**DATE**: 07/20（土） 20:04
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1814617295949602962)
-
----
-
-**DATE**: 07/20（土） 12:01
-<br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1814495696109949425)
-<br>
-#プロセカ全国統一テスト
-
----
-
-**DATE**: 07/20（土） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1814495444019696095)
-<br>
-#セカイの4コマ #草薙寧々誕生祭2024
-
----
-
-**DATE**: 07/20（土） 00:01
-<br>
-[👑草薙寧々...](https://twitter.com/pj_sekai/status/1814314502458077374)
-<br>
-#草薙寧々誕生祭2024
-
----
-
-**DATE**: 07/20（土） 00:00
-<br>
-[㊗️本日7...](https://twitter.com/pj_sekai/status/1814314261922922792)
-<br>
-#草薙寧々誕生祭2024
-
----
-
-**DATE**: 07/19（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1814268959748689958)
-<br>
-#セカラジ
-
----
-
-**DATE**: 07/19（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1814253862460772652)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
