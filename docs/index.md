@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/30 01:52
+### 最終更新：2024/10/30 05:10
 
 
 ---
@@ -38,15 +38,21 @@
 
 ---
 
+**DATE**: 10/29（火） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1851232524611047891"></a>
+</blockquote>
+
+---
+
 **DATE**: 10/29（火） 21:00 イベント「**Rekindle the flame**」 終了
 
 ---
 
 **DATE**: 10/29（火） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1851142023153401984"></a>
-</blockquote>
+[🎃ハロウィ...](https://twitter.com/pj_sekai/status/1851142023153401984)
 
 ---
 
