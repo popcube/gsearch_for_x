@@ -1,16 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/31 18:29
+### 最終更新：2024/10/31 18:39
 
 
 ---
 
-**DATE**: 10/31（木） 12:06
+**DATE**: 10/31（木） 15:15
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1851823120631632332"></a>
+<a href="https://twitter.com/pj_sekai/status/1851870538224013623"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/31（木） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1851868988860768418"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/31（木） 15:00 イベント「**Happy Enjoy Music！**」 開始
 
 ---
 
@@ -25,7 +37,7 @@
 **DATE**: 10/31（木） 12:06
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1851822993842016554"></a>
+<a href="https://twitter.com/pj_sekai/status/1851823120631632332"></a>
 </blockquote>
 
 ---
@@ -33,16 +45,20 @@
 **DATE**: 10/31（木） 12:06
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1851822991967150494"></a>
+<a href="https://twitter.com/pj_sekai/status/1851822993842016554"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/31（木） 12:06
+<br>
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
 **DATE**: 10/31（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1851822666497561013"></a>
-</blockquote>
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822666497561013)
 
 ---
 
@@ -612,25 +628,25 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
-
----
-
-**DATE**: 10/21（月） 12:04
-<br>
 [【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
 [『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+
+---
+
+**DATE**: 10/21（月） 12:04
+<br>
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -668,13 +684,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
@@ -854,13 +870,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
