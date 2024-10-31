@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/10/31 15:51
+### 最終更新：2024/10/31 16:11
 
+
+---
+
+**DATE**: 10/31（木） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1851823118832275788"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 10/30（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1851572255324799244"></a>
-</blockquote>
+[『フューエ...](https://twitter.com/pj_sekai/status/1851572255324799244)
+<br>
+#ビビバス
 
 ---
 
