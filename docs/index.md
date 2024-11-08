@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/08 21:55
+### 最終更新：2024/11/09 00:39
 
+
+---
+
+**DATE**: 11/08（金） 21:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1854858086764466390"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/08（金） 21:00 イベント「**Happy Enjoy Music！**」 終了
 
 ---
 
@@ -40,9 +52,7 @@
 
 **DATE**: 11/05（火） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1853679966355141089"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1853679966355141089)
 
 ---
 
@@ -152,13 +162,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
@@ -808,13 +818,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
@@ -4546,13 +4556,13 @@
 
 **DATE**: 08/09（金） 12:05
 <br>
-[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
 
 ---
 
 **DATE**: 08/09（金） 12:05
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
+[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
 
 ---
 
@@ -4600,13 +4610,13 @@
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
 
 ---
 
 **DATE**: 08/08（木） 18:09
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473921566441493)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1821473918504571110)
 
 ---
 
