@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/09 18:10
+### 最終更新：2024/11/10 13:48
 
+
+---
+
+**DATE**: 11/10（日） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1855446440618897561"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/08（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1854856406039437483"></a>
-</blockquote>
+[本日22時...](https://twitter.com/pj_sekai/status/1854856406039437483)
 
 ---
 
@@ -3023,13 +3029,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
@@ -3345,13 +3351,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4592,25 +4598,25 @@
 
 **DATE**: 08/09（金） 12:05
 <br>
-[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
 
 ---
 
 **DATE**: 08/09（金） 12:05
 <br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
-
----
-
-**DATE**: 08/09（金） 12:04
-<br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
+[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
 
 ---
 
 **DATE**: 08/09（金） 12:04
 <br>
 [【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
+
+---
+
+**DATE**: 08/09（金） 12:04
+<br>
+[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
 
 ---
 
@@ -4671,55 +4677,5 @@
 **DATE**: 08/08（木） 12:03
 <br>
 [キャリア決...](https://twitter.com/pj_sekai/status/1821381602334925279)
-
----
-
-**DATE**: 08/07（水） 22:31
-<br>
-[『キラー』...](https://twitter.com/pj_sekai/status/1821177276597469574)
-
----
-
-**DATE**: 08/07（水） 22:28
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1821176569072923098)
-
----
-
-**DATE**: 08/07（水） 22:08
-<br>
-[『キラー』...](https://twitter.com/pj_sekai/status/1821171592963219684)
-<br>
-#モモジャン
-
----
-
-**DATE**: 08/07（水） 22:06
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1821170997720182941)
-<br>
-#モモジャン
-
----
-
-**DATE**: 08/07（水） 21:01
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1821154573584892406)
-
----
-
-**DATE**: 08/07（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1821154326120628254)
-
----
-
-**DATE**: 08/07（水） 21:00 イベント「**Chase my IDEAL IDOL！**」 終了
-
----
-
-**DATE**: 08/07（水） 18:01
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1821109364230443100)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
