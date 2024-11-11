@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/11 05:09
+### 最終更新：2024/11/11 21:57
 
+
+---
+
+**DATE**: 11/11（月） 18:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1855902638631743490"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 11/10（日） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1855446796874723503"></a>
-</blockquote>
+[『落葉舞う...](https://twitter.com/pj_sekai/status/1855446796874723503)
 
 ---
 
@@ -3399,25 +3405,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4637,69 +4643,5 @@
 **DATE**: 08/09（金） 15:06
 <br>
 [本日15:...](https://twitter.com/pj_sekai/status/1821790026445009085)
-
----
-
-**DATE**: 08/09（金） 15:00 イベント「**鳴らせビューティフルサウンド！**」 開始
-
----
-
-**DATE**: 08/09（金） 12:05
-<br>
-[【笑顔は標...](https://twitter.com/pj_sekai/status/1821744584109773296)
-
----
-
-**DATE**: 08/09（金） 12:05
-<br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744558730084562)
-
----
-
-**DATE**: 08/09（金） 12:05
-<br>
-[【試練！マ...](https://twitter.com/pj_sekai/status/1821744504057294886)
-
----
-
-**DATE**: 08/09（金） 12:05
-<br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744501918196186)
-
----
-
-**DATE**: 08/09（金） 12:04
-<br>
-[「青の世界...](https://twitter.com/pj_sekai/status/1821744438630367490)
-
----
-
-**DATE**: 08/09（金） 12:04
-<br>
-[【憧れを共...](https://twitter.com/pj_sekai/status/1821744441549287502)
-
----
-
-**DATE**: 08/09（金） 11:15
-<br>
-[「88☆彡...](https://twitter.com/pj_sekai/status/1821732084156883243)
-
----
-
-**DATE**: 08/09（金） 11:15
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1821732070508593443)
-
----
-
-**DATE**: 08/09（金） 11:15
-<br>
-[【v3.8...](https://twitter.com/pj_sekai/status/1821732060295524398)
-
----
-
-**DATE**: 08/09（金） 11:15
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1821732044709491144)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
