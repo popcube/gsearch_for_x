@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/11 21:57
+### 最終更新：2024/11/12 04:16
 
+
+---
+
+**DATE**: 11/12（火） 00:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1855989108524429622"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/12（火） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1855988865909301406"></a>
+</blockquote>
 
 ---
 
@@ -32,9 +48,7 @@
 
 **DATE**: 11/10（日） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1855491722324975829"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1855491722324975829)
 
 ---
 
@@ -44,9 +58,7 @@
 
 **DATE**: 11/10（日） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1855446798820835728"></a>
-</blockquote>
+[【夢も膨ら...](https://twitter.com/pj_sekai/status/1855446798820835728)
 
 ---
 
@@ -3095,13 +3107,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -3417,13 +3429,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -4406,13 +4418,13 @@
 
 **DATE**: 08/17（土） 12:02
 <br>
-[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
 
 ---
 
 **DATE**: 08/17（土） 12:02
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
+[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
 
 ---
 
@@ -4617,31 +4629,5 @@
 **DATE**: 08/10（土） 12:04
 <br>
 [バーチャル...](https://twitter.com/pj_sekai/status/1822106756853702867)
-
----
-
-**DATE**: 08/09（金） 18:13
-<br>
-[「プロセカ...](https://twitter.com/pj_sekai/status/1821837316928811076)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 08/09（金） 15:06
-<br>
-[8月11日...](https://twitter.com/pj_sekai/status/1821790074700496933)
-
----
-
-**DATE**: 08/09（金） 15:06
-<br>
-[💫星乃一歌...](https://twitter.com/pj_sekai/status/1821790047710146719)
-
----
-
-**DATE**: 08/09（金） 15:06
-<br>
-[本日15:...](https://twitter.com/pj_sekai/status/1821790026445009085)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
