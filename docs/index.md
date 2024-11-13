@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/13 15:42
+### 最終更新：2024/11/13 17:15
 
+
+---
+
+**DATE**: 11/13（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1856532448139489537"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 11/12（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1856170049658093670"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1856170049658093670)
+<br>
+#セカイの4コマ #東雲彰人誕生祭2024
 
 ---
 
@@ -316,25 +324,25 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
-
----
-
-**DATE**: 10/31（木） 12:06
-<br>
 [【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
 [「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+
+---
+
+**DATE**: 10/31（木） 12:06
+<br>
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
