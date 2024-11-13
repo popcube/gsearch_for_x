@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/13 18:12
+### 最終更新：2024/11/13 21:56
 
+
+---
+
+**DATE**: 11/13（水） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1856579741605896231"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/12（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1856171032731889851"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1856171032731889851)
 
 ---
 
@@ -4454,13 +4460,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
@@ -4647,13 +4653,5 @@
 **DATE**: 08/12（月） 12:02
 <br>
 [本日12時...](https://twitter.com/pj_sekai/status/1822830923995586697)
-
----
-
-**DATE**: 08/11（日） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1822467983907913999)
-<br>
-#セカイの4コマ #星乃一歌誕生祭2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
