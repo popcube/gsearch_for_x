@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/12 16:35
+### 最終更新：2024/11/13 15:16
 
+
+---
+
+**DATE**: 11/13（水） 11:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1856528148613206399"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 11/12（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1855988865909301406"></a>
-</blockquote>
+[㊗️本日1...](https://twitter.com/pj_sekai/status/1855988865909301406)
+<br>
+#東雲彰人誕生祭2024
 
 ---
 
@@ -4424,25 +4432,25 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
-
----
-
-**DATE**: 08/17（土） 12:02
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:02
 <br>
 [【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+
+---
+
+**DATE**: 08/17（土） 12:02
+<br>
+[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
 
 ---
 
@@ -4625,27 +4633,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1822467983907913999)
 <br>
 #セカイの4コマ #星乃一歌誕生祭2024
-
----
-
-**DATE**: 08/11（日） 00:01
-<br>
-[💫星乃一歌...](https://twitter.com/pj_sekai/status/1822287035551596777)
-<br>
-#星乃一歌誕生祭2024
-
----
-
-**DATE**: 08/11（日） 00:00
-<br>
-[㊗️本日8...](https://twitter.com/pj_sekai/status/1822286788456812813)
-<br>
-#星乃一歌誕生祭2024
-
----
-
-**DATE**: 08/10（土） 12:04
-<br>
-[バーチャル...](https://twitter.com/pj_sekai/status/1822106756853702867)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
