@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/13 21:56
+### 最終更新：2024/11/14 21:23
 
+
+---
+
+**DATE**: 11/14（木） 18:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1856986477592445185"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/13（水） 11:42
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1856528132700025142"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1856528132700025142)
 
 ---
 
@@ -3471,25 +3477,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4647,11 +4653,5 @@
 [『ザムザ』...](https://twitter.com/pj_sekai/status/1822921421745758525)
 <br>
 #ニーゴ
-
----
-
-**DATE**: 08/12（月） 12:02
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1822830923995586697)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
