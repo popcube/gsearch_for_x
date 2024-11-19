@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/19 15:44
+### 最終更新：2024/11/19 18:48
 
+
+---
+
+**DATE**: 11/19（火） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1858753310905557173"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 11/15（金） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1857347811316273279"></a>
-</blockquote>
+[『街』Fu...](https://twitter.com/pj_sekai/status/1857347811316273279)
+<br>
+#ビビバス
 
 ---
 
@@ -3551,13 +3559,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4528,13 +4536,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
@@ -4547,13 +4555,5 @@
 **DATE**: 08/17（土） 12:02
 <br>
 [【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
-
----
-
-**DATE**: 08/17（土） 09:34
-<br>
-[初音ミク「...](https://twitter.com/pj_sekai/status/1824605571670216817)
-<br>
-#マジカルミライ2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
