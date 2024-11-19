@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/19 18:48
+### 最終更新：2024/11/19 21:23
 
+
+---
+
+**DATE**: 11/19（火） 18:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1858799282683605071"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 11/15（金） 19:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1857371326622945716"></a>
-</blockquote>
+[【お知らせ...](https://twitter.com/pj_sekai/status/1857371326622945716)
 
 ---
 
@@ -1254,13 +1260,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
@@ -1884,13 +1890,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
@@ -3237,13 +3243,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
@@ -3559,13 +3565,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -4479,81 +4485,5 @@
 **DATE**: 08/17（土） 20:09
 <br>
 [本日20:...](https://twitter.com/pj_sekai/status/1824765482479800668)
-
----
-
-**DATE**: 08/17（土） 20:00 イベント「**キミと、セカイの始まりで**」 開始
-
----
-
-**DATE**: 08/17（土） 12:09
-<br>
-[【背中を押...](https://twitter.com/pj_sekai/status/1824644577690783748)
-
----
-
-**DATE**: 08/17（土） 12:09
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824644574452568483)
-
----
-
-**DATE**: 08/17（土） 12:06
-<br>
-[【優しい香...](https://twitter.com/pj_sekai/status/1824644029503742305)
-
----
-
-**DATE**: 08/17（土） 12:06
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824644026600931831)
-
----
-
-**DATE**: 08/17（土） 12:05
-<br>
-[【想いに寄...](https://twitter.com/pj_sekai/status/1824643743565176957)
-
----
-
-**DATE**: 08/17（土） 12:05
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643734212055268)
-
----
-
-**DATE**: 08/17（土） 12:04
-<br>
-[【どこでも...](https://twitter.com/pj_sekai/status/1824643425305759887)
-
----
-
-**DATE**: 08/17（土） 12:04
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643422420078869)
-
----
-
-**DATE**: 08/17（土） 12:03
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
-
----
-
-**DATE**: 08/17（土） 12:03
-<br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
-
----
-
-**DATE**: 08/17（土） 12:02
-<br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643017313325408)
-
----
-
-**DATE**: 08/17（土） 12:02
-<br>
-[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
