@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/19 00:31
+### 最終更新：2024/11/19 15:17
 
+
+---
+
+**DATE**: 11/19（火） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1858707508266975672"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 11/15（金） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1857302511134412812"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1857302511134412812)
+<br>
+#プロセカCS
 
 ---
 
@@ -3213,13 +3221,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -4512,19 +4520,13 @@
 
 **DATE**: 08/17（土） 12:03
 <br>
-[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
+[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
 
 ---
 
 **DATE**: 08/17（土） 12:03
 <br>
-[【最前列で...](https://twitter.com/pj_sekai/status/1824643062104014890)
-
----
-
-**DATE**: 08/17（土） 12:02
-<br>
-[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+[『Melo...](https://twitter.com/pj_sekai/status/1824643058807304700)
 
 ---
 
@@ -4534,38 +4536,16 @@
 
 ---
 
+**DATE**: 08/17（土） 12:02
+<br>
+[【想いを託...](https://twitter.com/pj_sekai/status/1824643020198908238)
+
+---
+
 **DATE**: 08/17（土） 09:34
 <br>
 [初音ミク「...](https://twitter.com/pj_sekai/status/1824605571670216817)
 <br>
 #マジカルミライ2024
-
----
-
-**DATE**: 08/16（金） 21:05
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1824417297639018795)
-<br>
-#セカラジ
-
----
-
-**DATE**: 08/16（金） 21:04
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1824416819446419812)
-<br>
-#セカラジ
-
----
-
-**DATE**: 08/16（金） 16:05
-<br>
-[先ほど投稿...](https://twitter.com/pj_sekai/status/1824341725084864951)
-
----
-
-**DATE**: 08/16（金） 16:05
-<br>
-[明日、8月...](https://twitter.com/pj_sekai/status/1824341641936970032)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
