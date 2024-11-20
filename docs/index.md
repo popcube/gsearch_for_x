@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/19 21:23
+### 最終更新：2024/11/20 14:48
 
+
+---
+
+**DATE**: 11/20（水） 11:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1859063973431365898"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/18（月） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1858480275962855768"></a>
-</blockquote>
+[本日22時...](https://twitter.com/pj_sekai/status/1858480275962855768)
 
 ---
 
@@ -1890,13 +1896,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
@@ -4467,23 +4473,5 @@
 [『エゴイス...](https://twitter.com/pj_sekai/status/1825095540142649663)
 <br>
 #ビビバス
-
----
-
-**DATE**: 08/17（土） 20:09
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1824765565766144253)
-
----
-
-**DATE**: 08/17（土） 20:09
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1824765540885549485)
-
----
-
-**DATE**: 08/17（土） 20:09
-<br>
-[本日20:...](https://twitter.com/pj_sekai/status/1824765482479800668)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
