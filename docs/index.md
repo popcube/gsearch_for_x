@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/21 15:44
+### 最終更新：2024/11/22 14:31
 
+
+---
+
+**DATE**: 11/22（金） 11:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1859780702327406777"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/20（水） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1859115562783437311"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1859115562783437311)
 
 ---
 
@@ -76,13 +82,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
@@ -1338,13 +1344,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
@@ -3643,13 +3649,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4511,31 +4517,5 @@
 **DATE**: 08/20（火） 12:00
 <br>
 [『プロセカ...](https://twitter.com/pj_sekai/status/1825729474383712501)
-
----
-
-**DATE**: 08/19（月） 20:07
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1825489677195092339)
-
----
-
-**DATE**: 08/19（月） 18:00
-<br>
-[『エゴイス...](https://twitter.com/pj_sekai/status/1825457684298256628)
-<br>
-#ビビバス
-
----
-
-**DATE**: 08/19（月） 15:07
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1825414239307391344)
-
----
-
-**DATE**: 08/19（月） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1825413851111948578)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
