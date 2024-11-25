@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/23 01:38
+### 最終更新：2024/11/25 16:29
 
+
+---
+
+**DATE**: 11/25（月） 12:55
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1860894936247472241"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 11/22（金） 19:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1859909294793404706"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1859909294793404706)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -554,13 +562,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
@@ -3689,25 +3697,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4543,25 +4551,5 @@
 **DATE**: 08/23（金） 12:00
 <br>
 [本日19:...](https://twitter.com/pj_sekai/status/1826816637921607826)
-
----
-
-**DATE**: 08/22（木） 18:05
-<br>
-[📖#プロセ...](https://twitter.com/pj_sekai/status/1826546179293020354)
-<br>
-#プロセカ全国統一テスト
-
----
-
-**DATE**: 08/21（水） 20:07
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1826214534841008224)
-
----
-
-**DATE**: 08/20（火） 18:00
-<br>
-[先日公開し...](https://twitter.com/pj_sekai/status/1825820233124425937)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
