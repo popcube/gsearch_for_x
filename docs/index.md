@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/26 23:34
+### 最終更新：2024/11/26 23:49
 
+
+---
+
+**DATE**: 11/26（火） 20:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861373084596609230"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +18,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1861372775178608680"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/26（火） 20:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861371168554655819"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/26（火） 20:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861371000165928990"></a>
 </blockquote>
 
 ---
@@ -24,25 +48,41 @@
 
 **DATE**: 11/26（火） 20:21
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861369621582123453"></a>
-</blockquote>
+[🎧25時、...](https://twitter.com/pj_sekai/status/1861369621582123453)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/26（火） 20:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861369324705092003"></a>
-</blockquote>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1861369324705092003)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/26（火） 20:19
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861369084400828927"></a>
-</blockquote>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1861369084400828927)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 20:18
+<br>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1861368924945949070)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 20:17
+<br>
+[🎶APPE...](https://twitter.com/pj_sekai/status/1861368667872862422)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -57,6 +97,14 @@
 **DATE**: 11/26（火） 20:11
 <br>
 [🎨一緒につ...](https://twitter.com/pj_sekai/status/1861367076390347127)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 20:09
+<br>
+[🎨一緒につ...](https://twitter.com/pj_sekai/status/1861366707627139485)
 <br>
 #プロセカ放送局
 
