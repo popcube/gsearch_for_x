@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/27 00:13
+### 最終更新：2024/11/27 00:32
 
 
 ---
@@ -30,6 +30,14 @@
 
 ---
 
+**DATE**: 11/26（火） 20:49
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861376774791405715"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/26（火） 20:48
 <br>
 <blockquote class="twitter-tweet">
@@ -40,9 +48,17 @@
 
 **DATE**: 11/26（火） 20:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861373617457803279"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1861373617457803279)
+<br>
+#プロセカ放送局 #プロセカCS
+
+---
+
+**DATE**: 11/26（火） 20:35
+<br>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1861373308320833868)
+<br>
+#プロセカ放送局 #プロセカCS
 
 ---
 
@@ -163,6 +179,14 @@
 [生放送中に...](https://twitter.com/pj_sekai/status/1861365433796051287)
 <br>
 #プロセカ放送局 #プロセカ放送局 #プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 20:00
+<br>
+[『プロセカ...](https://twitter.com/pj_sekai/status/1861364426407870779)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -1404,13 +1428,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
@@ -2220,13 +2244,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
@@ -3573,13 +3597,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
