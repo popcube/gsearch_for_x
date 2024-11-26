@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/26 15:45
+### 最終更新：2024/11/26 22:01
 
+
+---
+
+**DATE**: 11/26（火） 20:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861369324705092003"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/25（月） 12:55
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1860894936247472241"></a>
-</blockquote>
+[【v4.1...](https://twitter.com/pj_sekai/status/1860894936247472241)
 
 ---
 
@@ -172,13 +178,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
@@ -1192,25 +1198,25 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
-
----
-
-**DATE**: 10/21（月） 12:04
-<br>
 [『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
 [『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+
+---
+
+**DATE**: 10/21（月） 12:04
+<br>
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -1434,13 +1440,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
@@ -4237,11 +4243,5 @@
 **DATE**: 08/24（土） 19:59
 <br>
 [🍉プロセカ...](https://twitter.com/pj_sekai/status/1827299726397731118)
-
----
-
-**DATE**: 08/24（土） 12:00
-<br>
-[本日20:...](https://twitter.com/pj_sekai/status/1827179021274124610)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
