@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/27 00:32
+### 最終更新：2024/11/27 04:18
 
+
+---
+
+**DATE**: 11/26（火） 21:24
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861385597392429371"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1861378520876023922"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/26（火） 20:55
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1861378252088189378"></a>
 </blockquote>
 
 ---
@@ -32,17 +48,17 @@
 
 **DATE**: 11/26（火） 20:49
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861376774791405715"></a>
-</blockquote>
+[🎊グッズ情...](https://twitter.com/pj_sekai/status/1861376774791405715)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/26（火） 20:48
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861376424357318695"></a>
-</blockquote>
+[🎊グッズ情...](https://twitter.com/pj_sekai/status/1861376424357318695)
+<br>
+#プロセカ放送局 #劇場版プロセカ
 
 ---
 
@@ -150,6 +166,30 @@
 
 ---
 
+**DATE**: 11/26（火） 20:16
+<br>
+[🎄クリスマ...](https://twitter.com/pj_sekai/status/1861368408128004429)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 20:16
+<br>
+[🎄クリスマ...](https://twitter.com/pj_sekai/status/1861368358043820165)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 20:11
+<br>
+[🎨一緒につ...](https://twitter.com/pj_sekai/status/1861367233139937392)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 11/26（火） 20:11
 <br>
 [🎨一緒につ...](https://twitter.com/pj_sekai/status/1861367076390347127)
@@ -185,6 +225,22 @@
 **DATE**: 11/26（火） 20:00
 <br>
 [『プロセカ...](https://twitter.com/pj_sekai/status/1861364426407870779)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 19:30
+<br>
+[ボカロミュ...](https://twitter.com/pj_sekai/status/1861356881471840428)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 19:30
+<br>
+[🌈プロセカ...](https://twitter.com/pj_sekai/status/1861356853726454026)
 <br>
 #プロセカ放送局
 
@@ -328,19 +384,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
-
----
-
-**DATE**: 11/20（水） 12:09
-<br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
@@ -350,15 +400,21 @@
 
 ---
 
-**DATE**: 11/20（水） 12:08
+**DATE**: 11/20（水） 12:09
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+
+---
+
+**DATE**: 11/20（水） 12:08
+<br>
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
@@ -3907,25 +3963,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
