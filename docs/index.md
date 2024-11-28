@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/27 23:33
+### 最終更新：2024/11/29 00:31
 
+
+---
+
+**DATE**: 11/28（木） 21:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1862104946826711173"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（木） 21:00 イベント「**The Power Of Regret**」 終了
 
 ---
 
@@ -40,9 +52,9 @@
 
 **DATE**: 11/26（火） 20:53
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861377837435101489"></a>
-</blockquote>
+[🎊グッズ情...](https://twitter.com/pj_sekai/status/1861377837435101489)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -412,13 +424,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -1686,13 +1698,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
@@ -2340,13 +2352,13 @@
 
 **DATE**: 09/30（月） 12:24
 <br>
-[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
 
 ---
 
 **DATE**: 09/30（月） 12:24
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
+[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
 
 ---
 
@@ -4443,37 +4455,5 @@
 [㊗️本日8...](https://twitter.com/pj_sekai/status/1828085000589218234)
 <br>
 #暁山瑞希誕生祭2024
-
----
-
-**DATE**: 08/26（月） 15:05
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1827950550400352674)
-
----
-
-**DATE**: 08/26（月） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1827950534252453894)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 08/25（日） 20:06
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1827663781637525796)
-
----
-
-**DATE**: 08/25（日） 15:01
-<br>
-[8月27日...](https://twitter.com/pj_sekai/status/1827586957746303419)
-
----
-
-**DATE**: 08/25（日） 15:00
-<br>
-[🎧暁山瑞希...](https://twitter.com/pj_sekai/status/1827586708579479799)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
