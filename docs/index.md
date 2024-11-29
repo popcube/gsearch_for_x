@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/29 01:14
+### 最終更新：2024/11/29 15:17
 
+
+---
+
+**DATE**: 11/29（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1862332222185128249"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 11/26（火） 21:24
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1861385597392429371"></a>
-</blockquote>
+[🎊プロセカ...](https://twitter.com/pj_sekai/status/1861385597392429371)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -2344,13 +2352,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
@@ -4019,13 +4027,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4455,21 +4463,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1828267441023336598)
 <br>
 #セカイの4コマ #暁山瑞希誕生祭2024
-
----
-
-**DATE**: 08/27（火） 00:01
-<br>
-[🎧暁山瑞希...](https://twitter.com/pj_sekai/status/1828085241187098803)
-<br>
-#暁山瑞希誕生祭2024
-
----
-
-**DATE**: 08/27（火） 00:00
-<br>
-[㊗️本日8...](https://twitter.com/pj_sekai/status/1828085000589218234)
-<br>
-#暁山瑞希誕生祭2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
