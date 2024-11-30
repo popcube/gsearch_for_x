@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/30 15:16
+### 最終更新：2024/11/30 15:43
 
 
 ---
@@ -9,7 +9,23 @@
 **DATE**: 11/30（土） 12:02
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1862693668257493290"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/30（土） 12:02
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1862693665925472447"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/30（土） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1862693638884794619"></a>
 </blockquote>
 
 ---
@@ -25,24 +41,26 @@
 **DATE**: 11/30（土） 12:02
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1862693601224110516"></a>
+<a href="https://twitter.com/pj_sekai/status/1862693603413565642"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/30（土） 12:02
+<br>
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
 **DATE**: 11/30（土） 11:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1862687527418962137"></a>
-</blockquote>
+[「虚ろを扇...](https://twitter.com/pj_sekai/status/1862687527418962137)
 
 ---
 
 **DATE**: 11/30（土） 11:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1862687388537069607"></a>
-</blockquote>
+[下記楽曲の...](https://twitter.com/pj_sekai/status/1862687388537069607)
 
 ---
 
@@ -492,13 +510,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
@@ -516,13 +534,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
