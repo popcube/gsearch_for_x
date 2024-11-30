@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/11/30 04:19
+### 最終更新：2024/11/30 12:45
 
+
+---
+
+**DATE**: 11/30（土） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1862693636640801056"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/28（木） 21:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1862113813988049025"></a>
-</blockquote>
+[👑ワンダー...](https://twitter.com/pj_sekai/status/1862113813988049025)
 
 ---
 
@@ -480,13 +486,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
@@ -4035,25 +4041,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -4469,11 +4475,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1828628581859143770)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 08/27（火） 20:10
-<br>
-[ワールドリ...](https://twitter.com/pj_sekai/status/1828389657056551396)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
