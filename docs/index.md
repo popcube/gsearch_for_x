@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/02 18:33
+### 最終更新：2024/12/02 20:25
 
+
+---
+
+**DATE**: 12/02（月） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1863465275733266461"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 12/01（日） 17:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1863135039879557625"></a>
-</blockquote>
+[💥第3回超...](https://twitter.com/pj_sekai/status/1863135039879557625)
 
 ---
 
@@ -584,13 +590,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -4175,13 +4181,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
@@ -4512,18 +4518,5 @@
 **DATE**: 08/30（金） 12:07
 <br>
 [🎶マジカル...](https://twitter.com/pj_sekai/status/1829355275209568484)
-
----
-
-**DATE**: 08/30（金） 11:09
-<br>
-[「バグ」
-...](https://twitter.com/pj_sekai/status/1829340517530026069)
-
----
-
-**DATE**: 08/30（金） 11:08
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1829340284314149217)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
