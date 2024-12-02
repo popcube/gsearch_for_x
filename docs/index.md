@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/01 21:57
+### 最終更新：2024/12/02 14:33
 
+
+---
+
+**DATE**: 12/02（月） 11:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1863404602886070332"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/01（日） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1863057218247254232"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1863057218247254232)
+<br>
+#プロセカCS
 
 ---
 
@@ -574,13 +582,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -4141,25 +4149,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -4511,47 +4519,5 @@
 [初音ミク「...](https://twitter.com/pj_sekai/status/1829315598708347290)
 <br>
 #マジカルミライ2024
-
----
-
-**DATE**: 08/29（木） 21:35
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1829135899948659152)
-
----
-
-**DATE**: 08/29（木） 20:01
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1829112006785343899)
-
----
-
-**DATE**: 08/29（木） 20:00
-<br>
-[本日21時...](https://twitter.com/pj_sekai/status/1829111762228306178)
-
----
-
-**DATE**: 08/29（木） 20:00 イベント「**キミと、セカイの始まりで**」 終了
-
----
-
-**DATE**: 08/29（木） 18:02
-<br>
-[『エイリア...](https://twitter.com/pj_sekai/status/1829082265995133336)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 08/29（木） 17:01
-<br>
-[8月31日...](https://twitter.com/pj_sekai/status/1829066708063039490)
-
----
-
-**DATE**: 08/29（木） 17:00
-<br>
-[🎤初音ミク...](https://twitter.com/pj_sekai/status/1829066458523152502)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
