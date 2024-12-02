@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/02 15:19
+### 最終更新：2024/12/02 18:33
 
+
+---
+
+**DATE**: 12/02（月） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1863465260138770602"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 12/01（日） 17:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1863134785805406287"></a>
-</blockquote>
+[🎊第26回...](https://twitter.com/pj_sekai/status/1863134785805406287)
 
 ---
 
@@ -4519,13 +4525,5 @@
 **DATE**: 08/30（金） 11:08
 <br>
 [下記楽曲の...](https://twitter.com/pj_sekai/status/1829340284314149217)
-
----
-
-**DATE**: 08/30（金） 09:30
-<br>
-[初音ミク「...](https://twitter.com/pj_sekai/status/1829315598708347290)
-<br>
-#マジカルミライ2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
