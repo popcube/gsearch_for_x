@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/02 20:25
+### 最終更新：2024/12/04 18:48
 
+
+---
+
+**DATE**: 12/04（水） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1864189344166347150"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/04（水） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1864189255066767789"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 12/02（月） 11:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1863404602886070332"></a>
-</blockquote>
+[今月の #...](https://twitter.com/pj_sekai/status/1863404602886070332)
+<br>
+#プロセカスケジュール
 
 ---
 
 **DATE**: 12/01（日） 18:45
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1863157376456827125"></a>
-</blockquote>
+[先ほど投稿...](https://twitter.com/pj_sekai/status/1863157376456827125)
+<br>
+#プロセカスケジュール
 
 ---
 
@@ -1634,13 +1650,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
@@ -3859,13 +3875,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -4398,125 +4414,5 @@
 **DATE**: 09/01（日） 12:00
 <br>
 [9月1日0...](https://twitter.com/pj_sekai/status/1830078305237942320)
-
----
-
-**DATE**: 08/31（土） 15:09
-<br>
-[本日15:...](https://twitter.com/pj_sekai/status/1829763475653955768)
-
----
-
-**DATE**: 08/31（土） 15:00 イベント「**わんだほら～！？な肝だめし！**」 開始
-
----
-
-**DATE**: 08/31（土） 12:04
-<br>
-[【肝試し第...](https://twitter.com/pj_sekai/status/1829716744627470591)
-
----
-
-**DATE**: 08/31（土） 12:04
-<br>
-[『とっても...](https://twitter.com/pj_sekai/status/1829716742136066290)
-
----
-
-**DATE**: 08/31（土） 12:03
-<br>
-[【猫耳おば...](https://twitter.com/pj_sekai/status/1829716601916264580)
-
----
-
-**DATE**: 08/31（土） 12:03
-<br>
-[『とっても...](https://twitter.com/pj_sekai/status/1829716599886229887)
-
----
-
-**DATE**: 08/31（土） 12:02
-<br>
-[【あたしが...](https://twitter.com/pj_sekai/status/1829716472454922528)
-
----
-
-**DATE**: 08/31（土） 12:02
-<br>
-[『とっても...](https://twitter.com/pj_sekai/status/1829716470269653435)
-
----
-
-**DATE**: 08/31（土） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1829715747213611051)
-<br>
-#セカイの4コマ #初音ミク #初音ミク17th #初音ミク誕生祭2024
-
----
-
-**DATE**: 08/31（土） 00:01
-<br>
-[🎤初音ミク...](https://twitter.com/pj_sekai/status/1829534792771108935)
-<br>
-#初音ミク #初音ミク17th #初音ミク誕生祭2024
-
----
-
-**DATE**: 08/31（土） 00:00
-<br>
-[㊗️本日8...](https://twitter.com/pj_sekai/status/1829534552068395488)
-<br>
-#初音ミク #初音ミク17th #初音ミク誕生祭2024
-
----
-
-**DATE**: 08/30（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1829489244047540734)
-<br>
-#セカラジ
-
----
-
-**DATE**: 08/30（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1829474153122119990)
-<br>
-#セカラジ
-
----
-
-**DATE**: 08/30（金） 18:00
-<br>
-[『エイリア...](https://twitter.com/pj_sekai/status/1829443946961129684)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 08/30（金） 15:18
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1829403232722166213)
-<br>
-#マジカルミライ2024
-
----
-
-**DATE**: 08/30（金） 15:18
-<br>
-[明日、8月...](https://twitter.com/pj_sekai/status/1829403196675993601)
-
----
-
-**DATE**: 08/30（金） 12:07
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1829355304146124934)
-
----
-
-**DATE**: 08/30（金） 12:07
-<br>
-[🎶マジカル...](https://twitter.com/pj_sekai/status/1829355275209568484)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
