@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/05 15:45
+### 最終更新：2024/12/06 04:18
 
+
+---
+
+**DATE**: 12/06（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1864686178295009766"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 12/02（月） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1863465275733266461"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1863465275733266461)
 
 ---
 
@@ -2536,13 +2542,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
@@ -3889,13 +3895,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
@@ -4211,13 +4217,13 @@
 
 **DATE**: 09/10（火） 12:09
 <br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -4392,27 +4398,5 @@
 **DATE**: 09/04（水） 12:00
 <br>
 [🎧25時、...](https://twitter.com/pj_sekai/status/1831165289200800113)
-
----
-
-**DATE**: 09/02（月） 15:12
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1830488944867467393)
-
----
-
-**DATE**: 09/02（月） 15:09
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1830488309853765813)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 09/02（月） 12:05
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1830441960324383091)
-<br>
-#セカイの4コマ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
