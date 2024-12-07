@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/07 00:31
+### 最終更新：2024/12/07 15:43
 
+
+---
+
+**DATE**: 12/07（土） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865229998283722980"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/06（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1864686178295009766"></a>
-</blockquote>
+[㊗️本日1...](https://twitter.com/pj_sekai/status/1864686178295009766)
+<br>
+#日野森雫誕生祭2024
 
 ---
 
