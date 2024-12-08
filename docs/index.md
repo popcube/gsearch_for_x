@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/08 22:38
+### 最終更新：2024/12/08 22:48
 
+
+---
+
+**DATE**: 12/08（日） 19:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865704546326237408"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/08（日） 18:52
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865695927379599427"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +26,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1865691173798732046"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/08（日） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865682909434450138"></a>
 </blockquote>
 
 ---
@@ -24,25 +48,23 @@
 
 **DATE**: 12/08（日） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865593581639192670"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1865593581639192670)
 
 ---
 
 **DATE**: 12/07（土） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865229998283722980"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865229998283722980)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 12/07（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865229753026007394"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865229753026007394)
+<br>
+#プロセカCS
 
 ---
 
@@ -692,25 +714,25 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
-
----
-
-**DATE**: 11/20（水） 12:09
-<br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+
+---
+
+**DATE**: 11/20（水） 12:09
+<br>
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
