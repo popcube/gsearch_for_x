@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/07 20:23
+### 最終更新：2024/12/08 16:11
 
+
+---
+
+**DATE**: 12/08（日） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865593964939887054"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/06（金） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1864868700509343839"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1864868700509343839)
+<br>
+#セカイの4コマ #日野森雫誕生祭2024
 
 ---
 
@@ -2584,13 +2592,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
@@ -4420,25 +4428,5 @@
 **DATE**: 09/05（木） 12:03
 <br>
 [【v3.8...](https://twitter.com/pj_sekai/status/1831528668436582470)
-
----
-
-**DATE**: 09/05（木） 00:00
-<br>
-[『私たちの...](https://twitter.com/pj_sekai/status/1831346480504033680)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/04（水） 18:15
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1831259670490522100)
-
----
-
-**DATE**: 09/04（水） 12:00
-<br>
-[🎧25時、...](https://twitter.com/pj_sekai/status/1831165289200800113)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
