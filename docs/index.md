@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/08 23:29
+### 最終更新：2024/12/08 23:40
 
+
+---
+
+**DATE**: 12/08（日） 20:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865720353655586821"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/08（日） 20:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865714707732353395"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 12/08（日） 18:52
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865695927379599427"></a>
-</blockquote>
+[準決勝Gr...](https://twitter.com/pj_sekai/status/1865695927379599427)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 12/08（日） 18:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865691173798732046"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865691173798732046)
+<br>
+#プロセカCS
 
 ---
 
@@ -262,13 +278,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
@@ -730,13 +746,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
