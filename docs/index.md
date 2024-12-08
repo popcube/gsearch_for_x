@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/08 16:36
+### 最終更新：2024/12/08 22:38
 
+
+---
+
+**DATE**: 12/08（日） 18:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1865691173798732046"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/06（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865003259938902102"></a>
-</blockquote>
+[WEBラジ...](https://twitter.com/pj_sekai/status/1865003259938902102)
+<br>
+#セカラジ
 
 ---
 
@@ -216,13 +224,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
@@ -684,13 +692,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -2600,13 +2608,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
@@ -4424,17 +4432,5 @@
 [『すべての...](https://twitter.com/pj_sekai/status/1831708868038054153)
 <br>
 #プロセカ4周年イラスト
-
----
-
-**DATE**: 09/05（木） 12:06
-<br>
-[✨プロジェ...](https://twitter.com/pj_sekai/status/1831529323461013933)
-
----
-
-**DATE**: 09/05（木） 12:03
-<br>
-[【v3.8...](https://twitter.com/pj_sekai/status/1831528668436582470)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
