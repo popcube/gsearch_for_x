@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/10 18:14
+### 最終更新：2024/12/10 23:34
 
+
+---
+
+**DATE**: 12/10（火） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1866437710895886696"></a>
+</blockquote>
 
 ---
 
@@ -30,6 +38,10 @@
 
 ---
 
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+
+---
+
 **DATE**: 12/09（月） 21:00
 <br>
 <blockquote class="twitter-tweet">
@@ -38,15 +50,11 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
-
----
-
 **DATE**: 12/08（日） 21:48
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1865740107770478796"></a>
-</blockquote>
+[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865740107770478796)
+<br>
+#プロセカCS
 
 ---
 
