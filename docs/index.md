@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/12 00:13
+### 最終更新：2024/12/13 13:42
 
+
+---
+
+**DATE**: 12/13（金） 10:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1867376013405220918"></a>
+</blockquote>
 
 ---
 
@@ -30,6 +38,10 @@
 
 ---
 
+**DATE**: 12/11（水） 15:00 イベント「**Grow glorious glow**」 開始
+
+---
+
 **DATE**: 12/11（水） 12:05
 <br>
 <blockquote class="twitter-tweet">
@@ -40,9 +52,7 @@
 
 **DATE**: 12/11（水） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1866680666341117987"></a>
-</blockquote>
+[「high...](https://twitter.com/pj_sekai/status/1866680666341117987)
 
 ---
 
@@ -923,13 +933,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
@@ -1943,13 +1953,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
@@ -4478,25 +4488,25 @@
 
 **DATE**: 09/10（火） 12:11
 <br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
+[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
 
 ---
 
 **DATE**: 09/10（火） 12:11
 <br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
+[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
 
 ---
 
 **DATE**: 09/10（火） 12:09
 <br>
 [『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
+
+---
+
+**DATE**: 09/10（火） 12:09
+<br>
+[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
 
 ---
 
@@ -4521,71 +4531,5 @@
 **DATE**: 09/10（火） 10:12
 <br>
 [【メンテナ...](https://twitter.com/pj_sekai/status/1833312630259495382)
-
----
-
-**DATE**: 09/10（火） 00:00
-<br>
-[『まだ見ぬ...](https://twitter.com/pj_sekai/status/1833158423254552897)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/09（月） 15:06
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1833024255874965984)
-
----
-
-**DATE**: 09/09（月） 15:06
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1833024185725325609)
-<br>
-#モモジャン
-
----
-
-**DATE**: 09/09（月） 15:06
-<br>
-[明日、9月...](https://twitter.com/pj_sekai/status/1833024172072845374)
-
----
-
-**DATE**: 09/09（月） 12:00
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1832977236103942633)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 09/09（月） 00:02
-<br>
-[『好きなこ...](https://twitter.com/pj_sekai/status/1832796535538491830)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/09（月） 00:01
-<br>
-[👑鳳えむ ...](https://twitter.com/pj_sekai/status/1832796283511193943)
-<br>
-#鳳えむ誕生祭2024
-
----
-
-**DATE**: 09/09（月） 00:00
-<br>
-[㊗️本日9...](https://twitter.com/pj_sekai/status/1832796033505767640)
-<br>
-#鳳えむ誕生祭2024
-
----
-
-**DATE**: 09/08（日） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1832750740604887286)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
