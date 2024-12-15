@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/13 15:46
+### 最終更新：2024/12/16 00:28
 
+
+---
+
+**DATE**: 12/15（日） 21:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1868265254456840278"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/11（水） 18:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1866770861983928762"></a>
-</blockquote>
+[「プロセカ...](https://twitter.com/pj_sekai/status/1866770861983928762)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -927,25 +935,25 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
-
----
-
-**DATE**: 11/20（水） 12:09
-<br>
 [【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
 [【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+
+---
+
+**DATE**: 11/20（水） 12:09
+<br>
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -2213,13 +2221,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
@@ -4196,13 +4204,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -4433,121 +4441,5 @@
 [『はなした...](https://twitter.com/pj_sekai/status/1834245586242908569)
 <br>
 #プロセカ4周年イラスト
-
----
-
-**DATE**: 09/12（木） 12:20
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1834069421100261522)
-
----
-
-**DATE**: 09/12（木） 12:04
-<br>
-[9月13日...](https://twitter.com/pj_sekai/status/1834065626782204413)
-<br>
-#セカラジ
-
----
-
-**DATE**: 09/12（木） 12:02
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1834065090087198809)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 09/12（木） 00:00
-<br>
-[『はばたけ...](https://twitter.com/pj_sekai/status/1833883195194106332)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/11（水） 00:00
-<br>
-[『4人でど...](https://twitter.com/pj_sekai/status/1833520814836023724)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/10（火） 18:22
-<br>
-[「プロセカ...](https://twitter.com/pj_sekai/status/1833435802023694353)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 09/10（火） 15:09
-<br>
-[本日15:...](https://twitter.com/pj_sekai/status/1833387249632788965)
-
----
-
-**DATE**: 09/10（火） 15:00 イベント「**鍛えてFLY！Muscle Training！**」 開始
-
----
-
-**DATE**: 09/10（火） 12:11
-<br>
-[【仲良しト...](https://twitter.com/pj_sekai/status/1833342477006475572)
-
----
-
-**DATE**: 09/10（火） 12:11
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342474326094246)
-
----
-
-**DATE**: 09/10（火） 12:11
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342381078548915)
-
----
-
-**DATE**: 09/10（火） 12:11
-<br>
-[【大会のあ...](https://twitter.com/pj_sekai/status/1833342383041523822)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[『SUPR...](https://twitter.com/pj_sekai/status/1833342087309496438)
-
----
-
-**DATE**: 09/10（火） 12:09
-<br>
-[【応援を翼...](https://twitter.com/pj_sekai/status/1833342089394065719)
-
----
-
-**DATE**: 09/10（火） 11:23
-<br>
-[「Flye...](https://twitter.com/pj_sekai/status/1833330304561676614)
-
----
-
-**DATE**: 09/10（火） 11:22
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1833330249393897760)
-
----
-
-**DATE**: 09/10（火） 11:22
-<br>
-[【v3.8...](https://twitter.com/pj_sekai/status/1833330143701700677)
-
----
-
-**DATE**: 09/10（火） 10:12
-<br>
-[【メンテナ...](https://twitter.com/pj_sekai/status/1833312630259495382)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
