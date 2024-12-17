@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/16 22:02
+### 最終更新：2024/12/17 15:46
 
+
+---
+
+**DATE**: 12/17（火） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1868855861658927608"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/17（火） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1868854746582598094"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 12/13（金） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1867405307200385442"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1867405307200385442)
 
 ---
 
 **DATE**: 12/13（金） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1867405272131785033"></a>
-</blockquote>
+[本日12時...](https://twitter.com/pj_sekai/status/1867405272131785033)
 
 ---
 
@@ -951,13 +963,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -1407,13 +1419,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
@@ -2237,13 +2249,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
@@ -4397,57 +4409,5 @@
 [『ロミオと...](https://twitter.com/pj_sekai/status/1834879770775240876)
 <br>
 #モモジャン
-
----
-
-**DATE**: 09/14（土） 00:00
-<br>
-[『この想い...](https://twitter.com/pj_sekai/status/1834607979943141621)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/13（金） 21:01
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1834562924918272448)
-<br>
-#セカラジ
-
----
-
-**DATE**: 09/13（金） 21:00
-<br>
-[『セカラジ...](https://twitter.com/pj_sekai/status/1834562677999288511)
-<br>
-#セカラジ
-
----
-
-**DATE**: 09/13（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1834547579016618196)
-<br>
-#セカラジ
-
----
-
-**DATE**: 09/13（金） 18:00
-<br>
-[『ロミオと...](https://twitter.com/pj_sekai/status/1834517614468706810)
-<br>
-#モモジャン
-
----
-
-**DATE**: 09/13（金） 15:05
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1834473410568896866)
-
----
-
-**DATE**: 09/13（金） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1834473354524508291)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
