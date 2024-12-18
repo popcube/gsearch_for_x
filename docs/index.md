@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/17 20:48
+### 最終更新：2024/12/18 21:24
 
+
+---
+
+**DATE**: 12/18（水） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869306856956703074"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 12/17（火） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1868854746582598094"></a>
-</blockquote>
+[12月26...](https://twitter.com/pj_sekai/status/1868854746582598094)
 
 ---
 
@@ -130,13 +136,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -513,13 +519,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
@@ -2081,13 +2087,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
@@ -4411,21 +4417,5 @@
 [『新たな舞...](https://twitter.com/pj_sekai/status/1835332756152385784)
 <br>
 #プロセカ4周年イラスト
-
----
-
-**DATE**: 09/15（日） 00:00
-<br>
-[『寄り添う...](https://twitter.com/pj_sekai/status/1834970366357516473)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 09/14（土） 18:00
-<br>
-[『ロミオと...](https://twitter.com/pj_sekai/status/1834879770775240876)
-<br>
-#モモジャン
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
