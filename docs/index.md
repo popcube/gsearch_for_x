@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/20 00:12
+### 最終更新：2024/12/20 01:34
 
+
+---
+
+**DATE**: 12/19（木） 22:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869731371041923200"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/19（木） 22:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869730785252851887"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,15 @@
 
 **DATE**: 12/18（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1869306856956703074"></a>
-</blockquote>
+[#マイセカ...](https://twitter.com/pj_sekai/status/1869306856956703074)
+<br>
+#マイセカイ
 
 ---
 
 **DATE**: 12/17（火） 14:24
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1868890051389931981"></a>
-</blockquote>
+[先ほど投稿...](https://twitter.com/pj_sekai/status/1868890051389931981)
 
 ---
 
@@ -1039,13 +1053,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
