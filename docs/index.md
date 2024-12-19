@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/20 01:34
+### 最終更新：2024/12/20 01:50
 
 
 ---
@@ -30,6 +30,14 @@
 
 ---
 
+**DATE**: 12/19（木） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869714307589792243"></a>
+</blockquote>
+
+---
+
 **DATE**: 12/19（木） 21:00 イベント「**Grow glorious glow**」 終了
 
 ---
@@ -44,9 +52,9 @@
 
 **DATE**: 12/19（木） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1869580326168858897"></a>
-</blockquote>
+[12月20...](https://twitter.com/pj_sekai/status/1869580326168858897)
+<br>
+#セカラジ
 
 ---
 
