@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/18 21:24
+### 最終更新：2024/12/19 15:44
 
+
+---
+
+**DATE**: 12/19（木） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869580326168858897"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/17（火） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1868855861658927608"></a>
-</blockquote>
+[マイセカイ...](https://twitter.com/pj_sekai/status/1868855861658927608)
+<br>
+#マイセカイ #プロセカ放送局
 
 ---
 
@@ -136,13 +144,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
@@ -4409,13 +4417,5 @@
 **DATE**: 09/16（月） 12:03
 <br>
 [本日12時...](https://twitter.com/pj_sekai/status/1835514853026595276)
-
----
-
-**DATE**: 09/16（月） 00:00
-<br>
-[『新たな舞...](https://twitter.com/pj_sekai/status/1835332756152385784)
-<br>
-#プロセカ4周年イラスト
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
