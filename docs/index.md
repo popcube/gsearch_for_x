@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/20 05:10
+### 最終更新：2024/12/20 15:16
 
+
+---
+
+**DATE**: 12/20（金） 11:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869934710664896646"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/20（金） 11:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1869934699034067191"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 12/19（木） 22:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1869730785252851887"></a>
-</blockquote>
+[☘️MOR...](https://twitter.com/pj_sekai/status/1869730785252851887)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 12/19（木） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1869714548233548058"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1869714548233548058)
 
 ---
 
@@ -1063,13 +1077,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -2991,13 +3005,13 @@
 
 **DATE**: 09/30（月） 12:24
 <br>
-[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
 
 ---
 
 **DATE**: 09/30（月） 12:24
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
+[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
 
 ---
 
@@ -4453,13 +4467,5 @@
 **DATE**: 09/17（火） 15:08
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1835923848266760657)
-
----
-
-**DATE**: 09/17（火） 00:00
-<br>
-[『夢を越え...](https://twitter.com/pj_sekai/status/1835695143522803944)
-<br>
-#プロセカ4周年イラスト
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
