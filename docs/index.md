@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/20 16:25
+### 最終更新：2024/12/21 00:12
 
+
+---
+
+**DATE**: 12/20（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1870076688580915641"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 12/19（木） 22:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1869738846407291126"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1869738846407291126)
 
 ---
 
@@ -1079,13 +1085,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -4348,13 +4354,13 @@
 
 **DATE**: 09/20（金） 12:11
 <br>
-[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
+[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
 
 ---
 
 **DATE**: 09/20（金） 12:11
 <br>
-[「Me a...](https://twitter.com/pj_sekai/status/1836966263933051202)
+[【ミクとの...](https://twitter.com/pj_sekai/status/1836966265908514839)
 
 ---
 
@@ -4469,17 +4475,5 @@
 [『わたしが...](https://twitter.com/pj_sekai/status/1836057522123289081)
 <br>
 #プロセカ4周年イラスト
-
----
-
-**DATE**: 09/17（火） 15:09
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1835923938830127614)
-
----
-
-**DATE**: 09/17（火） 15:08
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1835923848266760657)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
