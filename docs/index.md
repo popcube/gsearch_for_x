@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/26 19:48
+### 最終更新：2024/12/26 21:22
 
+
+---
+
+**DATE**: 12/26（木） 21:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872255112435105828"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/26（木） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872251108158226930"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/26（木） 20:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872246688750227781"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/26（木） 20:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872245256009433261"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,39 @@
 
 **DATE**: 12/26（木） 19:36
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872230079138570407"></a>
-</blockquote>
+[🎍行く年来...](https://twitter.com/pj_sekai/status/1872230079138570407)
+<br>
+#プロセカ年末大特番
 
 ---
 
 **DATE**: 12/26（木） 19:27
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872227769574371344"></a>
-</blockquote>
+[㊗プロセカ...](https://twitter.com/pj_sekai/status/1872227769574371344)
+<br>
+#プロセカ年末大特番
 
 ---
 
 **DATE**: 12/26（木） 19:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872223557629198703"></a>
-</blockquote>
+[第25回プ...](https://twitter.com/pj_sekai/status/1872223557629198703)
+<br>
+#プロセカ年末大特番
+
+---
+
+**DATE**: 12/26（木） 18:00
+<br>
+[このあと1...](https://twitter.com/pj_sekai/status/1872205725096939938)
 
 ---
 
 **DATE**: 12/26（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872116664554410293"></a>
-</blockquote>
+[#マイセカ...](https://twitter.com/pj_sekai/status/1872116664554410293)
+<br>
+#マイセカイ #マイセカイ #プロセカ年末大特番
 
 ---
 
@@ -186,13 +224,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -1277,13 +1315,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
