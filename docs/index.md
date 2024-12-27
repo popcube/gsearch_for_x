@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/27 18:36
+### 最終更新：2024/12/27 20:22
 
 
 ---
@@ -193,6 +193,14 @@
 **DATE**: 12/26（木） 21:05
 <br>
 [#劇場版プ...](https://twitter.com/pj_sekai/status/1872252377702797526)
+<br>
+#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
+
+---
+
+**DATE**: 12/26（木） 21:04
+<br>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1872252207778918488)
 <br>
 #劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
 
@@ -2589,13 +2597,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
@@ -3189,13 +3197,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -5303,11 +5311,5 @@
 **DATE**: 09/24（火） 15:04
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1838459408470413817)
-
----
-
-**DATE**: 09/24（火） 11:00
-<br>
-[本日投稿し...](https://twitter.com/pj_sekai/status/1838397972830392745)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
