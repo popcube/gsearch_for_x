@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/27 04:18
+### 最終更新：2024/12/27 15:16
 
+
+---
+
+**DATE**: 12/27（金） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872478627792871798"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/27（金） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872478222027518010"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 12/26（木） 21:56
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872265274835275970"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1872265274835275970)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 12/26（木） 21:56
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872265158351077623"></a>
-</blockquote>
+[劇場版プロ...](https://twitter.com/pj_sekai/status/1872265158351077623)
+<br>
+#劇場版プロセカ
 
 ---
 
@@ -2109,13 +2125,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -3209,13 +3225,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
@@ -5285,13 +5301,5 @@
 **DATE**: 09/24（火） 11:00
 <br>
 [本日投稿し...](https://twitter.com/pj_sekai/status/1838397972830392745)
-
----
-
-**DATE**: 09/24（火） 00:00
-<br>
-[『手放した...](https://twitter.com/pj_sekai/status/1838231857516937264)
-<br>
-#プロセカ4周年イラスト
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
