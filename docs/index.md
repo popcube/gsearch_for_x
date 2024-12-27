@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/27 15:16
+### 最終更新：2024/12/27 18:36
 
+
+---
+
+**DATE**: 12/27（金） 15:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1872525876396704063"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 12/27（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872296313527890222"></a>
-</blockquote>
+[㊗️本日1...](https://twitter.com/pj_sekai/status/1872296313527890222)
+<br>
+#鏡音17誕 #鏡音リン誕生祭2024 #鏡音レン誕生祭2024
 
 ---
 
