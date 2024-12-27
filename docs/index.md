@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/27 22:17
+### 最終更新：2024/12/28 04:16
 
 
 ---
@@ -202,6 +202,14 @@
 
 ---
 
+**DATE**: 12/26（木） 21:14
+<br>
+[【#プロセ...](https://twitter.com/pj_sekai/status/1872254631956586698)
+<br>
+#プロセカ年末大特番 #プロセカ年末大特番
+
+---
+
 **DATE**: 12/26（木） 21:11
 <br>
 [#劇場版プ...](https://twitter.com/pj_sekai/status/1872253801085960564)
@@ -330,6 +338,14 @@
 
 ---
 
+**DATE**: 12/26（木） 20:56
+<br>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1872250253589852554)
+<br>
+#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
+
+---
+
 **DATE**: 12/26（木） 20:55
 <br>
 [#劇場版プ...](https://twitter.com/pj_sekai/status/1872249973531983940)
@@ -341,6 +357,14 @@
 **DATE**: 12/26（木） 20:55
 <br>
 [#劇場版プ...](https://twitter.com/pj_sekai/status/1872249802194575696)
+<br>
+#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
+
+---
+
+**DATE**: 12/26（木） 20:54
+<br>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1872249569381421204)
 <br>
 #劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
 
@@ -411,6 +435,14 @@
 **DATE**: 12/26（木） 20:40
 <br>
 [劇場版プロ...](https://twitter.com/pj_sekai/status/1872246131440456068)
+<br>
+#プロセカ年末大特番 #劇場版プロセカ
+
+---
+
+**DATE**: 12/26（木） 20:38
+<br>
+[劇場版オー...](https://twitter.com/pj_sekai/status/1872245541742186633)
 <br>
 #プロセカ年末大特番 #劇場版プロセカ
 
@@ -592,6 +624,14 @@
 
 ---
 
+**DATE**: 12/26（木） 20:08
+<br>
+[新機能「#...](https://twitter.com/pj_sekai/status/1872238135347966006)
+<br>
+#マイセカイ #プロセカ年末大特番
+
+---
+
 **DATE**: 12/26（木） 20:06
 <br>
 [新機能「#...](https://twitter.com/pj_sekai/status/1872237526490267794)
@@ -641,6 +681,14 @@
 **DATE**: 12/26（木） 19:58
 <br>
 [アップデー...](https://twitter.com/pj_sekai/status/1872235421842993235)
+<br>
+#プロセカ年末大特番
+
+---
+
+**DATE**: 12/26（木） 19:57
+<br>
+[アップデー...](https://twitter.com/pj_sekai/status/1872235278766874827)
 <br>
 #プロセカ年末大特番
 
@@ -879,6 +927,14 @@
 **DATE**: 12/26（木） 19:21
 <br>
 [カウントダ...](https://twitter.com/pj_sekai/status/1872226236107464958)
+<br>
+#プロセカ年末大特番
+
+---
+
+**DATE**: 12/26（木） 19:21
+<br>
+[⛩️もうす...](https://twitter.com/pj_sekai/status/1872226136102683065)
 <br>
 #プロセカ年末大特番
 
@@ -1350,13 +1406,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -1419,13 +1475,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+**DATE**: 12/09（月） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
 
 ---
 
@@ -1733,13 +1789,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
@@ -2201,13 +2257,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
@@ -3257,13 +3313,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -4117,13 +4173,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
@@ -5359,17 +5415,5 @@
 [『少しでも...](https://twitter.com/pj_sekai/status/1838594250922992076)
 <br>
 #プロセカ4周年イラスト
-
----
-
-**DATE**: 09/24（火） 15:05
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1838459722112106774)
-
----
-
-**DATE**: 09/24（火） 15:04
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1838459408470413817)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
