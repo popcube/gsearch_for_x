@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/29 17:48
+### 最終更新：2024/12/29 18:25
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1873251304342249851"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/29（日） 15:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1873250509697806426"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 12/27（金） 20:56
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1872612430146322791"></a>
-</blockquote>
+[「劇場版連...](https://twitter.com/pj_sekai/status/1872612430146322791)
+<br>
+#劇場版プロセカ
 
 ---
 
@@ -1182,25 +1190,25 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
-
----
-
-**DATE**: 12/21（土） 12:01
-<br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
 [【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+
+---
+
+**DATE**: 12/21（土） 12:01
+<br>
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
@@ -1434,13 +1442,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
@@ -1503,13 +1511,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+**DATE**: 12/09（月） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
 
 ---
 
@@ -2729,13 +2737,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
