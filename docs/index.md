@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/31 15:16
+### 最終更新：2024/12/31 15:42
 
+
+---
+
+**DATE**: 12/31（火） 12:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1873930411895930954"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1873928720249217439"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/31（火） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1873928693443420210"></a>
 </blockquote>
 
 ---
@@ -32,17 +48,13 @@
 
 **DATE**: 12/30（月） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1873610645800878123"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1873610645800878123)
 
 ---
 
 **DATE**: 12/30（月） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1873566383449297130"></a>
-</blockquote>
+[明日12時...](https://twitter.com/pj_sekai/status/1873566383449297130)
 
 ---
 
@@ -2381,13 +2393,13 @@
 
 **DATE**: 11/20（水） 12:08
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
 
 ---
 
@@ -3413,13 +3425,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
@@ -3457,13 +3469,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
@@ -4273,13 +4285,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
