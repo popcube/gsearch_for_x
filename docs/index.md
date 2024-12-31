@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2024/12/31 20:09
+### 最終更新：2025/01/01 04:16
 
+
+---
+
+**DATE**: 01/01（水） 00:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1874109307220091361"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（水） 00:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1874109279546028313"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（水） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1874108267666039118"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/31（火） 23:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1874100987914539023"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,25 @@
 
 **DATE**: 12/31（火） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1873973561062547854"></a>
-</blockquote>
+[『プロトデ...](https://twitter.com/pj_sekai/status/1873973561062547854)
 
 ---
 
 **DATE**: 12/31（火） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1873973531299766351"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1873973531299766351)
 
 ---
 
 **DATE**: 12/31（火） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1873973496625455608"></a>
-</blockquote>
+[待合エリア...](https://twitter.com/pj_sekai/status/1873973496625455608)
 
 ---
 
 **DATE**: 12/31（火） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1873973362151874678"></a>
-</blockquote>
+[🎆カウント...](https://twitter.com/pj_sekai/status/1873973362151874678)
 
 ---
 
@@ -82,25 +106,25 @@
 
 **DATE**: 12/31（火） 12:08
 <br>
-[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
+[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
 
 ---
 
 **DATE**: 12/31（火） 12:08
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
-
----
-
-**DATE**: 12/31（火） 12:06
-<br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
+[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
 [【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
+
+---
+
+**DATE**: 12/31（火） 12:06
+<br>
+[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
 
 ---
 
@@ -1618,13 +1642,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -2001,13 +2025,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
@@ -2481,13 +2505,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -4385,13 +4409,13 @@
 
 **DATE**: 09/30（月） 12:25
 <br>
-[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
 
 ---
 
 **DATE**: 09/30（月） 12:25
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593820930777251)
+[【放課後の...](https://twitter.com/pj_sekai/status/1840593823053045843)
 
 ---
 
@@ -4409,13 +4433,13 @@
 
 **DATE**: 09/30（月） 12:24
 <br>
-[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
+[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
 
 ---
 
 **DATE**: 09/30（月） 12:24
 <br>
-[「[4周年...](https://twitter.com/pj_sekai/status/1840593502746583287)
+[【歯がゆい...](https://twitter.com/pj_sekai/status/1840593504956989715)
 
 ---
 
@@ -4660,73 +4684,5 @@
 [🎊グッズ情...](https://twitter.com/pj_sekai/status/1839983978327224594)
 <br>
 #プロセカ感謝祭
-
----
-
-**DATE**: 09/28（土） 14:04
-<br>
-[🎊グッズ情...](https://twitter.com/pj_sekai/status/1839893955397447722)
-<br>
-#劇場版プロセカ #プロセカ感謝祭
-
----
-
-**DATE**: 09/28（土） 14:03
-<br>
-[🎊グッズ情...](https://twitter.com/pj_sekai/status/1839893733682360655)
-<br>
-#劇場版プロセカ #プロセカ感謝祭
-
----
-
-**DATE**: 09/28（土） 13:36
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1839886987098239327)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 09/28（土） 13:21
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1839883198375047351)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 09/28（土） 12:46
-<br>
-[プロセカ公...](https://twitter.com/pj_sekai/status/1839874318832152732)
-
----
-
-**DATE**: 09/28（土） 12:20
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1839867676531073102)
-
----
-
-**DATE**: 09/28（土） 12:13
-<br>
-[プロセカ公...](https://twitter.com/pj_sekai/status/1839866105034355185)
-
----
-
-**DATE**: 09/28（土） 12:12
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1839865828637806880)
-
----
-
-**DATE**: 09/28（土） 12:12
-<br>
-[4周年記念...](https://twitter.com/pj_sekai/status/1839865808648056928)
-
----
-
-**DATE**: 09/28（土） 11:09
-<br>
-[【v4.0...](https://twitter.com/pj_sekai/status/1839849915016720793)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
