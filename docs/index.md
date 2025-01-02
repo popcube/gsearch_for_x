@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/02 15:42
+### 最終更新：2025/01/02 15:50
 
+
+---
+
+**DATE**: 01/02（木） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1874697882928034229"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 01/01（水） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1874335789724950872"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1874335789724950872)
 
 ---
 
@@ -3015,13 +3021,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
@@ -3627,13 +3633,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
