@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/03 19:32
+### 最終更新：2025/01/04 00:12
 
+
+---
+
+**DATE**: 01/03（金） 21:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1875153227748090217"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/03（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1875135132438544619"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 01/02（木） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1874742433788936559"></a>
-</blockquote>
+[🎶セカイシ...](https://twitter.com/pj_sekai/status/1874742433788936559)
 
 ---
 
 **DATE**: 01/02（木） 15:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1874701134595817533"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1874701134595817533)
 
 ---
 
@@ -1536,13 +1548,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -1845,13 +1857,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+**DATE**: 12/09（月） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
 
 ---
 
@@ -2627,19 +2639,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
-
----
-
-**DATE**: 11/20（水） 12:09
-<br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
@@ -2649,15 +2655,21 @@
 
 ---
 
-**DATE**: 11/20（水） 12:08
+**DATE**: 11/20（水） 12:09
 <br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+
+---
+
+**DATE**: 11/20（水） 12:08
+<br>
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
@@ -3683,13 +3695,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -3913,13 +3925,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
@@ -4460,39 +4472,5 @@
 [👗一緒につ...](https://twitter.com/pj_sekai/status/1841030099505987749)
 <br>
 #プロセカ衣装デザイン
-
----
-
-**DATE**: 10/01（火） 15:06
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1840996634936635779)
-
----
-
-**DATE**: 10/01（火） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1840996494264189371)
-<br>
-#レオニ
-
----
-
-**DATE**: 10/01（火） 12:06
-<br>
-[10月1日...](https://twitter.com/pj_sekai/status/1840951496688746752)
-
----
-
-**DATE**: 10/01（火） 12:06
-<br>
-[🎮第10回...](https://twitter.com/pj_sekai/status/1840951413352120657)
-
----
-
-**DATE**: 10/01（火） 12:06
-<br>
-[今月の #...](https://twitter.com/pj_sekai/status/1840951367546126736)
-<br>
-#プロセカスケジュール
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
