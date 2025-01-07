@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/06 21:23
+### 最終更新：2025/01/07 19:13
 
+
+---
+
+**DATE**: 01/07（火） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1876554368092107146"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 01/05（日） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1875785057337798752"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1875785057337798752)
+<br>
+#ニーゴ
 
 ---
 
@@ -1605,13 +1613,13 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
@@ -1857,13 +1865,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -3164,13 +3172,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
@@ -3994,13 +4002,13 @@
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
+[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
 
 ---
 
 **DATE**: 10/12（土） 18:22
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
+[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
 
 ---
 
@@ -4335,49 +4343,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1842399322802995268)
 <br>
 #セカイの4コマ #桐谷遥誕生祭2024
-
----
-
-**DATE**: 10/05（土） 00:30
-<br>
-[🌟プロセカ...](https://twitter.com/pj_sekai/status/1842225666273562964)
-<br>
-#プロセカ4周年イラスト
-
----
-
-**DATE**: 10/05（土） 00:01
-<br>
-[☘️桐谷遥...](https://twitter.com/pj_sekai/status/1842218368998207529)
-<br>
-#桐谷遥誕生祭2024
-
----
-
-**DATE**: 10/05（土） 00:00
-<br>
-[㊗️本日1...](https://twitter.com/pj_sekai/status/1842218119860789434)
-<br>
-#桐谷遥誕生祭2024
-
----
-
-**DATE**: 10/04（金） 18:05
-<br>
-[🌟#セカラ...](https://twitter.com/pj_sekai/status/1842128841000759717)
-<br>
-#セカライ
-
----
-
-**DATE**: 10/04（金） 15:09
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1842084548894736484)
-
----
-
-**DATE**: 10/04（金） 15:08
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1842084477524492741)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
