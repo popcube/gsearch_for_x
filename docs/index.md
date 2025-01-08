@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/08 12:48
+### 最終更新：2025/01/08 22:37
 
+
+---
+
+**DATE**: 01/08（水） 19:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1876935007039562106"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/08（水） 19:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1876934711454375997"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/08（水） 19:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1876934708396687379"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,25 @@
 
 **DATE**: 01/08（水） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1876644963959931233"></a>
-</blockquote>
+[㊗️本日1...](https://twitter.com/pj_sekai/status/1876644963959931233)
+<br>
+#日野森志歩誕生祭2025
 
 ---
 
 **DATE**: 01/07（火） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1876554368092107146"></a>
-</blockquote>
+[『ももいろ...](https://twitter.com/pj_sekai/status/1876554368092107146)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 01/06（月） 18:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1876192839689982275"></a>
-</blockquote>
+[『ももいろ...](https://twitter.com/pj_sekai/status/1876192839689982275)
+<br>
+#モモジャン
 
 ---
 
@@ -2746,13 +2770,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
@@ -3178,13 +3202,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
@@ -4273,17 +4297,5 @@
 [🌟コネクト...](https://twitter.com/pj_sekai/status/1842791972559597850)
 <br>
 #コネクトライブ
-
----
-
-**DATE**: 10/06（日） 13:31
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1842784678388088936)
-
----
-
-**DATE**: 10/06（日） 12:00
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1842761701780828365)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
