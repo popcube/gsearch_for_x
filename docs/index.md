@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/10 21:57
+### 最終更新：2025/01/11 00:11
 
+
+---
+
+**DATE**: 01/10（金） 21:57
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1877701409749225816"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 01/10（金） 13:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1877575660136444310"></a>
-</blockquote>
+[先ほど投稿...](https://twitter.com/pj_sekai/status/1877575660136444310)
 
 ---
 
@@ -2902,13 +2908,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -4317,17 +4323,5 @@
 [『天使のク...](https://twitter.com/pj_sekai/status/1843578586323955729)
 <br>
 #モモジャン
-
----
-
-**DATE**: 10/08（火） 15:04
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1843532807005712738)
-
----
-
-**DATE**: 10/08（火） 15:03
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1843532612331287015)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
