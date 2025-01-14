@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/14 18:12
+### 最終更新：2025/01/15 04:16
 
+
+---
+
+**DATE**: 01/14（火） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1879046904304337316"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 01/13（月） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1878638098269020437"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1878638098269020437)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -631,13 +639,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
+[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
+[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
 
 ---
 
@@ -1903,25 +1911,25 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
-
----
-
-**DATE**: 12/21（土） 12:01
-<br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
 [【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+
+---
+
+**DATE**: 12/21（土） 12:01
+<br>
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
@@ -2155,13 +2163,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -2538,13 +2546,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
@@ -4106,13 +4114,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
@@ -4225,109 +4233,5 @@
 [📺WEBラ...](https://twitter.com/pj_sekai/status/1845056824887869771)
 <br>
 #セカラジ
-
----
-
-**DATE**: 10/12（土） 18:29
-<br>
-[【零度の諍...](https://twitter.com/pj_sekai/status/1845033995953897903)
-
----
-
-**DATE**: 10/12（土） 18:29
-<br>
-[「朽ちゆく...](https://twitter.com/pj_sekai/status/1845033993080549560)
-
----
-
-**DATE**: 10/12（土） 18:28
-<br>
-[【痛いほど...](https://twitter.com/pj_sekai/status/1845033811048005938)
-
----
-
-**DATE**: 10/12（土） 18:28
-<br>
-[「朽ちゆく...](https://twitter.com/pj_sekai/status/1845033808904790466)
-
----
-
-**DATE**: 10/12（土） 18:27
-<br>
-[【失われて...](https://twitter.com/pj_sekai/status/1845033651597344963)
-
----
-
-**DATE**: 10/12（土） 18:27
-<br>
-[「朽ちゆく...](https://twitter.com/pj_sekai/status/1845033649252569326)
-
----
-
-**DATE**: 10/12（土） 18:26
-<br>
-[🎧25時、...](https://twitter.com/pj_sekai/status/1845033284650271134)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 10/12（土） 18:25
-<br>
-[4周年記念...](https://twitter.com/pj_sekai/status/1845033096556708181)
-
----
-
-**DATE**: 10/12（土） 18:24
-<br>
-[「プロセカ...](https://twitter.com/pj_sekai/status/1845032752640557257)
-
----
-
-**DATE**: 10/12（土） 18:24
-<br>
-[本日18時...](https://twitter.com/pj_sekai/status/1845032677344412046)
-
----
-
-**DATE**: 10/12（土） 18:22
-<br>
-[本日18:...](https://twitter.com/pj_sekai/status/1845032292030288012)
-
----
-
-**DATE**: 10/12（土） 18:22
-<br>
-[本イベント...](https://twitter.com/pj_sekai/status/1845032294912073892)
-
----
-
-**DATE**: 10/12（土） 18:09
-<br>
-[先ほど投稿...](https://twitter.com/pj_sekai/status/1845028958884200904)
-
----
-
-**DATE**: 10/12（土） 18:06
-<br>
-[下記楽曲の...](https://twitter.com/pj_sekai/status/1845028361351069835)
-
----
-
-**DATE**: 10/12（土） 18:00 イベント「**荊棘の道は何処へ**」 開始
-
----
-
-**DATE**: 10/12（土） 17:39
-<br>
-[「glow...](https://twitter.com/pj_sekai/status/1845021502531588144)
-
----
-
-**DATE**: 10/12（土） 12:02
-<br>
-[初音ミク「...](https://twitter.com/pj_sekai/status/1844936774407291230)
-<br>
-#マジカルミライ2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
