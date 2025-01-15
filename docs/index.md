@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/15 04:16
+### 最終更新：2025/01/15 15:16
 
+
+---
+
+**DATE**: 01/15（水） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1879363837130166637"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 01/14（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1879001438325784744"></a>
-</blockquote>
+[1月21日...](https://twitter.com/pj_sekai/status/1879001438325784744)
 
 ---
 
@@ -71,6 +77,10 @@
 **DATE**: 01/11（土） 15:10
 <br>
 [本日15:...](https://twitter.com/pj_sekai/status/1877961168356303294)
+
+---
+
+**DATE**: 01/11（土） 15:00 イベント「**Time to take off！**」 開始
 
 ---
 
@@ -1911,25 +1921,25 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
-
----
-
-**DATE**: 12/21（土） 12:01
-<br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
 [『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+
+---
+
+**DATE**: 12/21（土） 12:01
+<br>
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -2163,13 +2173,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
@@ -4070,13 +4080,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -4217,21 +4227,5 @@
 **DATE**: 10/13（日） 12:04
 <br>
 [本日12時...](https://twitter.com/pj_sekai/status/1845299556608864729)
-
----
-
-**DATE**: 10/12（土） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1845071921655972075)
-<br>
-#セカラジ
-
----
-
-**DATE**: 10/12（土） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1845056824887869771)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
