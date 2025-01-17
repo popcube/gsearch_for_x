@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/16 18:36
+### 最終更新：2025/01/17 12:31
 
+
+---
+
+**DATE**: 01/17（金） 12:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880092014014050374"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/17（金） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880089682303938912"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/17（金） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880088879958827510"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,20 @@
 
 **DATE**: 01/16（木） 12:14
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1879728840962162808"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1879728840962162808)
 
 ---
 
 **DATE**: 01/15（水） 21:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1879500138433167830"></a>
-</blockquote>
+[【重要】
+...](https://twitter.com/pj_sekai/status/1879500138433167830)
 
 ---
 
 **DATE**: 01/15（水） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1879363837130166637"></a>
-</blockquote>
+[【SNSに...](https://twitter.com/pj_sekai/status/1879363837130166637)
 
 ---
 
@@ -3050,25 +3069,25 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
-
----
-
-**DATE**: 11/20（水） 12:09
-<br>
 [【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
 [【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+
+---
+
+**DATE**: 11/20（水） 12:09
+<br>
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -4094,25 +4113,25 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
-
----
-
-**DATE**: 10/21（月） 12:04
-<br>
 [『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
 [『Fuel...](https://twitter.com/pj_sekai/status/1848198527031414960)
+
+---
+
+**DATE**: 10/21（月） 12:04
+<br>
+[【燻る想い...](https://twitter.com/pj_sekai/status/1848198529132728591)
 
 ---
 
@@ -4219,25 +4238,5 @@
 [本日15時...](https://twitter.com/pj_sekai/status/1846070610851750373)
 <br>
 #モモジャン
-
----
-
-**DATE**: 10/14（月） 12:09
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1845663312429957412)
-
----
-
-**DATE**: 10/14（月） 12:09
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1845663244452868470)
-
----
-
-**DATE**: 10/14（月） 12:09
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1845663072062759235)
-<br>
-#セカイの4コマ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
