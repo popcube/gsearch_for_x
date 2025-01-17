@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/17 12:31
+### 最終更新：2025/01/17 12:48
 
 
 ---
@@ -14,6 +14,22 @@
 
 ---
 
+**DATE**: 01/17（金） 12:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880091915443740805"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/17（金） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880090114262724622"></a>
+</blockquote>
+
+---
+
 **DATE**: 01/17（金） 12:08
 <br>
 <blockquote class="twitter-tweet">
@@ -22,27 +38,33 @@
 
 ---
 
-**DATE**: 01/17（金） 12:04
+**DATE**: 01/17（金） 12:06
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1880088879958827510"></a>
+<a href="https://twitter.com/pj_sekai/status/1880089352384180282"></a>
 </blockquote>
+
+---
+
+**DATE**: 01/17（金） 12:04
+<br>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1880088879958827510)
 
 ---
 
 **DATE**: 01/16（木） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1879816571004280868"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1879816571004280868)
+<br>
+#劇場版プロセカ #劇場版プロセカ
 
 ---
 
 **DATE**: 01/16（木） 12:14
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1879728849644310965"></a>
-</blockquote>
+[1月17日...](https://twitter.com/pj_sekai/status/1879728849644310965)
+<br>
+#セカラジ
 
 ---
 
@@ -658,13 +680,13 @@
 
 **DATE**: 12/31（火） 12:13
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
+[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
 
 ---
 
 **DATE**: 12/31（火） 12:13
 <br>
-[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
+[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
 
 ---
 
@@ -694,13 +716,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
+[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
+[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
 
 ---
 
