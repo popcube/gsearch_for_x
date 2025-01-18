@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/17 21:21
+### 最終更新：2025/01/18 15:33
 
+
+---
+
+**DATE**: 01/18（土） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880497076368486652"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 01/17（金） 12:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1880092014014050374"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1880092014014050374)
+<br>
+#劇場版プロセカ #劇場版プロセカ
 
 ---
 
@@ -2296,13 +2304,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -4191,13 +4199,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
@@ -4302,19 +4310,5 @@
 **DATE**: 10/16（水） 11:50
 <br>
 [【お知らせ...](https://twitter.com/pj_sekai/status/1846383296156237876)
-
----
-
-**DATE**: 10/15（火） 15:08
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1846070678686245332)
-
----
-
-**DATE**: 10/15（火） 15:08
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1846070610851750373)
-<br>
-#モモジャン
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
