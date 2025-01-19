@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/19 21:51
+### 最終更新：2025/01/19 22:26
 
+
+---
+
+**DATE**: 01/19（日） 22:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880965279636922847"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/19（日） 22:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880965257734324398"></a>
+</blockquote>
 
 ---
 
@@ -14,15 +30,15 @@
 
 ---
 
+**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
+
+---
+
 **DATE**: 01/19（日） 21:00
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1880948321138655364"></a>
 </blockquote>
-
----
-
-**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
 
 ---
 
@@ -36,17 +52,17 @@
 
 **DATE**: 01/17（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1880223556287492505"></a>
-</blockquote>
+[1月31日...](https://twitter.com/pj_sekai/status/1880223556287492505)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 01/17（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1880208448551260209"></a>
-</blockquote>
+[📺WEBラ...](https://twitter.com/pj_sekai/status/1880208448551260209)
+<br>
+#セカラジ
 
 ---
 
@@ -2084,13 +2100,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -2393,13 +2409,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+**DATE**: 12/09（月） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
 
 ---
 
