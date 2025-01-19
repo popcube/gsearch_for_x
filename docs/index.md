@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/19 22:26
+### 最終更新：2025/01/20 04:15
 
+
+---
+
+**DATE**: 01/19（日） 22:36
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1880972636479733971"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 01/18（土） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1880497076368486652"></a>
-</blockquote>
+[劇場版限定...](https://twitter.com/pj_sekai/status/1880497076368486652)
 
 ---
 
@@ -2088,25 +2094,25 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
-
----
-
-**DATE**: 12/21（土） 12:01
-<br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
 [【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+
+---
+
+**DATE**: 12/21（土） 12:01
+<br>
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
@@ -4235,13 +4241,13 @@
 
 **DATE**: 10/21（月） 12:04
 <br>
-[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
+[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
 
 ---
 
 **DATE**: 10/21（月） 12:04
 <br>
-[【相応しく...](https://twitter.com/pj_sekai/status/1848198607276851313)
+[『Fuel...](https://twitter.com/pj_sekai/status/1848198605192212670)
 
 ---
 
@@ -4291,13 +4297,13 @@
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
+[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
 
 ---
 
 **DATE**: 10/19（土） 21:00
 <br>
-[本イベント...](https://twitter.com/pj_sekai/status/1847608781133533417)
+[本日22時...](https://twitter.com/pj_sekai/status/1847608779174793344)
 
 ---
 
@@ -4316,11 +4322,5 @@
 [🎮プロジェ...](https://twitter.com/pj_sekai/status/1847111176569958759)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 10/17（木） 18:32
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1846846790873883008)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
