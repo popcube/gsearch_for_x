@@ -1,48 +1,96 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/21 20:09
+### 最終更新：2025/01/21 20:34
 
+
+---
+
+**DATE**: 01/21（火） 20:24
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881664158716051658"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/21（火） 20:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881663978310709571"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/21（火） 20:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881663445118169554"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/21（火） 20:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881663165953716596"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/21（火） 20:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881663114648940545"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/21（火） 20:18
+<br>
+[ハチ楽曲追...](https://twitter.com/pj_sekai/status/1881662727124668494)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 01/21（火） 20:07
+<br>
+[🎨一緒につ...](https://twitter.com/pj_sekai/status/1881659817770795085)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 01/21（火） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881650576049725920"></a>
-</blockquote>
+[🌈プロセカ...](https://twitter.com/pj_sekai/status/1881650576049725920)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 01/21（火） 18:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881629930808840535"></a>
-</blockquote>
+[このあと1...](https://twitter.com/pj_sekai/status/1881629930808840535)
 
 ---
 
 **DATE**: 01/21（火） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881583787529871523"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1881583787529871523)
 
 ---
 
 **DATE**: 01/21（火） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881583697201385582"></a>
-</blockquote>
+[本日15時...](https://twitter.com/pj_sekai/status/1881583697201385582)
 
 ---
 
 **DATE**: 01/21（火） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881583371597578610"></a>
-</blockquote>
+[本日15:...](https://twitter.com/pj_sekai/status/1881583371597578610)
 
 ---
 
@@ -2200,13 +2248,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
@@ -3291,13 +3339,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -3735,13 +3783,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
