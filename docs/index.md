@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/21 15:41
+### 最終更新：2025/01/21 16:25
 
 
 ---
@@ -41,8 +41,14 @@
 **DATE**: 01/21（火） 12:04
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881538280346603539"></a>
+<a href="https://twitter.com/pj_sekai/status/1881538282829549889"></a>
 </blockquote>
+
+---
+
+**DATE**: 01/21（火） 12:04
+<br>
+[『Doll...](https://twitter.com/pj_sekai/status/1881538280346603539)
 
 ---
 
