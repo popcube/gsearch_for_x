@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/21 20:34
+### 最終更新：2025/01/21 20:48
 
+
+---
+
+**DATE**: 01/21（火） 20:41
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881668477347586496"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/21（火） 20:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1881668149323681884"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 01/21（火） 20:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881663165953716596"></a>
-</blockquote>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1881663165953716596)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 01/21（火） 20:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1881663114648940545"></a>
-</blockquote>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1881663114648940545)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -54,11 +70,51 @@
 
 ---
 
+**DATE**: 01/21（火） 20:17
+<br>
+[キズナラン...](https://twitter.com/pj_sekai/status/1881662355832205479)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 01/21（火） 20:16
+<br>
+[🏡マイセカ...](https://twitter.com/pj_sekai/status/1881662058355478911)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 01/21（火） 20:15
+<br>
+[🍫バレンタ...](https://twitter.com/pj_sekai/status/1881661849135116447)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 01/21（火） 20:14
+<br>
+[🍫バレンタ...](https://twitter.com/pj_sekai/status/1881661692398154201)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 01/21（火） 20:07
 <br>
 [🎨一緒につ...](https://twitter.com/pj_sekai/status/1881659817770795085)
 <br>
 #プロセカ放送局
+
+---
+
+**DATE**: 01/21（火） 20:05
+<br>
+[生放送中に...](https://twitter.com/pj_sekai/status/1881659327473488210)
+<br>
+#プロセカ放送局 #プロセカ放送局 #プロセカ放送局
 
 ---
 
@@ -2488,13 +2544,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -2557,13 +2613,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
-
----
-
 **DATE**: 12/09（月） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+
+---
+
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
@@ -2871,13 +2927,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
@@ -3339,25 +3395,25 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
-
----
-
-**DATE**: 11/20（水） 12:09
-<br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
 [【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
+
+---
+
+**DATE**: 11/20（水） 12:09
+<br>
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
@@ -3783,25 +3839,25 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
-
----
-
-**DATE**: 10/31（木） 12:06
-<br>
 [「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
 [【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+
+---
+
+**DATE**: 10/31（木） 12:06
+<br>
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
