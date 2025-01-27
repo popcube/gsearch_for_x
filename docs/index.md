@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/27 21:22
+### 最終更新：2025/01/27 21:56
 
+
+---
+
+**DATE**: 01/27（月） 20:53
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883845671683514822"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（月） 20:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883843368540852588"></a>
+</blockquote>
 
 ---
 
@@ -25,24 +41,32 @@
 **DATE**: 01/27（月） 20:41
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883842700308578401"></a>
+<a href="https://twitter.com/pj_sekai/status/1883842742754988126"></a>
 </blockquote>
+
+---
+
+**DATE**: 01/27（月） 20:41
+<br>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1883842700308578401)
+<br>
+#プロセカあんスタコラボ #プロセカあんスタ生放送
 
 ---
 
 **DATE**: 01/27（月） 20:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883841816816197655"></a>
-</blockquote>
+[2月8日（...](https://twitter.com/pj_sekai/status/1883841816816197655)
+<br>
+#プロセカあんスタコラボ #プロセカあんスタ生放送
 
 ---
 
 **DATE**: 01/27（月） 20:36
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883841425206559097"></a>
-</blockquote>
+[🌟コネクト...](https://twitter.com/pj_sekai/status/1883841425206559097)
+<br>
+#プロセカあんスタ生放送
 
 ---
 
@@ -75,6 +99,14 @@
 [#プロセカ...](https://twitter.com/pj_sekai/status/1883840249044066812)
 <br>
 #プロセカあんスタコラボ #あんスタ #プロセカあんスタ生放送
+
+---
+
+**DATE**: 01/27（月） 20:25
+<br>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1883838749567791382)
+<br>
+#プロセカあんスタ生放送
 
 ---
 
@@ -1588,13 +1620,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
 
 ---
 
@@ -4407,13 +4439,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
