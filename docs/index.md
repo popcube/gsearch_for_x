@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/27 22:19
+### 最終更新：2025/01/27 22:37
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1883845345312219583"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（月） 20:44
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883843558366654656"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 01/27（月） 20:42
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883843029603323995"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1883843029603323995)
+<br>
+#プロセカあんスタコラボ #プロセカあんスタ生放送
 
 ---
 
@@ -126,6 +134,14 @@
 
 ---
 
+**DATE**: 01/27（月） 20:19
+<br>
+[DI:Ve...](https://twitter.com/pj_sekai/status/1883837225936503016)
+<br>
+#プロセカあんスタ生放送
+
+---
+
 **DATE**: 01/27（月） 20:15
 <br>
 [#プロセカ...](https://twitter.com/pj_sekai/status/1883836243454329226)
@@ -155,6 +171,14 @@
 [#プロセカ...](https://twitter.com/pj_sekai/status/1883835474047086777)
 <br>
 #プロセカあんスタコラボ #プロセカあんスタ生放送
+
+---
+
+**DATE**: 01/27（月） 20:03
+<br>
+[生放送中に...](https://twitter.com/pj_sekai/status/1883833115166343437)
+<br>
+#プロセカあんスタ生放送 #プロセカあんスタ生放送 #プロセカあんスタ生放送
 
 ---
 
@@ -1628,13 +1652,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
