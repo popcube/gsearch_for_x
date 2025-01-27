@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/27 19:13
+### 最終更新：2025/01/27 20:34
 
+
+---
+
+**DATE**: 01/27（月） 20:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883836243454329226"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（月） 20:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883836162063954290"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（月） 20:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883835474047086777"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,23 @@
 
 **DATE**: 01/27（月） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883802588375835091"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1883802588375835091)
+<br>
+#劇場版プロセカ #ニーゴ
 
 ---
 
 **DATE**: 01/27（月） 17:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883791630521778190"></a>
-</blockquote>
+[先日投稿し...](https://twitter.com/pj_sekai/status/1883791630521778190)
 
 ---
 
 **DATE**: 01/27（月） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883714163165532519"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1883714163165532519)
+<br>
+#劇場版プロセカ #劇場版プロセカ
 
 ---
 
@@ -4285,13 +4307,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851823118832275788)
+[【MV撮影...](https://twitter.com/pj_sekai/status/1851823120631632332)
 
 ---
 
