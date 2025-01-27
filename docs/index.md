@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/27 18:13
+### 最終更新：2025/01/27 19:13
 
+
+---
+
+**DATE**: 01/27（月） 18:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883803395854831655"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（月） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883802689894822385"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（月） 18:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883802588375835091"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,23 @@
 
 **DATE**: 01/27（月） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883714066872709137"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1883714066872709137)
+<br>
+#劇場版プロセカ
 
 ---
 
 **DATE**: 01/27（月） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883713486133555482"></a>
-</blockquote>
+[本日20:...](https://twitter.com/pj_sekai/status/1883713486133555482)
 
 ---
 
 **DATE**: 01/27（月） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883713326376779847"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1883713326376779847)
+<br>
+#セカイの4コマ #朝比奈まふゆ誕生祭2025
 
 ---
 
