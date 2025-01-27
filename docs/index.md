@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/27 00:26
+### 最終更新：2025/01/27 12:13
 
+
+---
+
+**DATE**: 01/27（月） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1883713326376779847"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 01/25（土） 18:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883080289871942129"></a>
-</blockquote>
+[本日より、...](https://twitter.com/pj_sekai/status/1883080289871942129)
+<br>
+#劇場版プロセカ #ビビバス
 
 ---
 
@@ -2690,13 +2698,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -3781,13 +3789,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -4237,13 +4245,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
@@ -4474,11 +4482,5 @@
 [🎮プロジェ...](https://twitter.com/pj_sekai/status/1849648028933890555)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 10/24（木） 18:07
-<br>
-[📝アンケー...](https://twitter.com/pj_sekai/status/1849377180339560852)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
