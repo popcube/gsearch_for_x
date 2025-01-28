@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/28 04:16
+### 最終更新：2025/01/28 12:30
 
+
+---
+
+**DATE**: 01/28（火） 12:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1884078039732215921"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 01/27（月） 20:51
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1883845345312219583"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1883845345312219583)
+<br>
+#プロセカあんスタコラボ #プロセカあんスタコラボ広告 #プロセカあんスタ生放送
 
 ---
 
@@ -3008,25 +3016,25 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
-
----
-
-**DATE**: 12/21（土） 12:01
-<br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
 [『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+
+---
+
+**DATE**: 12/21（土） 12:01
+<br>
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -3329,13 +3337,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+**DATE**: 12/09（月） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
 
 ---
 
@@ -3643,13 +3651,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
@@ -4123,25 +4131,25 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
+[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【夢の中で...](https://twitter.com/pj_sekai/status/1859071447848939868)
-
----
-
-**DATE**: 11/20（水） 12:08
-<br>
-[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071445663694888)
 
 ---
 
 **DATE**: 11/20（水） 12:08
 <br>
 [「気高き争...](https://twitter.com/pj_sekai/status/1859071208131833971)
+
+---
+
+**DATE**: 11/20（水） 12:08
+<br>
+[【揺るぎな...](https://twitter.com/pj_sekai/status/1859071210006737290)
 
 ---
 
@@ -4567,13 +4575,13 @@
 
 **DATE**: 10/31（木） 12:06
 <br>
-[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
+[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
 
 ---
 
 **DATE**: 10/31（木） 12:06
 <br>
-[【普段とは...](https://twitter.com/pj_sekai/status/1851822993842016554)
+[「音楽が鳴...](https://twitter.com/pj_sekai/status/1851822991967150494)
 
 ---
 
@@ -4768,21 +4776,5 @@
 [㊗️本日1...](https://twitter.com/pj_sekai/status/1850190654309355730)
 <br>
 #望月穂波誕生祭2024
-
----
-
-**DATE**: 10/25（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1849782962973442092)
-<br>
-#セカラジ
-
----
-
-**DATE**: 10/25（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1849767876854436247)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
