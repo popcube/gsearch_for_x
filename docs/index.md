@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/01/30 12:31
+### 最終更新：2025/01/30 18:12
 
+
+---
+
+**DATE**: 01/30（木） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1884844972039692507"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 01/30（木） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1884617498403971562"></a>
-</blockquote>
+[㊗️本日1...](https://twitter.com/pj_sekai/status/1884617498403971562)
+<br>
+#巡音ルカ #巡音ルカ16th #巡音ルカ誕生祭2025
 
 ---
 
