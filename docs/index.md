@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/01 13:31
+### 最終更新：2025/02/01 15:35
 
+
+---
+
+**DATE**: 02/01（土） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1885569503041597668"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/01（土） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1885569457533444443"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 02/01（土） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1885523718455324887"></a>
-</blockquote>
+[2月1日0...](https://twitter.com/pj_sekai/status/1885523718455324887)
 
 ---
 
 **DATE**: 02/01（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1885523474900205644"></a>
-</blockquote>
+[今月の #...](https://twitter.com/pj_sekai/status/1885523474900205644)
+<br>
+#プロセカスケジュール
 
 ---
 
@@ -130,13 +144,13 @@
 
 **DATE**: 01/31（金） 12:06
 <br>
-[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
+[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
 
 ---
 
 **DATE**: 01/31（金） 12:06
 <br>
-[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
+[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
 
 ---
 
