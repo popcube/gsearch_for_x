@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/03 19:32
+### 最終更新：2025/02/03 21:55
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1886353949256782064"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/03（月） 18:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1886342069893165086"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 02/02（日） 18:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1885977344177008820"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1885977344177008820)
+<br>
+#劇場版プロセカ #ワンダショ
 
 ---
 
@@ -2186,13 +2194,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
 
 ---
 
@@ -3446,25 +3454,25 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
-
----
-
-**DATE**: 12/21（土） 12:01
-<br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
 [『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+
+---
+
+**DATE**: 12/21（土） 12:01
+<br>
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -4944,19 +4952,5 @@
 [👗一緒につ...](https://twitter.com/pj_sekai/status/1852269140893167925)
 <br>
 #プロセカ衣装デザイン
-
----
-
-**DATE**: 11/01（金） 12:01
-<br>
-[今月の #...](https://twitter.com/pj_sekai/status/1852184034924732820)
-<br>
-#プロセカスケジュール
-
----
-
-**DATE**: 11/01（金） 12:00
-<br>
-[11月1日...](https://twitter.com/pj_sekai/status/1852183790816317748)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
