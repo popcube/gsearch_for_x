@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/06 18:28
+### 最終更新：2025/02/06 18:38
 
+
+---
+
+**DATE**: 02/06（木） 18:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1887429308479905833"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/06（木） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1887426011408609513"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 02/05（水） 19:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1887079739644629267"></a>
-</blockquote>
+[『SToR...](https://twitter.com/pj_sekai/status/1887079739644629267)
+<br>
+#劇場版プロセカ
 
 ---
 
 **DATE**: 02/05（水） 19:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1887079577916469647"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1887079577916469647)
+<br>
+#劇場版プロセカ #レオニ
 
 ---
 
@@ -1464,13 +1480,13 @@
 
 ---
 
-**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
-
----
-
 **DATE**: 01/19（日） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1880948321138655364)
+
+---
+
+**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
 
 ---
 
