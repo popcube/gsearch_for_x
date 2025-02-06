@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/05 19:32
+### 最終更新：2025/02/06 15:43
 
+
+---
+
+**DATE**: 02/06（木） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1887335913128345820"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/06（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1887335880727404690"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 02/04（火） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1886701236256461273"></a>
-</blockquote>
+[2月11日...](https://twitter.com/pj_sekai/status/1886701236256461273)
+<br>
+#にじプロセカ部 #にじプロセカ部来て #マイセカイ #にじプロセカ部
 
 ---
 
 **DATE**: 02/04（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1886610635590656158"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1886610635590656158)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
@@ -2222,13 +2238,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
+[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
+[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
 
 ---
 
@@ -3494,13 +3510,13 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
@@ -4597,13 +4613,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
@@ -4964,17 +4980,5 @@
 [㊗️本日1...](https://twitter.com/pj_sekai/status/1853452140335001889)
 <br>
 #MEIKO #MEIKO20th #MEIKO誕生祭2024
-
----
-
-**DATE**: 11/03（日） 15:10
-<br>
-[11月5日...](https://twitter.com/pj_sekai/status/1852956399439114287)
-
----
-
-**DATE**: 11/03（日） 15:09
-<br>
-[🎤MEIK...](https://twitter.com/pj_sekai/status/1852956369827381641)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
