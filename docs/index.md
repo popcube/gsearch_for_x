@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/06 20:10
+### 最終更新：2025/02/07 12:40
 
+
+---
+
+**DATE**: 02/07（金） 11:36
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1887691893372497991"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/07（金） 11:36
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1887691882744193131"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 02/06（木） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1887382422813352048"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1887382422813352048)
+<br>
+#プロセカあんスタコラボ #あんスタ
 
 ---
 
 **DATE**: 02/06（木） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1887335913128345820"></a>
-</blockquote>
+[#劇場版プ...](https://twitter.com/pj_sekai/status/1887335913128345820)
+<br>
+#劇場版プロセカ #劇場版プロセカ
 
 ---
 
@@ -4645,13 +4661,13 @@
 
 **DATE**: 11/20（水） 12:09
 <br>
-[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
+[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
 
 ---
 
 **DATE**: 11/20（水） 12:09
 <br>
-[【エール☆...](https://twitter.com/pj_sekai/status/1859071649813049741)
+[「気高き争...](https://twitter.com/pj_sekai/status/1859071647745220968)
 
 ---
 
@@ -4996,21 +5012,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1853634596753285490)
 <br>
 #セカイの4コマ #MEIKO #MEIKO20th #MEIKO誕生祭2024
-
----
-
-**DATE**: 11/05（火） 00:01
-<br>
-[🎤MEIK...](https://twitter.com/pj_sekai/status/1853452392915742965)
-<br>
-#MEIKO #MEIKO20th #MEIKO誕生祭2024
-
----
-
-**DATE**: 11/05（火） 00:00
-<br>
-[㊗️本日1...](https://twitter.com/pj_sekai/status/1853452140335001889)
-<br>
-#MEIKO #MEIKO20th #MEIKO誕生祭2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
