@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/07 14:30
+### 最終更新：2025/02/08 12:30
 
+
+---
+
+**DATE**: 02/08（土） 11:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1888045082500014289"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 02/06（木） 18:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1887429308479905833"></a>
-</blockquote>
+[本日より、...](https://twitter.com/pj_sekai/status/1887429308479905833)
+<br>
+#劇場版プロセカ #レオニ
 
 ---
 
@@ -3578,13 +3586,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
@@ -3887,13 +3895,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
-
----
-
 **DATE**: 12/09（月） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+
+---
+
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
@@ -4201,13 +4209,13 @@
 
 **DATE**: 11/30（土） 12:02
 <br>
-[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
+[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
 
 ---
 
 **DATE**: 11/30（土） 12:02
 <br>
-[【傷だらけ...](https://twitter.com/pj_sekai/status/1862693603413565642)
+[『That...](https://twitter.com/pj_sekai/status/1862693601224110516)
 
 ---
 
@@ -4998,27 +5006,5 @@
 [11月8日...](https://twitter.com/pj_sekai/status/1854360359920079350)
 <br>
 #セカラジ
-
----
-
-**DATE**: 11/05（火） 15:05
-<br>
-[追加楽曲紹...](https://twitter.com/pj_sekai/status/1853679966355141089)
-
----
-
-**DATE**: 11/05（火） 15:05
-<br>
-[本日15時...](https://twitter.com/pj_sekai/status/1853679934243541262)
-<br>
-#モモジャン
-
----
-
-**DATE**: 11/05（火） 12:05
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1853634596753285490)
-<br>
-#セカイの4コマ #MEIKO #MEIKO20th #MEIKO誕生祭2024
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
