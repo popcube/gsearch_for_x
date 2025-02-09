@@ -3,6 +3,7 @@ import requests
 # from datetime import datetime
 from functools import partial
 import sys
+import re
 
 pd.options.mode.copy_on_write = True
 
@@ -28,6 +29,13 @@ def unit_name_convert(in_str):
 def make_date_str(in_str, hour):
     datetime_str = in_str.split("*")[0].strip()
     return pd.to_datetime(datetime_str + f"T{hour}",  format="%Y/%m/%dT%H")
+
+def read_date_str(in_str):
+    weekday_start_idx = re.search("\(|（", in_str).start()
+    weekday_end_idx = re.search("\)|）", in_str).start()
+    datetime_str = in_str[:weekday_start_idx] + in_str[weekday_end_idx+1:]
+    
+    return pd.to_datetime(datetime_str, format="%Y/%m/%d %H時%M分")
 
 def date_convert(in_df, start=False, end=False):
     # res_sr = pd.Series(index = in_df.index)
@@ -106,8 +114,7 @@ def get_stream_table():
             a_temp = a_temp.drop_duplicates(ignore_index=True)
 
             # convert Japanese datetime string to datetime object
-            a_temp["配信日時"] = a_temp["配信日時"].apply(
-                lambda x: pd.to_datetime(x[:x.index("(")] + x[x.index(")")+1:], format="%Y/%m/%d %H時%M分"))
+            a_temp["配信日時"] = a_temp["配信日時"].apply(read_date_str)
             a_temp.loc[:, "No"] = a_temp["No"].apply(lambda x: "プロセカ放送局 " + x)
 
             # Be careful that No column includes the description of the stream
