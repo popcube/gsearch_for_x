@@ -7,7 +7,7 @@ import csv
 from time import sleep
 from googleapiclient.discovery import build
 
-from make_index_md_3 import main as make_index_md
+from make_index_md_3_test import main as make_index_md
 from send_to_discord import main as send_to_discord
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
