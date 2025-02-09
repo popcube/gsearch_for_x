@@ -31,8 +31,8 @@ def make_date_str(in_str, hour):
     return pd.to_datetime(datetime_str + f"T{hour}",  format="%Y/%m/%dT%H")
 
 def read_date_str(in_str):
-    weekday_start_idx = re.search("\(|（", in_str).start()
-    weekday_end_idx = re.search("\)|）", in_str).start()
+    weekday_start_idx = re.search(r"\(|（", in_str).start()
+    weekday_end_idx = re.search(r"\)|）", in_str).start()
     datetime_str = in_str[:weekday_start_idx] + in_str[weekday_end_idx+1:]
     
     return pd.to_datetime(datetime_str, format="%Y/%m/%d %H時%M分")
