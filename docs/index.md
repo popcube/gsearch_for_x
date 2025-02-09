@@ -1,48 +1,110 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/08 16:10
+### 最終更新：2025/02/09 16:48
 
+
+---
+
+**DATE**: 02/09（日） 15:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1888468055480803678"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/09（日） 11:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1888407472580468883"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/09（日） 00:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1888244134554865866"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/09（日） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1888241382088741114"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/08（土） 21:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1888200342979879265"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/08（土） 21:14
+<br>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1888199666204025288)
+<br>
+#プロセカあんスタコラボ #あんスタ
+
+---
+
+**DATE**: 02/08（土） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1888196084230496281)
+
+---
+
+**DATE**: 02/08（土） 21:00 イベント「**このひと針に想いを込めて**」 終了
+
+---
+
+**DATE**: 02/08（土） 20:00
+<br>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1888180988532166792)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 02/08（土） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1888105731616059672"></a>
-</blockquote>
+[2月10日...](https://twitter.com/pj_sekai/status/1888105731616059672)
 
 ---
 
 **DATE**: 02/08（土） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1888105483589824864"></a>
-</blockquote>
+[🎧宵崎奏 ...](https://twitter.com/pj_sekai/status/1888105483589824864)
 
 ---
 
 **DATE**: 02/08（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1888060183496245682"></a>
-</blockquote>
+[本日20:...](https://twitter.com/pj_sekai/status/1888060183496245682)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 02/08（土） 11:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1888045633736753172"></a>
-</blockquote>
+[❄SNOW...](https://twitter.com/pj_sekai/status/1888045633736753172)
+<br>
+#雪ミク2025 #雪ミク
 
 ---
 
 **DATE**: 02/08（土） 11:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1888045082500014289"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1888045082500014289)
+<br>
+#プロセカあんスタコラボ #あんスタ
 
 ---
 
@@ -392,13 +454,13 @@
 
 **DATE**: 01/31（金） 12:06
 <br>
-[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
+[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
 
 ---
 
 **DATE**: 01/31（金） 12:06
 <br>
-[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
+[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
 
 ---
 
@@ -1426,6 +1488,10 @@
 
 ---
 
+**DATE**: 01/21（火） 19:30 「**プロセカ放送局 第16回**」 放送開始
+
+---
+
 **DATE**: 01/21（火） 18:08
 <br>
 [このあと1...](https://twitter.com/pj_sekai/status/1881629930808840535)
@@ -2294,13 +2360,13 @@
 
 **DATE**: 12/31（火） 12:13
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
+[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
 
 ---
 
 **DATE**: 12/31（火） 12:13
 <br>
-[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
+[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
 
 ---
 
@@ -2318,13 +2384,13 @@
 
 **DATE**: 12/31（火） 12:08
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
+[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
 
 ---
 
 **DATE**: 12/31（火） 12:08
 <br>
-[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
+[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
 
 ---
 
@@ -2342,13 +2408,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
@@ -3460,6 +3526,10 @@
 
 ---
 
+**DATE**: 12/26（木） 19:00 「**プロセカ放送局 年末大特番**」 放送開始
+
+---
+
 **DATE**: 12/26（木） 18:00
 <br>
 [このあと1...](https://twitter.com/pj_sekai/status/1872205725096939938)
@@ -4564,6 +4634,10 @@
 [🌈プロセカ...](https://twitter.com/pj_sekai/status/1861356853726454026)
 <br>
 #プロセカ放送局
+
+---
+
+**DATE**: 11/26（火） 19:30 「**プロセカ放送局 第14回**」 放送開始
 
 ---
 
