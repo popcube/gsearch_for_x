@@ -92,8 +92,8 @@ def main():
   stream_table = stream_table[["配信日時", "No"]]
   stream_table["No"] = stream_table["No"].apply(lambda x: " 「**" + x + "**」 放送開始")
   
-  print(stream_table.apply(decorate_supplement, axis='columns'))
-  sys.exit(0)
+  # print(stream_table.apply(decorate_supplement, axis='columns'))
+  # sys.exit(0)
   stream_table["text"] = stream_table.apply(decorate_supplement, axis='columns')
   stream_table.set_index("配信日時", inplace=True)
   
