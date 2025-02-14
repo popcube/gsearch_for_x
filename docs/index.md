@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/14 17:39
+### 最終更新：2025/02/14 18:28
 
+
+---
+
+**DATE**: 02/14（金） 18:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1890327092727824663"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/14（金） 18:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1890326653051764881"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +26,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1890310760724574400"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/14（金） 15:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1890280059455303723"></a>
 </blockquote>
 
 ---
@@ -24,25 +48,25 @@
 
 **DATE**: 02/14（金） 12:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1890242993074106739"></a>
-</blockquote>
+[【#プロセ...](https://twitter.com/pj_sekai/status/1890242993074106739)
+<br>
+#プロセカあんスタコラボ広告
 
 ---
 
 **DATE**: 02/14（金） 12:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1890242989722857986"></a>
-</blockquote>
+[㊗️ #プ...](https://twitter.com/pj_sekai/status/1890242989722857986)
+<br>
+#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
 
 ---
 
 **DATE**: 02/14（金） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1890237170381910305"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1890237170381910305)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
@@ -311,13 +335,13 @@
 
 **DATE**: 02/10（月） 12:02
 <br>
-[「Stay...](https://twitter.com/pj_sekai/status/1888785502436049004)
+[【真剣会議...](https://twitter.com/pj_sekai/status/1888785504675701204)
 
 ---
 
 **DATE**: 02/10（月） 12:02
 <br>
-[【真剣会議...](https://twitter.com/pj_sekai/status/1888785504675701204)
+[「Stay...](https://twitter.com/pj_sekai/status/1888785502436049004)
 
 ---
 
