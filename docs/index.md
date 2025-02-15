@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/14 21:55
+### 最終更新：2025/02/15 15:15
 
+
+---
+
+**DATE**: 02/15（土） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1890642822631391368"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/15（土） 15:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1890642307143077984"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/15（土） 15:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1890642292240781745"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,25 @@
 
 **DATE**: 02/14（金） 18:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1890327092727824663"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1890327092727824663)
+<br>
+#プロセカあんスタコラボ #あんスタ #コラボコネライ
 
 ---
 
 **DATE**: 02/14（金） 18:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1890326653051764881"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1890326653051764881)
+<br>
+#プロセカあんスタコラボ #あんスタ
 
 ---
 
 **DATE**: 02/14（金） 17:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1890310760724574400"></a>
-</blockquote>
+[先日投稿し...](https://twitter.com/pj_sekai/status/1890310760724574400)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
@@ -323,17 +347,17 @@
 
 **DATE**: 02/10（月） 12:48
 <br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1888797190702920037)
+[【#プロセ...](https://twitter.com/pj_sekai/status/1888797193257234723)
 <br>
-#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
+#プロセカあんスタコラボ広告
 
 ---
 
 **DATE**: 02/10（月） 12:48
 <br>
-[【#プロセ...](https://twitter.com/pj_sekai/status/1888797193257234723)
+[#プロセカ...](https://twitter.com/pj_sekai/status/1888797190702920037)
 <br>
-#プロセカあんスタコラボ広告
+#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
 
 ---
 
@@ -4101,13 +4125,13 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
